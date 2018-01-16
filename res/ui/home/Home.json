@@ -1,0 +1,2026 @@
+{
+  "ID": "b07a1c04-ff2f-44a0-b4d5-dcca0b44fc30",
+  "Version": "2.3.4",
+  "Name": "Home",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 146,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/login/bg.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 1250,
+            "Scale9Height": 690,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 224,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/hall/hall_title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 448.0,
+                  "Y": 738.216
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.35,
+                  "Y": 1.0253
+                },
+                "PreSize": {
+                  "X": 0.2992,
+                  "Y": 0.2153
+                },
+                "LeftMargin": 256.5,
+                "RightMargin": 640.5,
+                "TopMargin": -18.216,
+                "BottomMargin": 583.216,
+                "Tag": 129,
+                "ActionTag": -1798258350,
+                "Size": {
+                  "X": 383.0,
+                  "Y": 155.0
+                },
+                "Name": "hall_title_41",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 1280.0,
+                "TopMargin": 720.0,
+                "Tag": 42,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/roomcreate_huzi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 594.9969,
+                      "Y": 318.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 424.9969,
+                    "RightMargin": -764.9969,
+                    "TopMargin": -538.4998,
+                    "BottomMargin": 99.4998,
+                    "Tag": 125,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/hall/title_roomcreate_huzi.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 160.3105,
+                          "Y": 75.1219
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4715,
+                          "Y": 0.1711
+                        },
+                        "PreSize": {
+                          "X": 0.7588,
+                          "Y": 0.303
+                        },
+                        "LeftMargin": 31.3105,
+                        "RightMargin": 50.6895,
+                        "TopMargin": 297.3781,
+                        "BottomMargin": 8.6219,
+                        "Tag": 158,
+                        "ActionTag": 1019072044,
+                        "Size": {
+                          "X": 258.0,
+                          "Y": 133.0
+                        },
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1984205575,
+                    "Size": {
+                      "X": 340.0,
+                      "Y": 439.0
+                    },
+                    "Name": "btn_createroom_huzi",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/roomcreate_niuniu.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 994.9976,
+                      "Y": 329.9996
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 812.9976,
+                    "RightMargin": -1176.9976,
+                    "TopMargin": -560.4996,
+                    "BottomMargin": 99.4996,
+                    "Tag": 1674,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/hall/title_roomcreate_niuniu.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 158.9451,
+                          "Y": 76.1216
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4367,
+                          "Y": 0.1651
+                        },
+                        "PreSize": {
+                          "X": 0.5769,
+                          "Y": 0.2928
+                        },
+                        "LeftMargin": 53.9451,
+                        "RightMargin": 100.0549,
+                        "TopMargin": 317.3784,
+                        "BottomMargin": 8.6216,
+                        "Tag": 159,
+                        "ActionTag": 2010068649,
+                        "Size": {
+                          "X": 210.0,
+                          "Y": 135.0
+                        },
+                        "Name": "title",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 546344929,
+                    "Size": {
+                      "X": 364.0,
+                      "Y": 461.0
+                    },
+                    "Name": "btn_createroom_niuniu",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/joinbg.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 100,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 122,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": -1240.0,
+                    "TopMargin": -53.0,
+                    "Tag": 1678,
+                    "ActionTag": 935547434,
+                    "Size": {
+                      "X": 1200.0,
+                      "Y": 53.0
+                    },
+                    "Name": "bg_joinroom",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/join.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1196.0,
+                      "Y": 89.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1112.0,
+                    "RightMargin": -1280.0,
+                    "TopMargin": -179.0,
+                    "Tag": 126,
+                    "ActionTag": -830538609,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 179.0
+                    },
+                    "Name": "btn_joinroom",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/hall_yikai.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1066.7975,
+                      "Y": 60.6169
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1011.2975,
+                    "RightMargin": -1122.2975,
+                    "TopMargin": -92.6169,
+                    "BottomMargin": 28.6169,
+                    "Tag": 181,
+                    "ActionTag": -1307437567,
+                    "Size": {
+                      "X": 111.0,
+                      "Y": 64.0
+                    },
+                    "Name": "btn_yikai",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/hall_daikai.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 938.728,
+                      "Y": 62.1169
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 875.228,
+                    "RightMargin": -1002.228,
+                    "TopMargin": -95.6169,
+                    "BottomMargin": 28.6169,
+                    "Tag": 180,
+                    "ActionTag": 2135044819,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 67.0
+                    },
+                    "Name": "btn_daikai",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -444527038,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "nMain",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1280.0,
+                "BottomMargin": 720.0,
+                "Tag": 35,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_share.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -885.4384,
+                      "Y": -653.5857
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -943.9384,
+                    "RightMargin": 826.9384,
+                    "TopMargin": 621.5857,
+                    "BottomMargin": -685.5857,
+                    "Tag": 1677,
+                    "ActionTag": -242724493,
+                    "Size": {
+                      "X": 117.0,
+                      "Y": 64.0
+                    },
+                    "Name": "btn_share",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_shop.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -1040.323,
+                      "Y": -653.0885
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -1155.823,
+                    "RightMargin": 924.823,
+                    "TopMargin": 577.0885,
+                    "BottomMargin": -729.0885,
+                    "Tag": 112,
+                    "ActionTag": -412581982,
+                    "Size": {
+                      "X": 231.0,
+                      "Y": 152.0
+                    },
+                    "Name": "btn_iap",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_sz.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -183.1395,
+                      "Y": -62.5676
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -240.6395,
+                    "RightMargin": 125.6395,
+                    "TopMargin": 8.5676,
+                    "BottomMargin": -116.5676,
+                    "Tag": 113,
+                    "ActionTag": -1455410194,
+                    "Size": {
+                      "X": 115.0,
+                      "Y": 108.0
+                    },
+                    "Name": "btn_sz",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_xinxi.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -538.0585,
+                      "Y": -62.5676
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -595.5585,
+                    "RightMargin": 480.5585,
+                    "TopMargin": 8.5676,
+                    "BottomMargin": -116.5676,
+                    "Tag": 114,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/hall/message_numbg.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 29.7807,
+                          "Y": 57.348
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.259,
+                          "Y": 0.531
+                        },
+                        "PreSize": {
+                          "X": 0.7652,
+                          "Y": 0.8148
+                        },
+                        "LeftMargin": -14.2193,
+                        "RightMargin": 41.2193,
+                        "TopMargin": 6.652,
+                        "BottomMargin": 13.348,
+                        "Tag": 4139,
+                        "ActionTag": 1047573949,
+                        "Size": {
+                          "X": 88.0,
+                          "Y": 88.0
+                        },
+                        "Name": "message_numbg",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 28,
+                        "LabelText": "00",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "image/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 9.2129,
+                          "Y": 78.6034
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0801,
+                          "Y": 0.7278
+                        },
+                        "PreSize": {
+                          "X": 0.287,
+                          "Y": 0.2963
+                        },
+                        "LeftMargin": -7.2871,
+                        "RightMargin": 89.2871,
+                        "TopMargin": 13.3966,
+                        "BottomMargin": 62.6034,
+                        "Tag": 4098,
+                        "ActionTag": -1139394924,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 32.0
+                        },
+                        "Name": "messagenum",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1295831779,
+                    "Size": {
+                      "X": 115.0,
+                      "Y": 108.0
+                    },
+                    "Name": "btn_msg",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_zj.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -301.4458,
+                      "Y": -62.5676
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -358.9458,
+                    "RightMargin": 243.9458,
+                    "TopMargin": 8.5676,
+                    "BottomMargin": -116.5676,
+                    "Tag": 115,
+                    "ActionTag": 127778937,
+                    "Size": {
+                      "X": 115.0,
+                      "Y": 108.0
+                    },
+                    "Name": "btn_zj",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_dc.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -64.8329,
+                      "Y": -62.5676
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -122.3329,
+                    "RightMargin": 7.3329,
+                    "TopMargin": 8.5676,
+                    "BottomMargin": -116.5676,
+                    "Tag": 1679,
+                    "ActionTag": 669424423,
+                    "Size": {
+                      "X": 115.0,
+                      "Y": 108.0
+                    },
+                    "Name": "btn_dc",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/icon_fw.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -419.7537,
+                      "Y": -62.5676
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -477.2537,
+                    "RightMargin": 362.2537,
+                    "TopMargin": 8.5676,
+                    "BottomMargin": -116.5676,
+                    "Tag": 116,
+                    "ActionTag": 1595509189,
+                    "Size": {
+                      "X": 115.0,
+                      "Y": 108.0
+                    },
+                    "Name": "btn_wf",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 858305101,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "nBTN",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 715.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.9931
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 1280.0,
+                "TopMargin": 5.0,
+                "BottomMargin": 715.0,
+                "Tag": 43,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/roomcard.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 37,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.0,
+                      "Y": -40.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": -232.0,
+                    "TopMargin": 3.5,
+                    "BottomMargin": -76.5,
+                    "Tag": 4347,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/head/transparent_72x72.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 15.0,
+                          "Y": 36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0735,
+                          "Y": 0.4932
+                        },
+                        "PreSize": {
+                          "X": 0.3235,
+                          "Y": 0.9041
+                        },
+                        "LeftMargin": -18.0,
+                        "RightMargin": 156.0,
+                        "TopMargin": 4.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 284,
+                        "ActionTag": -1079723558,
+                        "Size": {
+                          "X": 66.0,
+                          "Y": 66.0
+                        },
+                        "Name": "head",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/head/head_72x72.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 15.0,
+                          "Y": 35.9998
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0735,
+                          "Y": 0.4931
+                        },
+                        "PreSize": {
+                          "X": 0.3529,
+                          "Y": 0.9863
+                        },
+                        "LeftMargin": -21.0,
+                        "RightMargin": 153.0,
+                        "TopMargin": 1.0002,
+                        "BottomMargin": -0.0002,
+                        "Tag": 44,
+                        "ActionTag": -162055151,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "head_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "ID：88888888",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "image/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 55.0,
+                          "Y": 21.9473
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2696,
+                          "Y": 0.3006
+                        },
+                        "PreSize": {
+                          "X": 0.6814,
+                          "Y": 0.3699
+                        },
+                        "LeftMargin": 55.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 37.5527,
+                        "BottomMargin": 8.4473,
+                        "Tag": 179,
+                        "ActionTag": -283893048,
+                        "Size": {
+                          "X": 139.0,
+                          "Y": 27.0
+                        },
+                        "Name": "txtID",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "丫丫株洲玩家...",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "image/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 55.0,
+                          "Y": 46.4373
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2696,
+                          "Y": 0.6361
+                        },
+                        "PreSize": {
+                          "X": 0.7451,
+                          "Y": 0.3699
+                        },
+                        "LeftMargin": 55.0,
+                        "RightMargin": -3.0,
+                        "TopMargin": 13.0627,
+                        "BottomMargin": 32.9373,
+                        "Tag": 47,
+                        "ActionTag": -2051988036,
+                        "Size": {
+                          "X": 152.0,
+                          "Y": 27.0
+                        },
+                        "Name": "txtName",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -2147043310,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 73.0
+                    },
+                    "Name": "playerinfo",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/roomcard.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 120.0,
+                      "Y": -101.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 34.5,
+                    "RightMargin": -205.5,
+                    "TopMargin": 78.0,
+                    "BottomMargin": -124.0,
+                    "Tag": 45,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/hall/add.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 163.179,
+                          "Y": 24.007
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9543,
+                          "Y": 0.5219
+                        },
+                        "PreSize": {
+                          "X": 0.3041,
+                          "Y": 1.1304
+                        },
+                        "LeftMargin": 137.179,
+                        "RightMargin": -18.179,
+                        "TopMargin": -4.007,
+                        "BottomMargin": -1.993,
+                        "Tag": 46,
+                        "ActionTag": -953760022,
+                        "Size": {
+                          "X": 52.0,
+                          "Y": 52.0
+                        },
+                        "Name": "add_3",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FontSize": 28,
+                        "LabelText": "100000",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "image/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 85.5,
+                          "Y": 23.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5205,
+                          "Y": 0.7391
+                        },
+                        "LeftMargin": 41.0,
+                        "RightMargin": 41.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 48,
+                        "ActionTag": 1719747266,
+                        "Size": {
+                          "X": 89.0,
+                          "Y": 34.0
+                        },
+                        "Name": "txtCount",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/room2/fangka_bg.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 7.6073,
+                          "Y": 23.2473
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0445,
+                          "Y": 0.5054
+                        },
+                        "PreSize": {
+                          "X": 0.3801,
+                          "Y": 0.913
+                        },
+                        "LeftMargin": -24.8927,
+                        "RightMargin": 130.8927,
+                        "TopMargin": 1.7527,
+                        "BottomMargin": 2.2473,
+                        "Tag": 178,
+                        "ActionTag": -708164259,
+                        "Size": {
+                          "X": 65.0,
+                          "Y": 42.0
+                        },
+                        "Name": "hall_card_3",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1135549705,
+                    "Size": {
+                      "X": 171.0,
+                      "Y": 46.0
+                    },
+                    "Name": "roomcard",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 314354714,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "nInfo",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 248.0,
+                  "Y": 515.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1937,
+                  "Y": 0.7153
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1111
+                },
+                "LeftMargin": 248.0,
+                "RightMargin": -248.0,
+                "TopMargin": 125.0,
+                "BottomMargin": 515.0,
+                "Tag": 56,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/bg_gg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 37,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 550.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4297,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.7031,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": 100.0,
+                    "RightMargin": 280.0,
+                    "BottomMargin": 40.0,
+                    "Tag": 177,
+                    "ActionTag": 636773629,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 40.0
+                    },
+                    "Name": "bg_gg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ClipAble": true,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 222.3877,
+                      "Y": 38.5862
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1737,
+                      "Y": 0.4823
+                    },
+                    "PreSize": {
+                      "X": 0.5781,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": 222.3877,
+                    "RightMargin": 317.6123,
+                    "TopMargin": 1.4138,
+                    "BottomMargin": 38.5862,
+                    "Tag": 97,
+                    "ActionTag": -2106360144,
+                    "Size": {
+                      "X": 740.0,
+                      "Y": 40.0
+                    },
+                    "Name": "speakepanel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1290867466,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 80.0
+                },
+                "Alpha": 244,
+                "Name": "speaker",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -19823566,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "image/ui/hall/btn_yaoqing.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "image/ui/hall/btn_yaoqing.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "image/ui/hall/btn_yaoqing.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 47,
+            "Scale9Height": 56,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 395.6894,
+              "Y": 466.1418
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3091,
+              "Y": 0.6474
+            },
+            "PreSize": {
+              "X": 0.0602,
+              "Y": 0.1083
+            },
+            "LeftMargin": 357.1894,
+            "RightMargin": 845.8106,
+            "TopMargin": 214.8582,
+            "BottomMargin": 427.1418,
+            "Tag": 54,
+            "ActionTag": 2103095955,
+            "Size": {
+              "X": 77.0,
+              "Y": 78.0
+            },
+            "Name": "btn_yaoqing",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/Verified/icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 651.7601,
+              "Y": 63.4144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5092,
+              "Y": 0.0881
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0806
+            },
+            "LeftMargin": 585.7601,
+            "RightMargin": 562.2399,
+            "TopMargin": 627.5856,
+            "BottomMargin": 34.4144,
+            "Tag": 106,
+            "ActionTag": -1750649015,
+            "Size": {
+              "X": 132.0,
+              "Y": 58.0
+            },
+            "Name": "btn_verify",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/btn_lottery.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 250.3896,
+              "Y": 497.643
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1956,
+              "Y": 0.6912
+            },
+            "PreSize": {
+              "X": 0.1312,
+              "Y": 0.1958
+            },
+            "LeftMargin": 166.3896,
+            "RightMargin": 945.6104,
+            "TopMargin": 151.857,
+            "BottomMargin": 427.143,
+            "Tag": 78,
+            "ActionTag": 624127737,
+            "Size": {
+              "X": 168.0,
+              "Y": 141.0
+            },
+            "Name": "lottery",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/wxshop/yaoqingma2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 519.4109,
+              "Y": 68.4144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4058,
+              "Y": 0.095
+            },
+            "PreSize": {
+              "X": 0.0984,
+              "Y": 0.0944
+            },
+            "LeftMargin": 456.4109,
+            "RightMargin": 697.5891,
+            "TopMargin": 617.5856,
+            "BottomMargin": 34.4144,
+            "Tag": 465,
+            "ActionTag": -213999568,
+            "Size": {
+              "X": 126.0,
+              "Y": 68.0
+            },
+            "Name": "binding",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "正在加入房间请等待.......20秒",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 624.0,
+              "Y": 559.08
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4875,
+              "Y": 0.7765
+            },
+            "PreSize": {
+              "X": 0.3063,
+              "Y": 0.0472
+            },
+            "LeftMargin": 428.0,
+            "RightMargin": 460.0,
+            "TopMargin": 143.92,
+            "BottomMargin": 542.08,
+            "Tag": 44,
+            "ActionTag": 1552531053,
+            "Size": {
+              "X": 392.0,
+              "Y": 34.0
+            },
+            "VisibleForFrame": false,
+            "Name": "joinRommTime",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/room2/shoprow1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 133.1475,
+              "Y": 65.4318
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.104,
+              "Y": 0.0909
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0944
+            },
+            "LeftMargin": 110.1475,
+            "RightMargin": 1123.8525,
+            "TopMargin": 620.5682,
+            "BottomMargin": 31.4318,
+            "Tag": 57,
+            "ActionTag": -980766343,
+            "Size": {
+              "X": 46.0,
+              "Y": 68.0
+            },
+            "Name": "shoprow1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/room2/shoprow2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 104.0243,
+              "Y": 65.4318
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0813,
+              "Y": 0.0909
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0944
+            },
+            "LeftMargin": 81.0243,
+            "RightMargin": 1152.9757,
+            "TopMargin": 620.5682,
+            "BottomMargin": 31.4318,
+            "Tag": 58,
+            "ActionTag": 1674758219,
+            "Size": {
+              "X": 46.0,
+              "Y": 68.0
+            },
+            "Name": "shoprow2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/room2/shoprow3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 75.9006,
+              "Y": 65.4317
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0593,
+              "Y": 0.0909
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0944
+            },
+            "LeftMargin": 52.9006,
+            "RightMargin": 1181.0994,
+            "TopMargin": 620.5683,
+            "BottomMargin": 31.4317,
+            "Tag": 59,
+            "ActionTag": 602162093,
+            "Size": {
+              "X": 46.0,
+              "Y": 68.0
+            },
+            "Name": "shoprow3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../image/fonts/FZZY.TTF",
+        "../../image/ui/activity/duanwu/btn_lottery.png",
+        "../../image/ui/hall/add.png",
+        "../../image/ui/hall/bg_gg.png",
+        "../../image/ui/hall/btn_yaoqing.png",
+        "../../image/ui/hall/hall_daikai.png",
+        "../../image/ui/hall/hall_title.png",
+        "../../image/ui/hall/hall_yikai.png",
+        "../../image/ui/hall/join.png",
+        "../../image/ui/hall/joinbg.png",
+        "../../image/ui/hall/message_numbg.png",
+        "../../image/ui/hall/roomcard.png",
+        "../../image/ui/hall/roomcreate_huzi.png",
+        "../../image/ui/hall/roomcreate_niuniu.png",
+        "../../image/ui/hall/title_roomcreate_huzi.png",
+        "../../image/ui/hall/title_roomcreate_niuniu.png",
+        "../../image/ui/head/head_72x72.png",
+        "../../image/ui/head/transparent_72x72.png",
+        "../../image/ui/login/bg.jpg",
+        "../../image/ui/room2/fangka_bg.png",
+        "../../image/ui/room2/icon_dc.png",
+        "../../image/ui/room2/icon_fw.png",
+        "../../image/ui/room2/icon_share.png",
+        "../../image/ui/room2/icon_shop.png",
+        "../../image/ui/room2/icon_sz.png",
+        "../../image/ui/room2/icon_xinxi.png",
+        "../../image/ui/room2/icon_zj.png",
+        "../../image/ui/room2/shoprow1.png",
+        "../../image/ui/room2/shoprow2.png",
+        "../../image/ui/room2/shoprow3.png",
+        "../../image/ui/Verified/icon.png",
+        "../../image/ui/wxshop/yaoqingma2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

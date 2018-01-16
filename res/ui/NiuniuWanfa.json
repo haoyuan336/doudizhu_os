@@ -1,0 +1,267 @@
+{
+  "ID": "ba4adf39-98b9-45fc-9ef4-05031edc50ae",
+  "Version": "2.3.4",
+  "Name": "NiuniuWanfa",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1090,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1091,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 1.25
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0017
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "TopMargin": -1.25,
+                "BottomMargin": 1.25,
+                "Tag": 1093,
+                "ActionTag": -1069979375,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/room/player_info_bg2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 50,
+                "Scale9Width": 428,
+                "Scale9Height": 95,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 634.8242,
+                  "Y": 349.4161
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.496,
+                  "Y": 0.4853
+                },
+                "PreSize": {
+                  "X": 0.5078,
+                  "Y": 0.3472
+                },
+                "LeftMargin": 309.8242,
+                "RightMargin": 320.1758,
+                "TopMargin": 245.5839,
+                "BottomMargin": 224.4161,
+                "Tag": 942,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "明牌抢庄,10局,1/2,推注10倍,下注限制,五花x6/五小x6/炸弹x8,牛牛x4牛九x3牛八x2牛七x2,3倍明牌抢庄,10局,1/2,推注10倍,下注限制,五花x6/五小x6/炸弹x8,牛牛x4牛九x3牛八x2牛七x2,3倍明牌抢庄,10局,1/2,推注10倍,下注限制,五花x6/五小x6/炸弹x8,牛牛x4牛九x3牛八x2牛七x2,3倍",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 323.9774,
+                      "Y": 125.8986
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4984,
+                      "Y": 0.5036
+                    },
+                    "PreSize": {
+                      "X": 0.9231,
+                      "Y": 0.8
+                    },
+                    "LeftMargin": 23.9774,
+                    "RightMargin": 26.0226,
+                    "TopMargin": 24.1014,
+                    "BottomMargin": 25.8986,
+                    "Tag": 281,
+                    "ActionTag": -1086581390,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 200.0
+                    },
+                    "Name": "wanfa",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 395604154,
+                "Size": {
+                  "X": 650.0,
+                  "Y": 250.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/niuniu/button/btClose.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 956.7273,
+                  "Y": 471.0452
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7474,
+                  "Y": 0.6542
+                },
+                "PreSize": {
+                  "X": 0.0656,
+                  "Y": 0.1125
+                },
+                "LeftMargin": 914.7273,
+                "RightMargin": 281.2727,
+                "TopMargin": 208.4548,
+                "BottomMargin": 430.5452,
+                "Tag": 1096,
+                "ActionTag": -912059795,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 81.0
+                },
+                "Name": "btClose",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1532292151,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../image/ui/niuniu/button/btClose.png",
+        "../image/ui/room/player_info_bg2.png",
+        "../image/ui/transparent/transparent_1280x720.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

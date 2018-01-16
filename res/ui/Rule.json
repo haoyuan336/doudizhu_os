@@ -1,0 +1,531 @@
+{
+  "ID": "07901650-6cd1-4bfb-ba71-61d15dd26458",
+  "Version": "2.3.4",
+  "Name": "Rule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 54,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 5337,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/common/common_bg1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 65,
+                "Scale9OriginY": 230,
+                "Scale9Width": 67,
+                "Scale9Height": 237,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 321.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4472
+                },
+                "PreSize": {
+                  "X": 0.9766,
+                  "Y": 0.9028
+                },
+                "LeftMargin": 15.0,
+                "RightMargin": 15.0,
+                "TopMargin": 73.0002,
+                "BottomMargin": -3.0002,
+                "Tag": 1309,
+                "ActionTag": -1464423259,
+                "Size": {
+                  "X": 1250.0,
+                  "Y": 650.0
+                },
+                "Name": "Image_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/common/commom_title_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.497,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 720.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 0.975,
+                  "Y": 0.1222
+                },
+                "LeftMargin": 19.744,
+                "RightMargin": 12.256,
+                "BottomMargin": 632.0,
+                "Tag": 47,
+                "ActionTag": -2080654976,
+                "Size": {
+                  "X": 1248.0,
+                  "Y": 88.0
+                },
+                "Name": "notice_title_bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/common/commom_bg2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 58,
+                "Scale9OriginY": 36,
+                "Scale9Width": 1,
+                "Scale9Height": 504,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 297.728,
+                  "Y": 626.4133
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.2326,
+                  "Y": 0.87
+                },
+                "PreSize": {
+                  "X": 0.75,
+                  "Y": 0.8472
+                },
+                "LeftMargin": 297.728,
+                "RightMargin": 22.272,
+                "TopMargin": 93.5867,
+                "BottomMargin": 16.4133,
+                "Tag": 457,
+                "ActionTag": 968267501,
+                "Size": {
+                  "X": 960.0,
+                  "Y": 610.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 1040,
+                  "Height": 620
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 325.7262,
+                  "Y": 55.5333
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2545,
+                  "Y": 0.0771
+                },
+                "PreSize": {
+                  "X": 0.7031,
+                  "Y": 0.7639
+                },
+                "LeftMargin": 325.7262,
+                "RightMargin": 54.2738,
+                "TopMargin": 114.4667,
+                "BottomMargin": 55.5333,
+                "Tag": 5340,
+                "ActionTag": 976871531,
+                "Size": {
+                  "X": 900.0,
+                  "Y": 550.0
+                },
+                "Name": "rullscroll",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/title/title_wanfa.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 633.088,
+                  "Y": 676.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4946,
+                  "Y": 0.9395
+                },
+                "PreSize": {
+                  "X": 0.2219,
+                  "Y": 0.1389
+                },
+                "LeftMargin": 491.088,
+                "RightMargin": 504.912,
+                "TopMargin": -6.44,
+                "BottomMargin": 626.44,
+                "Tag": 95,
+                "ActionTag": -366632865,
+                "Size": {
+                  "X": 284.0,
+                  "Y": 100.0
+                },
+                "Name": "hall_wanfa_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/common/bg_black.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 25,
+                "Scale9OriginY": 24,
+                "Scale9Width": 26,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 154.7481,
+                  "Y": 322.1976
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1209,
+                  "Y": 0.4475
+                },
+                "PreSize": {
+                  "X": 0.1875,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 34.7481,
+                "RightMargin": 1005.2519,
+                "TopMargin": 97.8024,
+                "BottomMargin": 22.1976,
+                "Tag": 1308,
+                "ActionTag": 731967750,
+                "Size": {
+                  "X": 240.0,
+                  "Y": 600.0
+                },
+                "Name": "Image_7",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/room/room_close.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1236.8234,
+                  "Y": 683.11
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9663,
+                  "Y": 0.9488
+                },
+                "PreSize": {
+                  "X": 0.0719,
+                  "Y": 0.1389
+                },
+                "LeftMargin": 1190.8234,
+                "RightMargin": -2.8234,
+                "TopMargin": -13.11,
+                "BottomMargin": 633.11,
+                "Tag": 1307,
+                "ActionTag": 1244790699,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 100.0
+                },
+                "Name": "btn_back",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 300,
+                  "Height": 600
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -7.7123,
+                  "Y": 26.2088
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.006,
+                  "Y": 0.0364
+                },
+                "PreSize": {
+                  "X": 0.2344,
+                  "Y": 0.8333
+                },
+                "LeftMargin": -7.7123,
+                "RightMargin": 987.7123,
+                "TopMargin": 93.7912,
+                "BottomMargin": 26.2088,
+                "Tag": 1318,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room2/create_btn0.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 173.1867,
+                      "Y": 547.5754
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5773,
+                      "Y": 0.9126
+                    },
+                    "PreSize": {
+                      "X": 0.85,
+                      "Y": 0.1617
+                    },
+                    "LeftMargin": 45.6867,
+                    "RightMargin": -0.6867,
+                    "TopMargin": 3.9246,
+                    "BottomMargin": 499.0754,
+                    "Tag": 1319,
+                    "ActionTag": -1281484427,
+                    "Size": {
+                      "X": 255.0,
+                      "Y": 97.0
+                    },
+                    "Name": "btn_0",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -751482355,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 600.0
+                },
+                "Name": "btn_scroll",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": -229837315,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../image/ui/common/bg_black.png",
+        "../image/ui/common/commom_bg2.png",
+        "../image/ui/common/commom_title_bg.png",
+        "../image/ui/common/common_bg1.png",
+        "../image/ui/room/room_close.png",
+        "../image/ui/room2/create_btn0.png",
+        "../image/ui/title/title_wanfa.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

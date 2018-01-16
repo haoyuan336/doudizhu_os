@@ -1,0 +1,960 @@
+{
+  "ID": "833a95bb-e12b-49e9-b6fb-3bdf2efe52a7",
+  "Version": "2.3.4",
+  "Name": "Settings",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 323,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 191,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": -2.376
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": -0.0033
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 2.376,
+            "BottomMargin": -2.376,
+            "Tag": 37,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.65,
+                  "Y": 0.6917
+                },
+                "LeftMargin": 224.0,
+                "RightMargin": 224.0,
+                "TopMargin": 111.0,
+                "BottomMargin": 111.0,
+                "Tag": 1008,
+                "Children": [
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/messagebg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 156,
+                    "Scale9Width": 144,
+                    "Scale9Height": 163,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.0,
+                      "Y": 248.0746
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2476,
+                      "Y": 0.4981
+                    },
+                    "PreSize": {
+                      "X": 0.5048,
+                      "Y": 0.9538
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": 416.0,
+                    "TopMargin": 12.4254,
+                    "BottomMargin": 10.5746,
+                    "Tag": 1009,
+                    "ActionTag": 182043659,
+                    "Size": {
+                      "X": 420.0,
+                      "Y": 475.0
+                    },
+                    "Name": "Image_6",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/messagebg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 156,
+                    "Scale9Width": 144,
+                    "Scale9Height": 163,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 625.9998,
+                      "Y": 247.8749
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7524,
+                      "Y": 0.4977
+                    },
+                    "PreSize": {
+                      "X": 0.5048,
+                      "Y": 0.9538
+                    },
+                    "LeftMargin": 415.9998,
+                    "RightMargin": -3.9998,
+                    "TopMargin": 12.6251,
+                    "BottomMargin": 10.3749,
+                    "Tag": 1010,
+                    "ActionTag": -633551242,
+                    "Size": {
+                      "X": 420.0,
+                      "Y": 475.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/commom_title_bg2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 392,
+                    "Scale9Height": 55,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 455.1122
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9139
+                    },
+                    "PreSize": {
+                      "X": 0.5072,
+                      "Y": 0.1707
+                    },
+                    "LeftMargin": 205.0,
+                    "RightMargin": 205.0,
+                    "TopMargin": 0.3878,
+                    "BottomMargin": 412.6122,
+                    "Tag": 1011,
+                    "ActionTag": -1012298034,
+                    "Size": {
+                      "X": 422.0,
+                      "Y": 85.0
+                    },
+                    "Name": "Image_8",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/title_set.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 454.4513
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9126
+                    },
+                    "PreSize": {
+                      "X": 0.1815,
+                      "Y": 0.2309
+                    },
+                    "LeftMargin": 340.5,
+                    "RightMargin": 340.5,
+                    "TopMargin": -13.9513,
+                    "BottomMargin": 396.9513,
+                    "Tag": 33,
+                    "ActionTag": 869688949,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 115.0
+                    },
+                    "Name": "word_shezhi_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/btn_commit.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0005,
+                      "Y": 78.6139
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1579
+                    },
+                    "PreSize": {
+                      "X": 0.2416,
+                      "Y": 0.1386
+                    },
+                    "LeftMargin": 315.5005,
+                    "RightMargin": 315.4995,
+                    "TopMargin": 384.886,
+                    "BottomMargin": 44.1139,
+                    "Tag": 33,
+                    "Children": [
+                      {
+                        "FontSize": 30,
+                        "LabelText": "申请解散房间",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.5,
+                          "Y": 36.501
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.529
+                        },
+                        "PreSize": {
+                          "X": 0.9104,
+                          "Y": 0.5217
+                        },
+                        "LeftMargin": 9.0,
+                        "RightMargin": 9.0,
+                        "TopMargin": 14.499,
+                        "BottomMargin": 18.501,
+                        "Tag": 899,
+                        "ActionTag": -1015342603,
+                        "Size": {
+                          "X": 183.0,
+                          "Y": 36.0
+                        },
+                        "Name": "btn_title",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -228176260,
+                    "Size": {
+                      "X": 201.0,
+                      "Y": 69.0
+                    },
+                    "Name": "btn_shenqingjiesan",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/ncha.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 807.8912,
+                      "Y": 437.9366
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.971,
+                      "Y": 0.8794
+                    },
+                    "PreSize": {
+                      "X": 0.1106,
+                      "Y": 0.2008
+                    },
+                    "LeftMargin": 761.8912,
+                    "RightMargin": -21.8912,
+                    "TopMargin": 10.0634,
+                    "BottomMargin": 387.9366,
+                    "Tag": 26,
+                    "ActionTag": 511503383,
+                    "Size": {
+                      "X": 92.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb2.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb2.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb3.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/cb3.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.9492,
+                      "Y": 93.5322
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1538,
+                      "Y": 0.1878
+                    },
+                    "PreSize": {
+                      "X": 0.0697,
+                      "Y": 0.1225
+                    },
+                    "LeftMargin": 98.9492,
+                    "RightMargin": 675.0508,
+                    "TopMargin": 373.9678,
+                    "BottomMargin": 63.0322,
+                    "Tag": 18,
+                    "ActionTag": 1272749665,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 61.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "CheckBox_1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/set_jingyin.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 174.9612
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3726,
+                      "Y": 0.3513
+                    },
+                    "PreSize": {
+                      "X": 0.1202,
+                      "Y": 0.0703
+                    },
+                    "LeftMargin": 260.0,
+                    "RightMargin": 472.0,
+                    "TopMargin": 305.5388,
+                    "BottomMargin": 157.4612,
+                    "Tag": 16,
+                    "ActionTag": 1424793170,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 35.0
+                    },
+                    "Name": "setting_jyqd_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nlbg.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nsbg.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nbmp.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nbmp.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nbmp.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 35,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 497.0,
+                      "Y": 243.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5974,
+                      "Y": 0.488
+                    },
+                    "PreSize": {
+                      "X": 0.3005,
+                      "Y": 0.0803
+                    },
+                    "LeftMargin": 372.0,
+                    "RightMargin": 210.0,
+                    "TopMargin": 235.0,
+                    "BottomMargin": 223.0,
+                    "Tag": 54,
+                    "ActionTag": 1020558126,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 40.0
+                    },
+                    "Name": "slider_yinyue",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/set_yinyue.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 243.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3726,
+                      "Y": 0.488
+                    },
+                    "PreSize": {
+                      "X": 0.119,
+                      "Y": 0.0763
+                    },
+                    "LeftMargin": 260.5,
+                    "RightMargin": 472.5,
+                    "TopMargin": 236.0,
+                    "BottomMargin": 224.0,
+                    "Tag": 157,
+                    "ActionTag": -2146680449,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 38.0
+                    },
+                    "Name": "Sprite_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/set_yinxiao.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 307.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3726,
+                      "Y": 0.6165
+                    },
+                    "PreSize": {
+                      "X": 0.1214,
+                      "Y": 0.0723
+                    },
+                    "LeftMargin": 259.5,
+                    "RightMargin": 471.5,
+                    "TopMargin": 173.0,
+                    "BottomMargin": 289.0,
+                    "Tag": 156,
+                    "ActionTag": 1198936650,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 36.0
+                    },
+                    "Name": "Sprite_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nlbg.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nsbg.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nbmp.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nbmp.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/nbmp.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 56,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 497.0,
+                      "Y": 307.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5974,
+                      "Y": 0.6165
+                    },
+                    "PreSize": {
+                      "X": 0.3005,
+                      "Y": 0.0803
+                    },
+                    "LeftMargin": 372.0,
+                    "RightMargin": 210.0,
+                    "TopMargin": 171.0,
+                    "BottomMargin": 287.0,
+                    "Tag": 168,
+                    "ActionTag": -1596439944,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 40.0
+                    },
+                    "Name": "slider_yinxiao",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/set_off.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 69,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 72,
+                    "Scale9Height": 19,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 495.5005,
+                      "Y": 177.8112
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5956,
+                      "Y": 0.3571
+                    },
+                    "PreSize": {
+                      "X": 0.2524,
+                      "Y": 0.1104
+                    },
+                    "LeftMargin": 390.5005,
+                    "RightMargin": 231.4995,
+                    "TopMargin": 292.6888,
+                    "BottomMargin": 150.3112,
+                    "Tag": 1034,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/setting/set_on.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 38,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 40,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 54.53,
+                          "Y": 28.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2597,
+                          "Y": 0.5091
+                        },
+                        "PreSize": {
+                          "X": 0.5524,
+                          "Y": 1.2
+                        },
+                        "LeftMargin": -3.47,
+                        "RightMargin": 97.47,
+                        "TopMargin": -6.0,
+                        "BottomMargin": -5.0,
+                        "Tag": 1035,
+                        "ActionTag": -326635666,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 66.0
+                        },
+                        "Name": "dakai",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/setting/set_on2.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 38,
+                        "Scale9OriginY": 21,
+                        "Scale9Width": 40,
+                        "Scale9Height": 24,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 155.4732,
+                          "Y": 28.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7403,
+                          "Y": 0.5091
+                        },
+                        "PreSize": {
+                          "X": 0.5524,
+                          "Y": 1.2
+                        },
+                        "LeftMargin": 97.4732,
+                        "RightMargin": -3.4732,
+                        "TopMargin": -6.0,
+                        "BottomMargin": -5.0,
+                        "Tag": 1036,
+                        "ActionTag": -1988179311,
+                        "Size": {
+                          "X": 116.0,
+                          "Y": 66.0
+                        },
+                        "Name": "guanbi",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1290814016,
+                    "Size": {
+                      "X": 210.0,
+                      "Y": 55.0
+                    },
+                    "Name": "btnjingyin",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1278537288,
+                "Size": {
+                  "X": 832.0,
+                  "Y": 498.0
+                },
+                "Name": "panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1112948100,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/button/btn_commit.png",
+        "resources/button/cb2.png",
+        "resources/button/cb3.png",
+        "resources/button/ncha.png",
+        "resources/fonts/FZZY.TTF",
+        "resources/setting/commom_title_bg2.png",
+        "resources/setting/messagebg.png",
+        "resources/setting/nbmp.png",
+        "resources/setting/nlbg.png",
+        "resources/setting/nsbg.png",
+        "resources/setting/set_jingyin.png",
+        "resources/setting/set_off.png",
+        "resources/setting/set_on.png",
+        "resources/setting/set_on2.png",
+        "resources/setting/set_yinxiao.png",
+        "resources/setting/set_yinyue.png",
+        "resources/setting/title_set.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

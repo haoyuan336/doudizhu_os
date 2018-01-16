@@ -1,0 +1,273 @@
+{
+  "ID": "10263913-dc11-43c9-93e8-3f63a48b6199",
+  "Version": "2.3.4",
+  "Name": "ActivityItem1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 737,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/activity/loopview/hall_lunbobg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 84,
+            "Scale9OriginY": 150,
+            "Scale9Width": 88,
+            "Scale9Height": 156,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0,
+              "Y": 228.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 149,
+            "ActionTag": -1322111979,
+            "Size": {
+              "X": 256.0,
+              "Y": 456.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/activity/loopview/hall_gg2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 87,
+            "Scale9OriginY": 144,
+            "Scale9Width": 82,
+            "Scale9Height": 168,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0,
+              "Y": 228.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 747,
+            "ActionTag": -960354094,
+            "Size": {
+              "X": 256.0,
+              "Y": 456.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "yykf66666666",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "ui/resources/fonts/FZZY.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0,
+              "Y": 80.9271
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 240,
+              "G": 73,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1775
+            },
+            "PreSize": {
+              "X": 0.6484,
+              "Y": 0.0702
+            },
+            "LeftMargin": 45.0,
+            "RightMargin": 45.0,
+            "TopMargin": 359.0729,
+            "BottomMargin": 64.9271,
+            "Tag": 148,
+            "ActionTag": 1980687565,
+            "Size": {
+              "X": 166.0,
+              "Y": 32.0
+            },
+            "Name": "kefu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/activity/loopview/hall_lunbop1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 3,
+            "Scale9OriginY": 3,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 152.0,
+              "Y": 26.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5938,
+              "Y": 0.057
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0219
+            },
+            "LeftMargin": 147.0,
+            "RightMargin": 99.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 21.0,
+            "Tag": 153,
+            "ActionTag": -640533026,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/activity/loopview/hall_lunbop2.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 3,
+            "Scale9OriginY": 3,
+            "Scale9Width": 4,
+            "Scale9Height": 4,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.0,
+              "Y": 26.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4219,
+              "Y": 0.057
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0219
+            },
+            "LeftMargin": 103.0,
+            "RightMargin": 143.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 21.0,
+            "Tag": 154,
+            "ActionTag": -1479891844,
+            "Size": {
+              "X": 10.0,
+              "Y": 10.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 256.0,
+          "Y": 456.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/activity/loopview/hall_gg2.png",
+        "resources/activity/loopview/hall_lunbobg.png",
+        "resources/activity/loopview/hall_lunbop1.png",
+        "resources/activity/loopview/hall_lunbop2.png",
+        "resources/fonts/FZZY.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

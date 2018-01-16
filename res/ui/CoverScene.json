@@ -1,0 +1,1311 @@
+{
+  "ID": "84bf4138-708b-4902-bcbf-4bc78a84c334",
+  "Version": "2.3.4",
+  "Name": "CoverScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/room_bg.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 230,
+            "ActionTag": -1283367157,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "loginBg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/nnlogo.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 97,
+            "Scale9OriginY": 34,
+            "Scale9Width": 101,
+            "Scale9Height": 38,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 482.0667
+            },
+            "Scale": {
+              "ScaleX": 2.3,
+              "ScaleY": 2.3
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6695
+            },
+            "PreSize": {
+              "X": 0.2305,
+              "Y": 0.1472
+            },
+            "LeftMargin": 492.5,
+            "RightMargin": 492.5,
+            "TopMargin": 184.9333,
+            "BottomMargin": 429.0667,
+            "Tag": 79,
+            "ActionTag": 765388089,
+            "Size": {
+              "X": 295.0,
+              "Y": 106.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/btn_ykdl.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2361
+            },
+            "PreSize": {
+              "X": 0.3547,
+              "Y": 0.2236
+            },
+            "LeftMargin": 413.0,
+            "RightMargin": 413.0,
+            "TopMargin": 469.5,
+            "BottomMargin": 89.5,
+            "Tag": 96,
+            "ActionTag": 1129227072,
+            "Size": {
+              "X": 454.0,
+              "Y": 161.0
+            },
+            "Name": "btn_yk_login",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/btn_wxdl.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2361
+            },
+            "PreSize": {
+              "X": 0.3492,
+              "Y": 0.2083
+            },
+            "LeftMargin": 416.5,
+            "RightMargin": 416.5,
+            "TopMargin": 475.0,
+            "BottomMargin": 95.0,
+            "Tag": 299,
+            "ActionTag": -260921788,
+            "Size": {
+              "X": 447.0,
+              "Y": 150.0
+            },
+            "Name": "btn_wx_login",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 50,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "输入登录ID",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 973.312,
+              "Y": 172.872
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.7604,
+              "Y": 0.2401
+            },
+            "PreSize": {
+              "X": 0.218,
+              "Y": 0.0792
+            },
+            "LeftMargin": 833.812,
+            "RightMargin": 167.188,
+            "TopMargin": 518.628,
+            "BottomMargin": 144.372,
+            "Tag": 789,
+            "ActionTag": -365903716,
+            "Size": {
+              "X": 279.0,
+              "Y": 57.0
+            },
+            "VisibleForFrame": false,
+            "Name": "login_player_name",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 187.3397,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1464,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0639
+            },
+            "LeftMargin": 164.3397,
+            "RightMargin": 1069.6603,
+            "TopMargin": 427.0,
+            "BottomMargin": 247.0,
+            "Tag": 300,
+            "ActionTag": -1415911477,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "login_player_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 314.2565,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2455,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0639
+            },
+            "LeftMargin": 291.2565,
+            "RightMargin": 942.7435,
+            "TopMargin": 427.0,
+            "BottomMargin": 247.0,
+            "Tag": 301,
+            "ActionTag": -928156382,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "login_player_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 441.1733,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3447,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0639
+            },
+            "LeftMargin": 418.1733,
+            "RightMargin": 815.8267,
+            "TopMargin": 427.0,
+            "BottomMargin": 247.0,
+            "Tag": 302,
+            "ActionTag": -1525684246,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "login_player_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0901,
+              "Y": 270.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4438,
+              "Y": 0.375
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0639
+            },
+            "LeftMargin": 545.0901,
+            "RightMargin": 688.9099,
+            "TopMargin": 427.0,
+            "BottomMargin": 247.0,
+            "Tag": 303,
+            "ActionTag": 1573312825,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "login_player_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/btn_blue2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 168.0,
+              "Y": 620.1056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.8613
+            },
+            "PreSize": {
+              "X": 0.1758,
+              "Y": 0.1042
+            },
+            "LeftMargin": 55.5,
+            "RightMargin": 999.5,
+            "TopMargin": 62.3944,
+            "BottomMargin": 582.6056,
+            "Tag": 9,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "测试服",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.5,
+                  "Y": 37.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4,
+                  "Y": 0.4533
+                },
+                "LeftMargin": 67.5,
+                "RightMargin": 67.5,
+                "TopMargin": 20.5,
+                "BottomMargin": 20.5,
+                "Tag": 11,
+                "ActionTag": -546801446,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 34.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 52681150,
+            "Size": {
+              "X": 225.0,
+              "Y": 75.0
+            },
+            "Name": "btn_ceshifu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/btn_blue2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 167.9999,
+              "Y": 493.9056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.686
+            },
+            "PreSize": {
+              "X": 0.1758,
+              "Y": 0.1042
+            },
+            "LeftMargin": 55.4999,
+            "RightMargin": 999.5001,
+            "TopMargin": 188.5944,
+            "BottomMargin": 456.4056,
+            "Tag": 10,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "192.168.31.144",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.5,
+                  "Y": 40.9875
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5465
+                },
+                "PreSize": {
+                  "X": 0.9289,
+                  "Y": 0.4533
+                },
+                "LeftMargin": 8.0,
+                "RightMargin": 8.0,
+                "TopMargin": 17.0125,
+                "BottomMargin": 23.9875,
+                "Tag": 12,
+                "ActionTag": 599540402,
+                "Size": {
+                  "X": 209.0,
+                  "Y": 34.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2076461778,
+            "Size": {
+              "X": 225.0,
+              "Y": 75.0
+            },
+            "Name": "btn_chunge",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/btn_blue2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 168.0,
+              "Y": 371.8381
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.5164
+            },
+            "PreSize": {
+              "X": 0.1758,
+              "Y": 0.1042
+            },
+            "LeftMargin": 55.5,
+            "RightMargin": 999.5,
+            "TopMargin": 310.6619,
+            "BottomMargin": 334.3381,
+            "Tag": 13,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "192.168.1.144",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.5,
+                  "Y": 40.9875
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5465
+                },
+                "PreSize": {
+                  "X": 0.8533,
+                  "Y": 0.4533
+                },
+                "LeftMargin": 16.5,
+                "RightMargin": 16.5,
+                "TopMargin": 17.0125,
+                "BottomMargin": 23.9875,
+                "Tag": 14,
+                "ActionTag": 394448359,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 34.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 663824335,
+            "Size": {
+              "X": 225.0,
+              "Y": 75.0
+            },
+            "Name": "btn_chunge_home",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/chat.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1168.1743,
+              "Y": 606.3697
+            },
+            "Scale": {
+              "ScaleX": 2.6017,
+              "ScaleY": 2.6017
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9126,
+              "Y": 0.8422
+            },
+            "PreSize": {
+              "X": 0.0508,
+              "Y": 0.0917
+            },
+            "LeftMargin": 1135.6743,
+            "RightMargin": 79.3257,
+            "TopMargin": 80.6303,
+            "BottomMargin": 573.3697,
+            "Tag": 36,
+            "ActionTag": -2034414641,
+            "Size": {
+              "X": 65.0,
+              "Y": 66.0
+            },
+            "Name": "btn_test",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "____________________________________正在检查更新____________________________________",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 1.0,
+            "ShadowOffsetY": -1.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 179.6615
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 28,
+              "G": 28,
+              "B": 28
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2495
+            },
+            "PreSize": {
+              "X": 0.8641,
+              "Y": 0.0389
+            },
+            "LeftMargin": 87.0,
+            "RightMargin": 87.0,
+            "TopMargin": 526.3385,
+            "BottomMargin": 165.6615,
+            "Tag": 34,
+            "ActionTag": -75896861,
+            "Size": {
+              "X": 1106.0,
+              "Y": 28.0
+            },
+            "VisibleForFrame": false,
+            "Name": "progress_label",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/unit/equipupgrade_progress_b.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 137.3848
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1908
+            },
+            "PreSize": {
+              "X": 0.6578,
+              "Y": 0.0333
+            },
+            "LeftMargin": 219.0,
+            "RightMargin": 219.0,
+            "TopMargin": 570.6152,
+            "BottomMargin": 125.3848,
+            "Tag": 17,
+            "Children": [
+              {
+                "ProgressInfo": 100,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/unit/equipupgrade_progress_.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 421.5052,
+                  "Y": 10.2748
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5006,
+                  "Y": 0.4281
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.5052,
+                "RightMargin": -0.5052,
+                "TopMargin": 1.7252,
+                "BottomMargin": -1.7252,
+                "Tag": 16,
+                "ActionTag": -307125269,
+                "Size": {
+                  "X": 842.0,
+                  "Y": 24.0
+                },
+                "Name": "progress",
+                "ctype": "LoadingBarObjectData"
+              }
+            ],
+            "ActionTag": -1011984717,
+            "Size": {
+              "X": 842.0,
+              "Y": 24.0
+            },
+            "VisibleForFrame": false,
+            "Name": "progress_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/versionBg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1280.0,
+              "Y": 80.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 1.0,
+              "Y": 0.1111
+            },
+            "PreSize": {
+              "X": 0.1742,
+              "Y": 0.0625
+            },
+            "LeftMargin": 1057.0,
+            "TopMargin": 617.5,
+            "BottomMargin": 57.5,
+            "Tag": 91,
+            "ActionTag": 1292607922,
+            "Size": {
+              "X": 223.0,
+              "Y": 45.0
+            },
+            "Name": "version_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "版本号：",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "ui/resources/fonts/FZZY.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1107.0,
+              "Y": 80.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8648,
+              "Y": 0.1111
+            },
+            "PreSize": {
+              "X": 0.0648,
+              "Y": 0.0375
+            },
+            "LeftMargin": 1065.5,
+            "RightMargin": 131.5,
+            "TopMargin": 626.5,
+            "BottomMargin": 66.5,
+            "Tag": 92,
+            "ActionTag": -674116035,
+            "Size": {
+              "X": 83.0,
+              "Y": 27.0
+            },
+            "Name": "version_name",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "10.10.10",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "ui/resources/fonts/FZZY.TTF",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 1.0,
+            "ShadowOffsetY": -1.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1155.0,
+              "Y": 80.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9023,
+              "Y": 0.1111
+            },
+            "PreSize": {
+              "X": 0.0609,
+              "Y": 0.0375
+            },
+            "LeftMargin": 1155.0,
+            "RightMargin": 47.0,
+            "TopMargin": 626.5,
+            "BottomMargin": 66.5,
+            "Tag": 201,
+            "ActionTag": -564909414,
+            "Size": {
+              "X": 78.0,
+              "Y": 27.0
+            },
+            "Name": "lb_version",
+            "ctype": "TextObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/cb0.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/cb0.png",
+              "Plist": ""
+            },
+            "DisableBackFileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/cb0.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/cb1.png",
+              "Plist": ""
+            },
+            "NodeDisableFileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/cb1.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 530.0,
+              "Y": 67.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4141,
+              "Y": 0.0931
+            },
+            "PreSize": {
+              "X": 0.0313,
+              "Y": 0.0514
+            },
+            "LeftMargin": 510.0,
+            "RightMargin": 730.0,
+            "TopMargin": 634.5,
+            "BottomMargin": 48.5,
+            "Tag": 309,
+            "ActionTag": -1655675903,
+            "Size": {
+              "X": 40.0,
+              "Y": 37.0
+            },
+            "Name": "cb_xieyi",
+            "ctype": "CheckBoxObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "同意用户使用协议",
+            "OutlineSize": 2,
+            "OutlineColor": {},
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 555.0,
+              "Y": 67.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4336,
+              "Y": 0.0931
+            },
+            "PreSize": {
+              "X": 0.175,
+              "Y": 0.0444
+            },
+            "LeftMargin": 555.0,
+            "RightMargin": 501.0,
+            "TopMargin": 637.0,
+            "BottomMargin": 51.0,
+            "Tag": 310,
+            "ActionTag": 140361507,
+            "Size": {
+              "X": 224.0,
+              "Y": 32.0
+            },
+            "Name": "lb_xieyi",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 100,
+            "LabelText": "内 测 版\n5 / 14",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "ui/resources/fonts/STXingkai.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 55,
+              "G": 55,
+              "B": 55
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1051.5253,
+              "Y": 392.4176
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {
+              "R": 252,
+              "B": 118
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8215,
+              "Y": 0.545
+            },
+            "PreSize": {
+              "X": 0.2734,
+              "Y": 0.3139
+            },
+            "LeftMargin": 876.5253,
+            "RightMargin": 53.4747,
+            "TopMargin": 214.5824,
+            "BottomMargin": 279.4176,
+            "Tag": 56,
+            "ActionTag": 1503999593,
+            "Size": {
+              "X": 350.0,
+              "Y": 226.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/xianliao/btxianliao.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 301.5509,
+              "Y": 173.4732
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2356,
+              "Y": 0.2409
+            },
+            "PreSize": {
+              "X": 0.2086,
+              "Y": 0.1153
+            },
+            "LeftMargin": 168.0509,
+            "RightMargin": 844.9491,
+            "TopMargin": 505.0268,
+            "BottomMargin": 131.9732,
+            "Tag": 27,
+            "ActionTag": -692550125,
+            "Size": {
+              "X": 267.0,
+              "Y": 83.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_xl_login",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../Default/Sprite.png",
+        "../image/ui/xianliao/btxianliao.png",
+        "resources/bg/nnlogo.png",
+        "resources/bg/room_bg.jpg",
+        "resources/bg/versionBg.png",
+        "resources/button/btn_blue2.png",
+        "resources/button/btn_wxdl.png",
+        "resources/button/btn_ykdl.png",
+        "resources/button/cb0.png",
+        "resources/button/cb1.png",
+        "resources/button/chat.png",
+        "resources/fonts/FZZY.TTF",
+        "resources/fonts/STXingkai.ttf",
+        "resources/unit/equipupgrade_progress_.png",
+        "resources/unit/equipupgrade_progress_b.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

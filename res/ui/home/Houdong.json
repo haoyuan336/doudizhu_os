@@ -1,0 +1,3620 @@
+{
+  "ID": "723bd82b-2548-4a06-b5a2-44c1b025e6df",
+  "Version": "2.3.4",
+  "Name": "Houdong",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 90,
+        "Speed": 1.0,
+        "ActivedAnimationName": "action",
+        "Timelines": [
+          {
+            "ActionTag": -1129087983,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 265.5668,
+                "Y": 271.3682,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": true,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 267.8886,
+                "Y": 269.3566,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 90,
+          "Name": "action",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 419,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 423,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/yybg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 920.3062,
+                  "Y": 368.5961
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.719,
+                  "Y": 0.5119
+                },
+                "PreSize": {
+                  "X": 0.5211,
+                  "Y": 0.6861
+                },
+                "LeftMargin": 586.8062,
+                "RightMargin": 26.1938,
+                "TopMargin": 104.4039,
+                "BottomMargin": 121.5961,
+                "Tag": 422,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 98.046,
+                      "Y": 518.6237
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.64
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.147,
+                      "Y": 1.0498
+                    },
+                    "PreSize": {
+                      "X": 0.0345,
+                      "Y": 0.5061
+                    },
+                    "LeftMargin": 86.546,
+                    "RightMargin": 557.454,
+                    "TopMargin": -149.6237,
+                    "BottomMargin": 393.6237,
+                    "Tag": 81,
+                    "ActionTag": 672958184,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 250.0
+                    },
+                    "Name": "lianjiexian_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 215.6719,
+                      "Y": 556.4567
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.33
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3233,
+                      "Y": 1.1264
+                    },
+                    "PreSize": {
+                      "X": 0.0345,
+                      "Y": 0.5061
+                    },
+                    "LeftMargin": 204.1719,
+                    "RightMargin": 439.8281,
+                    "TopMargin": -187.4567,
+                    "BottomMargin": 431.4567,
+                    "Tag": 82,
+                    "ActionTag": 841795508,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 250.0
+                    },
+                    "Name": "lianjiexian_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 309.3793,
+                      "Y": 503.4074
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.76
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4638,
+                      "Y": 1.019
+                    },
+                    "PreSize": {
+                      "X": 0.0345,
+                      "Y": 0.5061
+                    },
+                    "LeftMargin": 297.8793,
+                    "RightMargin": 346.1207,
+                    "TopMargin": -134.4074,
+                    "BottomMargin": 378.4074,
+                    "Tag": 83,
+                    "ActionTag": -1492594850,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 250.0
+                    },
+                    "Name": "lianjiexian_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 388.7345,
+                      "Y": 571.8367
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.21
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5828,
+                      "Y": 1.1576
+                    },
+                    "PreSize": {
+                      "X": 0.0345,
+                      "Y": 0.5061
+                    },
+                    "LeftMargin": 377.2345,
+                    "RightMargin": 266.7655,
+                    "TopMargin": -202.8367,
+                    "BottomMargin": 446.8367,
+                    "Tag": 84,
+                    "ActionTag": -29844983,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 250.0
+                    },
+                    "Name": "lianjiexian_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 474.5588,
+                      "Y": 492.0308
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.85
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7115,
+                      "Y": 0.996
+                    },
+                    "PreSize": {
+                      "X": 0.0345,
+                      "Y": 0.5061
+                    },
+                    "LeftMargin": 463.0588,
+                    "RightMargin": 180.9412,
+                    "TopMargin": -123.0308,
+                    "BottomMargin": 367.0308,
+                    "Tag": 85,
+                    "ActionTag": 1205351606,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 250.0
+                    },
+                    "Name": "lianjiexian_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 556.5109,
+                      "Y": 560.5865
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.3
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8343,
+                      "Y": 1.1348
+                    },
+                    "PreSize": {
+                      "X": 0.0345,
+                      "Y": 0.5061
+                    },
+                    "LeftMargin": 545.0109,
+                    "RightMargin": 98.9891,
+                    "TopMargin": -191.5865,
+                    "BottomMargin": 435.5865,
+                    "Tag": 86,
+                    "ActionTag": 360692375,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 250.0
+                    },
+                    "Name": "lianjiexian_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.8706,
+                      "Y": 380.8489
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1362,
+                      "Y": 0.7709
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2773
+                    },
+                    "LeftMargin": 18.8706,
+                    "RightMargin": 504.1294,
+                    "TopMargin": 44.6511,
+                    "BottomMargin": 312.3489,
+                    "Tag": 62,
+                    "ActionTag": 552781219,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 137.0
+                    },
+                    "Name": "text_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.8722,
+                      "Y": 383.2412
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1362,
+                      "Y": 0.7758
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2794
+                    },
+                    "LeftMargin": 18.8722,
+                    "RightMargin": 504.1278,
+                    "TopMargin": 41.7588,
+                    "BottomMargin": 314.2412,
+                    "Tag": 63,
+                    "ActionTag": 546240110,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 138.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 210.8864,
+                      "Y": 449.7719
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3162,
+                      "Y": 0.9105
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2773
+                    },
+                    "LeftMargin": 138.8864,
+                    "RightMargin": 384.1136,
+                    "TopMargin": -24.2719,
+                    "BottomMargin": 381.2719,
+                    "Tag": 71,
+                    "ActionTag": -30295917,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 137.0
+                    },
+                    "Name": "text_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 213.2792,
+                      "Y": 452.165
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3198,
+                      "Y": 0.9153
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2794
+                    },
+                    "LeftMargin": 141.2792,
+                    "RightMargin": 381.7208,
+                    "TopMargin": -27.165,
+                    "BottomMargin": 383.165,
+                    "Tag": 72,
+                    "ActionTag": 1104010996,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 138.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 304.5935,
+                      "Y": 341.713
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4567,
+                      "Y": 0.6917
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2773
+                    },
+                    "LeftMargin": 232.5935,
+                    "RightMargin": 290.4065,
+                    "TopMargin": 83.787,
+                    "BottomMargin": 273.213,
+                    "Tag": 73,
+                    "ActionTag": -793278365,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 137.0
+                    },
+                    "Name": "text_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 302.2039,
+                      "Y": 341.7138
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4531,
+                      "Y": 0.6917
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2794
+                    },
+                    "LeftMargin": 230.2039,
+                    "RightMargin": 292.7961,
+                    "TopMargin": 83.2862,
+                    "BottomMargin": 272.7138,
+                    "Tag": 74,
+                    "ActionTag": 971148787,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 138.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 379.1675,
+                      "Y": 482.3873
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5685,
+                      "Y": 0.9765
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2773
+                    },
+                    "LeftMargin": 307.1675,
+                    "RightMargin": 215.8325,
+                    "TopMargin": -56.8873,
+                    "BottomMargin": 413.8873,
+                    "Tag": 75,
+                    "ActionTag": 1111408891,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 137.0
+                    },
+                    "Name": "text_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 381.5626,
+                      "Y": 484.778
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5721,
+                      "Y": 0.9813
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2794
+                    },
+                    "LeftMargin": 309.5626,
+                    "RightMargin": 213.4374,
+                    "TopMargin": -59.778,
+                    "BottomMargin": 415.778,
+                    "Tag": 76,
+                    "ActionTag": 1213239025,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 138.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 468.0901,
+                      "Y": 321.7119
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7018,
+                      "Y": 0.6512
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2773
+                    },
+                    "LeftMargin": 396.0901,
+                    "RightMargin": 126.9099,
+                    "TopMargin": 103.7881,
+                    "BottomMargin": 253.2119,
+                    "Tag": 77,
+                    "ActionTag": 1010848803,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 137.0
+                    },
+                    "Name": "text_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 470.4861,
+                      "Y": 321.7112
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7054,
+                      "Y": 0.6512
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2794
+                    },
+                    "LeftMargin": 398.4861,
+                    "RightMargin": 124.5139,
+                    "TopMargin": 103.2888,
+                    "BottomMargin": 252.7112,
+                    "Tag": 78,
+                    "ActionTag": 2021945906,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 138.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/text_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 547.4474,
+                      "Y": 457.6028
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8208,
+                      "Y": 0.9263
+                    },
+                    "PreSize": {
+                      "X": 0.2159,
+                      "Y": 0.2773
+                    },
+                    "LeftMargin": 475.4474,
+                    "RightMargin": 47.5526,
+                    "TopMargin": -32.1028,
+                    "BottomMargin": 389.1028,
+                    "Tag": 79,
+                    "ActionTag": 492439717,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 137.0
+                    },
+                    "Name": "text_11",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "888张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.1995,
+                      "Y": 342.2023
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1352,
+                      "Y": 0.6927
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.0567
+                    },
+                    "LeftMargin": 55.1995,
+                    "RightMargin": 541.8005,
+                    "TopMargin": 137.7977,
+                    "BottomMargin": 328.2023,
+                    "Tag": 170,
+                    "ActionTag": -1137708967,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_num_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "888张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 213.2151,
+                      "Y": 413.9012
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3197,
+                      "Y": 0.8379
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.0567
+                    },
+                    "LeftMargin": 178.2151,
+                    "RightMargin": 418.7849,
+                    "TopMargin": 66.0988,
+                    "BottomMargin": 399.9012,
+                    "Tag": 176,
+                    "ActionTag": 789777329,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_num_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "888张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 307.6377,
+                      "Y": 305.8625
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4612,
+                      "Y": 0.6192
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.0567
+                    },
+                    "LeftMargin": 272.6377,
+                    "RightMargin": 324.3623,
+                    "TopMargin": 174.1375,
+                    "BottomMargin": 291.8625,
+                    "Tag": 177,
+                    "ActionTag": 59583504,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_num_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "888张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 382.9949,
+                      "Y": 447.0055
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5742,
+                      "Y": 0.9049
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.0567
+                    },
+                    "LeftMargin": 347.9949,
+                    "RightMargin": 249.0051,
+                    "TopMargin": 32.9945,
+                    "BottomMargin": 433.0055,
+                    "Tag": 178,
+                    "ActionTag": 1970305108,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_num_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "888张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 468.3488,
+                      "Y": 287.1319
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7022,
+                      "Y": 0.5812
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.0567
+                    },
+                    "LeftMargin": 433.3488,
+                    "RightMargin": 163.6512,
+                    "TopMargin": 192.8681,
+                    "BottomMargin": 273.1319,
+                    "Tag": 179,
+                    "ActionTag": -1355459195,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_num_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "888张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 547.1074,
+                      "Y": 422.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8203,
+                      "Y": 0.8556
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.0567
+                    },
+                    "LeftMargin": 512.1074,
+                    "RightMargin": 84.8926,
+                    "TopMargin": 57.345,
+                    "BottomMargin": 408.655,
+                    "Tag": 180,
+                    "ActionTag": 1213875586,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_num_6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/YY_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.4703,
+                      "Y": 396.0901
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1356,
+                      "Y": 0.8018
+                    },
+                    "PreSize": {
+                      "X": 0.1349,
+                      "Y": 0.1154
+                    },
+                    "LeftMargin": 45.4703,
+                    "RightMargin": 531.5297,
+                    "TopMargin": 69.4099,
+                    "BottomMargin": 367.5901,
+                    "Tag": 89,
+                    "ActionTag": 696147492,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 57.0
+                    },
+                    "Name": "yy_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/YY_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.4681,
+                      "Y": 396.0894
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1356,
+                      "Y": 0.8018
+                    },
+                    "PreSize": {
+                      "X": 0.1589,
+                      "Y": 0.1457
+                    },
+                    "LeftMargin": 37.4681,
+                    "RightMargin": 523.5319,
+                    "TopMargin": 61.9106,
+                    "BottomMargin": 360.0894,
+                    "Tag": 90,
+                    "ActionTag": -1800763911,
+                    "Size": {
+                      "X": 106.0,
+                      "Y": 72.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "yy_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/you_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 212.444,
+                      "Y": 473.5626
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3185,
+                      "Y": 0.9586
+                    },
+                    "PreSize": {
+                      "X": 0.1079,
+                      "Y": 0.1417
+                    },
+                    "LeftMargin": 176.444,
+                    "RightMargin": 418.556,
+                    "TopMargin": -14.5626,
+                    "BottomMargin": 438.5626,
+                    "Tag": 91,
+                    "ActionTag": 237163885,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 70.0
+                    },
+                    "Name": "you_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/you_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 210.4791,
+                      "Y": 477.1716
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3156,
+                      "Y": 0.9659
+                    },
+                    "PreSize": {
+                      "X": 0.1304,
+                      "Y": 0.17
+                    },
+                    "LeftMargin": 166.9791,
+                    "RightMargin": 413.0209,
+                    "TopMargin": -25.1716,
+                    "BottomMargin": 435.1716,
+                    "Tag": 92,
+                    "ActionTag": 2008762016,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 84.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "you_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/xi_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 305.7135,
+                      "Y": 361.4695
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4583,
+                      "Y": 0.7317
+                    },
+                    "PreSize": {
+                      "X": 0.1064,
+                      "Y": 0.1437
+                    },
+                    "LeftMargin": 270.2135,
+                    "RightMargin": 325.7865,
+                    "TopMargin": 97.0305,
+                    "BottomMargin": 325.9695,
+                    "Tag": 93,
+                    "ActionTag": -599115897,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 71.0
+                    },
+                    "Name": "xi_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/xi_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 305.7141,
+                      "Y": 363.3793
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4583,
+                      "Y": 0.7356
+                    },
+                    "PreSize": {
+                      "X": 0.1274,
+                      "Y": 0.1741
+                    },
+                    "LeftMargin": 263.2141,
+                    "RightMargin": 318.7859,
+                    "TopMargin": 87.6207,
+                    "BottomMargin": 320.3793,
+                    "Tag": 94,
+                    "ActionTag": -297783681,
+                    "Size": {
+                      "X": 85.0,
+                      "Y": 86.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "xi_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/zhou_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 378.1721,
+                      "Y": 502.482
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.567,
+                      "Y": 1.0172
+                    },
+                    "PreSize": {
+                      "X": 0.099,
+                      "Y": 0.1377
+                    },
+                    "LeftMargin": 345.1721,
+                    "RightMargin": 255.8279,
+                    "TopMargin": -42.482,
+                    "BottomMargin": 468.482,
+                    "Tag": 95,
+                    "ActionTag": -1386672039,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 68.0
+                    },
+                    "Name": "zhou_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/zhou_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 378.1448,
+                      "Y": 504.8946
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5669,
+                      "Y": 1.0221
+                    },
+                    "PreSize": {
+                      "X": 0.1214,
+                      "Y": 0.17
+                    },
+                    "LeftMargin": 337.6448,
+                    "RightMargin": 248.3552,
+                    "TopMargin": -52.8946,
+                    "BottomMargin": 462.8946,
+                    "Tag": 96,
+                    "ActionTag": -14770299,
+                    "Size": {
+                      "X": 81.0,
+                      "Y": 84.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "zhou_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/nian_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 466.2772,
+                      "Y": 346.9953
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6991,
+                      "Y": 0.7024
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.1478
+                    },
+                    "LeftMargin": 431.2772,
+                    "RightMargin": 165.7228,
+                    "TopMargin": 110.5047,
+                    "BottomMargin": 310.4953,
+                    "Tag": 97,
+                    "ActionTag": -1057948398,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 73.0
+                    },
+                    "Name": "nian_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/nian_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 468.0137,
+                      "Y": 348.7301
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7017,
+                      "Y": 0.7059
+                    },
+                    "PreSize": {
+                      "X": 0.1274,
+                      "Y": 0.1761
+                    },
+                    "LeftMargin": 425.5137,
+                    "RightMargin": 156.4863,
+                    "TopMargin": 101.7699,
+                    "BottomMargin": 305.2301,
+                    "Tag": 98,
+                    "ActionTag": -993601488,
+                    "Size": {
+                      "X": 85.0,
+                      "Y": 87.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "nian_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/qing_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.4916,
+                      "ScaleY": 0.6191
+                    },
+                    "Position": {
+                      "X": 543.2563,
+                      "Y": 484.79
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8145,
+                      "Y": 0.9814
+                    },
+                    "PreSize": {
+                      "X": 0.1049,
+                      "Y": 0.1437
+                    },
+                    "LeftMargin": 508.8443,
+                    "RightMargin": 88.1557,
+                    "TopMargin": -17.8339,
+                    "BottomMargin": 440.8339,
+                    "Tag": 99,
+                    "ActionTag": -329322302,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 71.0
+                    },
+                    "Name": "qing_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/jizizhuanpan/jiziban/qing_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 543.8194,
+                      "Y": 478.6963
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8153,
+                      "Y": 0.969
+                    },
+                    "PreSize": {
+                      "X": 0.1274,
+                      "Y": 0.1721
+                    },
+                    "LeftMargin": 501.3194,
+                    "RightMargin": 80.6806,
+                    "TopMargin": -27.1963,
+                    "BottomMargin": 436.1963,
+                    "Tag": 100,
+                    "ActionTag": -1143696064,
+                    "Size": {
+                      "X": 85.0,
+                      "Y": 85.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "qing_2",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 2145286375,
+                "Size": {
+                  "X": 667.0,
+                  "Y": 494.0
+                },
+                "Name": "bg_main",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/dikuang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 272.7253,
+                  "Y": 91.4395
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2131,
+                  "Y": 0.127
+                },
+                "PreSize": {
+                  "X": 0.3609,
+                  "Y": 0.0681
+                },
+                "LeftMargin": 41.7253,
+                "RightMargin": 776.2747,
+                "TopMargin": 604.0605,
+                "BottomMargin": 66.9395,
+                "Tag": 105,
+                "ActionTag": -1238549656,
+                "Size": {
+                  "X": 462.0,
+                  "Y": 49.0
+                },
+                "Name": "dikuang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "通过转盘集齐所有的字才能抽奖",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "image/fonts/FZZY.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 283.7881,
+                  "Y": 90.3952
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 229,
+                  "G": 229,
+                  "B": 229
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2217,
+                  "Y": 0.1255
+                },
+                "PreSize": {
+                  "X": 0.2758,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 107.2881,
+                "RightMargin": 819.7119,
+                "TopMargin": 615.6048,
+                "BottomMargin": 76.3952,
+                "Tag": 169,
+                "ActionTag": 1103788497,
+                "Size": {
+                  "X": 353.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_8",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/btn_fanhui.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 75.5723,
+                  "Y": 668.7836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.059,
+                  "Y": 0.9289
+                },
+                "PreSize": {
+                  "X": 0.0852,
+                  "Y": 0.0889
+                },
+                "LeftMargin": 21.0723,
+                "RightMargin": 1149.9277,
+                "TopMargin": 19.2164,
+                "BottomMargin": 636.7836,
+                "Tag": 102,
+                "ActionTag": 394568130,
+                "Size": {
+                  "X": 109.0,
+                  "Y": 64.0
+                },
+                "Name": "btn_fanhui",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/duihuanfangka.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 906.1362,
+                  "Y": 289.0597
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7079,
+                  "Y": 0.4015
+                },
+                "PreSize": {
+                  "X": 0.1734,
+                  "Y": 0.1278
+                },
+                "LeftMargin": 795.1362,
+                "RightMargin": 262.8638,
+                "TopMargin": 384.9403,
+                "BottomMargin": 243.0597,
+                "Tag": 101,
+                "ActionTag": -420892346,
+                "Size": {
+                  "X": 222.0,
+                  "Y": 92.0
+                },
+                "Name": "btn_choujiang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/btn_huodongguizhe.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 741.325,
+                  "Y": 202.7092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5792,
+                  "Y": 0.2815
+                },
+                "PreSize": {
+                  "X": 0.1633,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 636.825,
+                "RightMargin": 434.175,
+                "TopMargin": 480.7908,
+                "BottomMargin": 166.2092,
+                "Tag": 103,
+                "ActionTag": -1747915099,
+                "Size": {
+                  "X": 209.0,
+                  "Y": 73.0
+                },
+                "Name": "btn_huodongguizhe",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/zhongjiang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1078.5283,
+                  "Y": 204.7276
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8426,
+                  "Y": 0.2843
+                },
+                "PreSize": {
+                  "X": 0.1633,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 974.0283,
+                "RightMargin": 96.9717,
+                "TopMargin": 478.7724,
+                "BottomMargin": 168.2276,
+                "Tag": 104,
+                "ActionTag": -772639596,
+                "Size": {
+                  "X": 209.0,
+                  "Y": 73.0
+                },
+                "Name": "zhongjiang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/jiziban/tanhao.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.9565,
+                  "Y": 91.4399
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0554,
+                  "Y": 0.127
+                },
+                "PreSize": {
+                  "X": 0.0328,
+                  "Y": 0.0583
+                },
+                "LeftMargin": 49.9565,
+                "RightMargin": 1188.0435,
+                "TopMargin": 607.5601,
+                "BottomMargin": 70.4399,
+                "Tag": 106,
+                "ActionTag": 1050114809,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 42.0
+                },
+                "Name": "tanhao",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/transparent/transparent.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 278.2332,
+                  "Y": 384.9512
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2174,
+                  "Y": 0.5347
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3694
+                },
+                "LeftMargin": 176.2332,
+                "RightMargin": 899.7668,
+                "TopMargin": 202.0488,
+                "BottomMargin": 251.9512,
+                "Tag": 18,
+                "ActionTag": -152221276,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 266.0
+                },
+                "Name": "btn_cant_start",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 649887259,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/jizizhuanpan/zhuanpan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 280.8724,
+              "Y": 382.32
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2194,
+              "Y": 0.531
+            },
+            "PreSize": {
+              "X": 0.4195,
+              "Y": 0.7458
+            },
+            "LeftMargin": 12.3724,
+            "RightMargin": 730.6276,
+            "TopMargin": 69.18,
+            "BottomMargin": 113.82,
+            "Tag": 424,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/gaoliang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 270.8203,
+                  "Y": 378.1596
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5043,
+                  "Y": 0.7042
+                },
+                "PreSize": {
+                  "X": 0.3966,
+                  "Y": 0.3985
+                },
+                "LeftMargin": 164.3203,
+                "RightMargin": 159.6797,
+                "TopMargin": 51.8404,
+                "BottomMargin": 271.1596,
+                "Tag": 55,
+                "ActionTag": -1487592334,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 214.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaoliang_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/gaoliang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 360.074,
+                  "Y": 324.8921
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 60.0,
+                "RotationSkewY": 60.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6705,
+                  "Y": 0.605
+                },
+                "PreSize": {
+                  "X": 0.3966,
+                  "Y": 0.3985
+                },
+                "LeftMargin": 253.574,
+                "RightMargin": 70.426,
+                "TopMargin": 105.1079,
+                "BottomMargin": 217.8921,
+                "Tag": 56,
+                "ActionTag": 538830456,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 214.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaoliang_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/gaoliang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 359.6647,
+                  "Y": 219.6845
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 120.0,
+                "RotationSkewY": 120.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6698,
+                  "Y": 0.4091
+                },
+                "PreSize": {
+                  "X": 0.3966,
+                  "Y": 0.3985
+                },
+                "LeftMargin": 253.1647,
+                "RightMargin": 70.8353,
+                "TopMargin": 210.3155,
+                "BottomMargin": 112.6845,
+                "Tag": 57,
+                "ActionTag": 31159686,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 214.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaoliang_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/gaoliang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 267.8683,
+                  "Y": 166.4195
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.3099
+                },
+                "PreSize": {
+                  "X": 0.3966,
+                  "Y": 0.3985
+                },
+                "LeftMargin": 161.3683,
+                "RightMargin": 162.6317,
+                "TopMargin": 263.5805,
+                "BottomMargin": 59.4195,
+                "Tag": 58,
+                "ActionTag": -391980838,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 214.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaoliang_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/gaoliang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 176.0725,
+                  "Y": 218.7754
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 240.0001,
+                "RotationSkewY": 240.0001,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3279,
+                  "Y": 0.4074
+                },
+                "PreSize": {
+                  "X": 0.3966,
+                  "Y": 0.3985
+                },
+                "LeftMargin": 69.5725,
+                "RightMargin": 254.4275,
+                "TopMargin": 211.2246,
+                "BottomMargin": 111.7754,
+                "Tag": 59,
+                "ActionTag": -2065299080,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 214.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaoliang_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/gaoliang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 176.9791,
+                  "Y": 325.2184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 300.0,
+                "RotationSkewY": 300.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3296,
+                  "Y": 0.6056
+                },
+                "PreSize": {
+                  "X": 0.3966,
+                  "Y": 0.3985
+                },
+                "LeftMargin": 70.4791,
+                "RightMargin": 253.5209,
+                "TopMargin": 104.7816,
+                "BottomMargin": 218.2184,
+                "Tag": 61,
+                "ActionTag": 204581444,
+                "Size": {
+                  "X": 213.0,
+                  "Y": 214.0
+                },
+                "VisibleForFrame": false,
+                "Name": "gaoliang_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/nian_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 264.0337,
+                  "Y": 127.506
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4917,
+                  "Y": 0.2374
+                },
+                "PreSize": {
+                  "X": 0.1266,
+                  "Y": 0.1322
+                },
+                "LeftMargin": 230.0337,
+                "RightMargin": 238.9663,
+                "TopMargin": 373.994,
+                "BottomMargin": 92.006,
+                "Tag": 43,
+                "ActionTag": -1831775943,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 71.0
+                },
+                "Name": "nian_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/nian_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 264.0447,
+                  "Y": 130.9192
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4917,
+                  "Y": 0.2438
+                },
+                "PreSize": {
+                  "X": 0.1564,
+                  "Y": 0.1601
+                },
+                "LeftMargin": 222.0447,
+                "RightMargin": 230.9553,
+                "TopMargin": 363.0808,
+                "BottomMargin": 87.9192,
+                "Tag": 44,
+                "ActionTag": -275706105,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 86.0
+                },
+                "VisibleForFrame": false,
+                "Name": "nian_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/qing_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 134.9404,
+                  "Y": 201.06
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2513,
+                  "Y": 0.3744
+                },
+                "PreSize": {
+                  "X": 0.1266,
+                  "Y": 0.1285
+                },
+                "LeftMargin": 100.9404,
+                "RightMargin": 368.0596,
+                "TopMargin": 301.44,
+                "BottomMargin": 166.56,
+                "Tag": 45,
+                "ActionTag": -880869110,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 69.0
+                },
+                "Name": "qing_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/qing_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 136.8848,
+                  "Y": 199.3155
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2549,
+                  "Y": 0.3712
+                },
+                "PreSize": {
+                  "X": 0.1527,
+                  "Y": 0.1546
+                },
+                "LeftMargin": 95.8848,
+                "RightMargin": 359.1152,
+                "TopMargin": 296.1845,
+                "BottomMargin": 157.8155,
+                "Tag": 46,
+                "ActionTag": -761868607,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 83.0
+                },
+                "VisibleForFrame": false,
+                "Name": "qing_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/xi_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 394.3591,
+                  "Y": 341.425
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7344,
+                  "Y": 0.6358
+                },
+                "PreSize": {
+                  "X": 0.1285,
+                  "Y": 0.1285
+                },
+                "LeftMargin": 359.8591,
+                "RightMargin": 108.1409,
+                "TopMargin": 161.075,
+                "BottomMargin": 306.925,
+                "Tag": 47,
+                "ActionTag": 828902460,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 69.0
+                },
+                "Name": "xi_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/xi_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 392.4252,
+                  "Y": 344.8155
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7308,
+                  "Y": 0.6421
+                },
+                "PreSize": {
+                  "X": 0.1546,
+                  "Y": 0.1564
+                },
+                "LeftMargin": 350.9252,
+                "RightMargin": 103.0748,
+                "TopMargin": 150.1845,
+                "BottomMargin": 302.8155,
+                "Tag": 48,
+                "ActionTag": 1949609014,
+                "Size": {
+                  "X": 83.0,
+                  "Y": 84.0
+                },
+                "VisibleForFrame": false,
+                "Name": "xi_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/you_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 264.7518,
+                  "Y": 424.3295
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.7902
+                },
+                "PreSize": {
+                  "X": 0.1304,
+                  "Y": 0.1248
+                },
+                "LeftMargin": 229.7518,
+                "RightMargin": 237.2482,
+                "TopMargin": 79.1705,
+                "BottomMargin": 390.8295,
+                "Tag": 49,
+                "ActionTag": -2018614977,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 67.0
+                },
+                "Name": "you_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/you_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 264.8406,
+                  "Y": 427.7924
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4932,
+                  "Y": 0.7966
+                },
+                "PreSize": {
+                  "X": 0.1583,
+                  "Y": 0.1527
+                },
+                "LeftMargin": 222.3406,
+                "RightMargin": 229.6594,
+                "TopMargin": 68.2076,
+                "BottomMargin": 386.7924,
+                "Tag": 50,
+                "ActionTag": 2085870763,
+                "Size": {
+                  "X": 85.0,
+                  "Y": 82.0
+                },
+                "VisibleForFrame": false,
+                "Name": "you_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/yy_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 137.1904,
+                  "Y": 330.7836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2555,
+                  "Y": 0.616
+                },
+                "PreSize": {
+                  "X": 0.162,
+                  "Y": 0.1043
+                },
+                "LeftMargin": 93.6904,
+                "RightMargin": 356.3096,
+                "TopMargin": 178.2164,
+                "BottomMargin": 302.7836,
+                "Tag": 51,
+                "ActionTag": -1525194526,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 56.0
+                },
+                "Name": "YY_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/yy_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 133.9513,
+                  "Y": 329.0635
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2494,
+                  "Y": 0.6128
+                },
+                "PreSize": {
+                  "X": 0.1899,
+                  "Y": 0.1322
+                },
+                "LeftMargin": 82.9513,
+                "RightMargin": 352.0487,
+                "TopMargin": 172.4365,
+                "BottomMargin": 293.5635,
+                "Tag": 52,
+                "ActionTag": -1341434626,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 71.0
+                },
+                "VisibleForFrame": false,
+                "Name": "YY_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/zhou_1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 401.6694,
+                  "Y": 201.6497
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.748,
+                  "Y": 0.3755
+                },
+                "PreSize": {
+                  "X": 0.1192,
+                  "Y": 0.1248
+                },
+                "LeftMargin": 369.6694,
+                "RightMargin": 103.3306,
+                "TopMargin": 301.8503,
+                "BottomMargin": 168.1497,
+                "Tag": 53,
+                "ActionTag": 197414713,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 67.0
+                },
+                "Name": "zhou_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/zhou_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 405.2827,
+                  "Y": 203.3539
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7547,
+                  "Y": 0.3787
+                },
+                "PreSize": {
+                  "X": 0.1471,
+                  "Y": 0.1527
+                },
+                "LeftMargin": 365.7827,
+                "RightMargin": 92.2173,
+                "TopMargin": 292.6461,
+                "BottomMargin": 162.3539,
+                "Tag": 54,
+                "ActionTag": -975565408,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 82.0
+                },
+                "VisibleForFrame": false,
+                "Name": "zhou_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/light2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.5668,
+                  "Y": 271.3682
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4945,
+                  "Y": 0.5053
+                },
+                "PreSize": {
+                  "X": 0.9199,
+                  "Y": 0.9181
+                },
+                "LeftMargin": 18.5668,
+                "RightMargin": 24.4332,
+                "TopMargin": 19.1318,
+                "BottomMargin": 24.8682,
+                "Tag": 567,
+                "ActionTag": -1129087983,
+                "Size": {
+                  "X": 494.0,
+                  "Y": 493.0
+                },
+                "Name": "light2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/light3.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 267.8886,
+                  "Y": 269.3566
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4989,
+                  "Y": 0.5016
+                },
+                "PreSize": {
+                  "X": 0.9348,
+                  "Y": 0.9348
+                },
+                "LeftMargin": 16.8886,
+                "RightMargin": 18.1114,
+                "TopMargin": 16.6434,
+                "BottomMargin": 18.3566,
+                "Tag": 568,
+                "ActionTag": -1998800744,
+                "Size": {
+                  "X": 502.0,
+                  "Y": 502.0
+                },
+                "VisibleForFrame": false,
+                "Name": "light3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -839613119,
+            "Size": {
+              "X": 537.0,
+              "Y": 537.0
+            },
+            "Name": "plate",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/jizizhuanpan/dianji.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.4933,
+              "ScaleY": 0.4212
+            },
+            "Position": {
+              "X": 281.3916,
+              "Y": 340.0569
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2198,
+              "Y": 0.4723
+            },
+            "PreSize": {
+              "X": 0.1102,
+              "Y": 0.2375
+            },
+            "LeftMargin": 211.8363,
+            "RightMargin": 927.1637,
+            "TopMargin": 280.9683,
+            "BottomMargin": 268.0317,
+            "Tag": 425,
+            "ActionTag": -1916483640,
+            "Size": {
+              "X": 141.0,
+              "Y": 171.0
+            },
+            "Name": "btn_start",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 35,
+            "LabelText": "99999次",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "image/fonts/FZZY.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 188,
+              "G": 188,
+              "B": 20
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 191,
+              "G": 191,
+              "B": 191
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 283.484,
+              "Y": 335.7597
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2215,
+              "Y": 0.4663
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0597
+            },
+            "LeftMargin": 213.484,
+            "RightMargin": 926.516,
+            "TopMargin": 362.7403,
+            "BottomMargin": 314.2597,
+            "Tag": 168,
+            "ActionTag": 811989571,
+            "Size": {
+              "X": 140.0,
+              "Y": 43.0
+            },
+            "Name": "text",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/button_fxpyq.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 857.7998,
+              "Y": 297.4958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6702,
+              "Y": 0.4132
+            },
+            "PreSize": {
+              "X": 0.1945,
+              "Y": 0.1306
+            },
+            "LeftMargin": 733.2998,
+            "RightMargin": 297.7002,
+            "TopMargin": 375.5042,
+            "BottomMargin": 250.4958,
+            "Tag": 429,
+            "ActionTag": -283381431,
+            "Size": {
+              "X": 249.0,
+              "Y": 94.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_share",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "您还有0次抽奖机会",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "image/fonts/FZZY.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 989.6607,
+              "Y": 273.5167
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7732,
+              "Y": 0.3799
+            },
+            "PreSize": {
+              "X": 0.2406,
+              "Y": 0.05
+            },
+            "LeftMargin": 835.6607,
+            "RightMargin": 136.3394,
+            "TopMargin": 428.4833,
+            "BottomMargin": 255.5167,
+            "Tag": 44,
+            "ActionTag": 1847609994,
+            "Size": {
+              "X": 308.0,
+              "Y": 36.0
+            },
+            "VisibleForFrame": false,
+            "Name": "txt_times",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 45,
+            "ActionTag": 1882347853,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "VisibleForFrame": false,
+            "Name": "touch_priority",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/fonts/FZZY.TTF",
+        "../../image/ui/activity/duanwu/button_fxpyq.png",
+        "../../image/ui/jizizhuanpan/dianji.png",
+        "../../image/ui/jizizhuanpan/gaoliang.png",
+        "../../image/ui/jizizhuanpan/jiziban/btn_fanhui.png",
+        "../../image/ui/jizizhuanpan/jiziban/btn_huodongguizhe.png",
+        "../../image/ui/jizizhuanpan/jiziban/dikuang.png",
+        "../../image/ui/jizizhuanpan/jiziban/duihuanfangka.png",
+        "../../image/ui/jizizhuanpan/jiziban/lianjiexian.png",
+        "../../image/ui/jizizhuanpan/jiziban/nian_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/nian_2.png",
+        "../../image/ui/jizizhuanpan/jiziban/qing_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/qing_2.png",
+        "../../image/ui/jizizhuanpan/jiziban/tanhao.png",
+        "../../image/ui/jizizhuanpan/jiziban/text_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/text_2.png",
+        "../../image/ui/jizizhuanpan/jiziban/xi_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/xi_2.png",
+        "../../image/ui/jizizhuanpan/jiziban/you_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/you_2.png",
+        "../../image/ui/jizizhuanpan/jiziban/YY_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/YY_2.png",
+        "../../image/ui/jizizhuanpan/jiziban/yybg.png",
+        "../../image/ui/jizizhuanpan/jiziban/zhongjiang.png",
+        "../../image/ui/jizizhuanpan/jiziban/zhou_1.png",
+        "../../image/ui/jizizhuanpan/jiziban/zhou_2.png",
+        "../../image/ui/jizizhuanpan/light2.png",
+        "../../image/ui/jizizhuanpan/light3.png",
+        "../../image/ui/jizizhuanpan/nian_1.png",
+        "../../image/ui/jizizhuanpan/nian_2.png",
+        "../../image/ui/jizizhuanpan/qing_1.png",
+        "../../image/ui/jizizhuanpan/qing_2.png",
+        "../../image/ui/jizizhuanpan/xi_1.png",
+        "../../image/ui/jizizhuanpan/xi_2.png",
+        "../../image/ui/jizizhuanpan/you_1.png",
+        "../../image/ui/jizizhuanpan/you_2.png",
+        "../../image/ui/jizizhuanpan/yy_1.png",
+        "../../image/ui/jizizhuanpan/yy_2.png",
+        "../../image/ui/jizizhuanpan/zhou_1.png",
+        "../../image/ui/jizizhuanpan/zhou_2.png",
+        "../../image/ui/jizizhuanpan/zhuanpan.png",
+        "../../image/ui/transparent/transparent.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

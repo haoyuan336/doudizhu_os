@@ -1,0 +1,1184 @@
+{
+  "ID": "8436c4d3-0cf1-4a43-b7da-76a09e0824fa",
+  "Version": "2.3.4",
+  "Name": "PlayerInfoOther",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 76,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 66,
+                "ActionTag": 1553104184,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/player_info_bg1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 50,
+                "Scale9Width": 649,
+                "Scale9Height": 72,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5859,
+                  "Y": 0.6667
+                },
+                "LeftMargin": 265.0,
+                "RightMargin": 265.0,
+                "TopMargin": 120.0,
+                "BottomMargin": 120.0,
+                "Tag": 12,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/transparent/transparent_64x64.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 357.9994
+                    },
+                    "Scale": {
+                      "ScaleX": 2.37,
+                      "ScaleY": 2.37
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1933,
+                      "Y": 0.7458
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.1333
+                    },
+                    "LeftMargin": 113.0,
+                    "RightMargin": 573.0,
+                    "TopMargin": 90.0006,
+                    "BottomMargin": 325.9994,
+                    "Tag": 264,
+                    "ActionTag": -1462026916,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "head",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/avatarBg1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 357.0007
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1933,
+                      "Y": 0.7438
+                    },
+                    "PreSize": {
+                      "X": 0.224,
+                      "Y": 0.3417
+                    },
+                    "LeftMargin": 61.0,
+                    "RightMargin": 521.0,
+                    "TopMargin": 40.9993,
+                    "BottomMargin": 275.0007,
+                    "Tag": 261,
+                    "ActionTag": 1934252442,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 164.0
+                    },
+                    "Name": "headframe",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/female.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.0002,
+                      "Y": 306.0012
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.264,
+                      "Y": 0.6375
+                    },
+                    "PreSize": {
+                      "X": 0.0413,
+                      "Y": 0.0812
+                    },
+                    "LeftMargin": 182.5002,
+                    "RightMargin": 536.4998,
+                    "TopMargin": 154.4988,
+                    "BottomMargin": 286.5012,
+                    "Tag": 265,
+                    "ActionTag": 627921971,
+                    "Size": {
+                      "X": 31.0,
+                      "Y": 39.0
+                    },
+                    "Name": "female",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/male.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.0,
+                      "Y": 305.9986
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.264,
+                      "Y": 0.6375
+                    },
+                    "PreSize": {
+                      "X": 0.0507,
+                      "Y": 0.0792
+                    },
+                    "LeftMargin": 179.0,
+                    "RightMargin": 533.0,
+                    "TopMargin": 155.0014,
+                    "BottomMargin": 286.9986,
+                    "Tag": 266,
+                    "ActionTag": -994952128,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 38.0
+                    },
+                    "Name": "male",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "昵称:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 250.0,
+                      "Y": 400.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3333,
+                      "Y": 0.8333
+                    },
+                    "PreSize": {
+                      "X": 0.092,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 250.0,
+                    "RightMargin": 431.0,
+                    "TopMargin": 63.0,
+                    "BottomMargin": 383.0,
+                    "Tag": 224,
+                    "ActionTag": 789715468,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "ID:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 250.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3333,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.052,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 250.0,
+                    "RightMargin": 461.0,
+                    "TopMargin": 103.0,
+                    "BottomMargin": 343.0,
+                    "Tag": 225,
+                    "ActionTag": -1087728718,
+                    "Size": {
+                      "X": 39.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "IP:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 250.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3333,
+                      "Y": 0.6667
+                    },
+                    "PreSize": {
+                      "X": 0.0493,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 250.0,
+                    "RightMargin": 463.0,
+                    "TopMargin": 143.0,
+                    "BottomMargin": 303.0,
+                    "Tag": 41,
+                    "ActionTag": -118266843,
+                    "Size": {
+                      "X": 37.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_ip",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "这里最多七个字__",
+                    "OutlineColor": {
+                      "R": 123,
+                      "G": 97,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -1.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0001,
+                      "Y": 400.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4667,
+                      "Y": 0.8333
+                    },
+                    "PreSize": {
+                      "X": 0.3253,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 350.0001,
+                    "RightMargin": 155.9999,
+                    "TopMargin": 63.0,
+                    "BottomMargin": 383.0,
+                    "Tag": 262,
+                    "ActionTag": -1019487879,
+                    "Size": {
+                      "X": 244.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_nickname",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "1234567890",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0001,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4667,
+                      "Y": 0.75
+                    },
+                    "PreSize": {
+                      "X": 0.2227,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 350.0001,
+                    "RightMargin": 232.9999,
+                    "TopMargin": 103.0,
+                    "BottomMargin": 343.0,
+                    "Tag": 267,
+                    "ActionTag": 581923852,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "255.255.255.255",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0001,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4667,
+                      "Y": 0.6667
+                    },
+                    "PreSize": {
+                      "X": 0.3013,
+                      "Y": 0.0708
+                    },
+                    "LeftMargin": 350.0001,
+                    "RightMargin": 173.9999,
+                    "TopMargin": 143.0,
+                    "BottomMargin": 303.0,
+                    "Tag": 269,
+                    "ActionTag": 151328342,
+                    "Size": {
+                      "X": 226.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_ip",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "位置: ",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 250.0,
+                      "Y": 260.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3333,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.4427,
+                      "Y": 0.0958
+                    },
+                    "LeftMargin": 250.0,
+                    "RightMargin": 168.0,
+                    "TopMargin": 174.0,
+                    "BottomMargin": 260.0,
+                    "Tag": 13,
+                    "ActionTag": -440715927,
+                    "Size": {
+                      "X": 332.0,
+                      "Y": 46.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "lb_location",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.0,
+                      "Y": 163.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1373,
+                      "Y": 0.3396
+                    },
+                    "PreSize": {
+                      "X": 0.1587,
+                      "Y": 0.2396
+                    },
+                    "LeftMargin": 43.5,
+                    "RightMargin": 587.5,
+                    "TopMargin": 259.5,
+                    "BottomMargin": 105.5,
+                    "Tag": 243,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/bg/effect_emoji_good.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.5,
+                          "Y": 57.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5714,
+                          "Y": 0.8522
+                        },
+                        "LeftMargin": 25.5,
+                        "RightMargin": 25.5,
+                        "TopMargin": 8.5,
+                        "BottomMargin": 8.5,
+                        "Tag": 247,
+                        "ActionTag": -1274862146,
+                        "Size": {
+                          "X": 68.0,
+                          "Y": 98.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1552676172,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 115.0
+                    },
+                    "Name": "emoji1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 239.0,
+                      "Y": 163.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3187,
+                      "Y": 0.3396
+                    },
+                    "PreSize": {
+                      "X": 0.1587,
+                      "Y": 0.2396
+                    },
+                    "LeftMargin": 179.5,
+                    "RightMargin": 451.5,
+                    "TopMargin": 259.5,
+                    "BottomMargin": 105.5,
+                    "Tag": 244,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/bg/effect_emoji_bomb.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.5,
+                          "Y": 57.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6218,
+                          "Y": 0.8261
+                        },
+                        "LeftMargin": 22.5,
+                        "RightMargin": 22.5,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 248,
+                        "ActionTag": -317567386,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 95.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 945715901,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 115.0
+                    },
+                    "Name": "emoji2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 375.0,
+                      "Y": 163.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3396
+                    },
+                    "PreSize": {
+                      "X": 0.1587,
+                      "Y": 0.2396
+                    },
+                    "LeftMargin": 315.5,
+                    "RightMargin": 315.5,
+                    "TopMargin": 259.5,
+                    "BottomMargin": 105.5,
+                    "Tag": 242,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/bg/effect_emoji_egg.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.5,
+                          "Y": 57.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5462,
+                          "Y": 0.7391
+                        },
+                        "LeftMargin": 27.0,
+                        "RightMargin": 27.0,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 249,
+                        "ActionTag": 1798286855,
+                        "Size": {
+                          "X": 65.0,
+                          "Y": 85.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1556571215,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 115.0
+                    },
+                    "Name": "emoji3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 511.0,
+                      "Y": 163.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6813,
+                      "Y": 0.3396
+                    },
+                    "PreSize": {
+                      "X": 0.1587,
+                      "Y": 0.2396
+                    },
+                    "LeftMargin": 451.5,
+                    "RightMargin": 179.5,
+                    "TopMargin": 259.5,
+                    "BottomMargin": 105.5,
+                    "Tag": 245,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/bg/effect_emoji_shoe.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.5,
+                          "Y": 57.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.605,
+                          "Y": 0.8348
+                        },
+                        "LeftMargin": 23.5,
+                        "RightMargin": 23.5,
+                        "TopMargin": 9.5,
+                        "BottomMargin": 9.5,
+                        "Tag": 250,
+                        "ActionTag": 1564762584,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 96.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1803992530,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 115.0
+                    },
+                    "Name": "emoji4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 647.0,
+                      "Y": 163.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8627,
+                      "Y": 0.3396
+                    },
+                    "PreSize": {
+                      "X": 0.1587,
+                      "Y": 0.2396
+                    },
+                    "LeftMargin": 587.5,
+                    "RightMargin": 43.5,
+                    "TopMargin": 259.5,
+                    "BottomMargin": 105.5,
+                    "Tag": 246,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/bg/effect_emoji_flower.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 59.5,
+                          "Y": 57.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6218,
+                          "Y": 0.8174
+                        },
+                        "LeftMargin": 22.5,
+                        "RightMargin": 22.5,
+                        "TopMargin": 10.5,
+                        "BottomMargin": 10.5,
+                        "Tag": 251,
+                        "ActionTag": 2055377389,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 94.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -473866460,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 115.0
+                    },
+                    "Name": "emoji5",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1084493223,
+                "Size": {
+                  "X": 750.0,
+                  "Y": 480.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/avatarBg1.png",
+        "resources/bg/effect_emoji_bomb.png",
+        "resources/bg/effect_emoji_di.png",
+        "resources/bg/effect_emoji_egg.png",
+        "resources/bg/effect_emoji_flower.png",
+        "resources/bg/effect_emoji_good.png",
+        "resources/bg/effect_emoji_shoe.png",
+        "resources/bg/player_info_bg1.png",
+        "resources/transparent/transparent_1280x720.png",
+        "resources/transparent/transparent_64x64.png",
+        "resources/unit/female.png",
+        "resources/unit/male.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

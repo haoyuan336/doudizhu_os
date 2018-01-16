@@ -1,0 +1,1166 @@
+{
+  "ID": "f8bc76f4-ff67-4a10-9375-ba713a6cd65e",
+  "Version": "2.3.4",
+  "Name": "ShopLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 193,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -367,
+            "Scale9OriginY": -225,
+            "Scale9Width": 734,
+            "Scale9Height": 450,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 194,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/shop/shop_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8711,
+                  "Y": 0.9486
+                },
+                "LeftMargin": 82.5,
+                "RightMargin": 82.5,
+                "TopMargin": 18.5,
+                "BottomMargin": 18.5,
+                "Tag": 195,
+                "ActionTag": -372800364,
+                "Size": {
+                  "X": 1115.0,
+                  "Y": 683.0
+                },
+                "Name": "bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/room/btClose.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1099.9788,
+                  "Y": 600.599
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8594,
+                  "Y": 0.8342
+                },
+                "PreSize": {
+                  "X": 0.0422,
+                  "Y": 0.075
+                },
+                "LeftMargin": 1072.9788,
+                "RightMargin": 153.0212,
+                "TopMargin": 92.401,
+                "BottomMargin": 573.599,
+                "Tag": 196,
+                "ActionTag": 368238018,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 54.0
+                },
+                "Name": "close",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 45,
+                "LabelText": "推广员招募了！！！",
+                "OutlineColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 742.7839,
+                  "Y": 592.5493
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5803,
+                  "Y": 0.823
+                },
+                "PreSize": {
+                  "X": 0.3164,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 540.2839,
+                "RightMargin": 334.7161,
+                "TopMargin": 101.4507,
+                "BottomMargin": 566.5493,
+                "Tag": 197,
+                "ActionTag": 853905119,
+                "Size": {
+                  "X": 405.0,
+                  "Y": 52.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Text_14",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/shop/shop_ljgm.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 964.3176,
+                  "Y": 121.333
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7534,
+                  "Y": 0.1685
+                },
+                "PreSize": {
+                  "X": 0.1727,
+                  "Y": 0.0944
+                },
+                "LeftMargin": 853.8176,
+                "RightMargin": 205.1824,
+                "TopMargin": 564.667,
+                "BottomMargin": 87.333,
+                "Tag": 198,
+                "ActionTag": -28853029,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 68.0
+                },
+                "Name": "buy",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/shop/shop_fk3.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 954.8872,
+                  "Y": 373.1934
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.746,
+                  "Y": 0.5183
+                },
+                "PreSize": {
+                  "X": 0.1984,
+                  "Y": 0.4889
+                },
+                "LeftMargin": 827.8872,
+                "RightMargin": 198.1128,
+                "TopMargin": 170.8066,
+                "BottomMargin": 197.1934,
+                "Tag": 199,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/shop/shop_light.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 176.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.2087,
+                      "Y": 1.1023
+                    },
+                    "LeftMargin": -26.5,
+                    "RightMargin": -26.5,
+                    "TopMargin": -18.0,
+                    "BottomMargin": -18.0,
+                    "Tag": 200,
+                    "ActionTag": -711578671,
+                    "Size": {
+                      "X": 307.0,
+                      "Y": 388.0
+                    },
+                    "Name": "light",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 38,
+                    "LabelText": "房卡0000张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 100,
+                      "G": 57,
+                      "B": 4
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 311.4058
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 100,
+                      "G": 57,
+                      "B": 4
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.7795,
+                      "Y": 0.1278
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 18.0942,
+                    "BottomMargin": 288.9058,
+                    "Tag": 201,
+                    "ActionTag": 963847047,
+                    "Size": {
+                      "X": 198.0,
+                      "Y": 45.0
+                    },
+                    "Name": "card",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 38,
+                    "LabelText": "0000元",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5456,
+                      "ScaleY": 0.378
+                    },
+                    "Position": {
+                      "X": 132.6134,
+                      "Y": 47.3842
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5221,
+                      "Y": 0.1346
+                    },
+                    "PreSize": {
+                      "X": 0.4724,
+                      "Y": 0.1222
+                    },
+                    "LeftMargin": 67.1414,
+                    "RightMargin": 66.8586,
+                    "TopMargin": 277.8698,
+                    "BottomMargin": 31.1302,
+                    "Tag": 202,
+                    "ActionTag": 752439576,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 43.0
+                    },
+                    "Name": "money",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -704800501,
+                "Size": {
+                  "X": 254.0,
+                  "Y": 352.0
+                },
+                "Name": "fk3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/shop/shop_fk2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 633.5491,
+                  "Y": 373.1934
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.495,
+                  "Y": 0.5183
+                },
+                "PreSize": {
+                  "X": 0.1984,
+                  "Y": 0.4889
+                },
+                "LeftMargin": 506.5491,
+                "RightMargin": 519.4509,
+                "TopMargin": 170.8066,
+                "BottomMargin": 197.1934,
+                "Tag": 203,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/shop/shop_light.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 176.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.2087,
+                      "Y": 1.1023
+                    },
+                    "LeftMargin": -26.5,
+                    "RightMargin": -26.5,
+                    "TopMargin": -18.0,
+                    "BottomMargin": -18.0,
+                    "Tag": 204,
+                    "ActionTag": -889381088,
+                    "Size": {
+                      "X": 307.0,
+                      "Y": 388.0
+                    },
+                    "Name": "light",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 38,
+                    "LabelText": "房卡0000张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 100,
+                      "G": 57,
+                      "B": 4
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 311.4057
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 100,
+                      "G": 57,
+                      "B": 4
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.7795,
+                      "Y": 0.1278
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 18.0943,
+                    "BottomMargin": 288.9057,
+                    "Tag": 205,
+                    "ActionTag": -1523764258,
+                    "Size": {
+                      "X": 198.0,
+                      "Y": 45.0
+                    },
+                    "Name": "card",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 38,
+                    "LabelText": "0000元",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 52.632
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1495
+                    },
+                    "PreSize": {
+                      "X": 0.4724,
+                      "Y": 0.1222
+                    },
+                    "LeftMargin": 67.0,
+                    "RightMargin": 67.0,
+                    "TopMargin": 277.868,
+                    "BottomMargin": 31.132,
+                    "Tag": 206,
+                    "ActionTag": -1432637278,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 43.0
+                    },
+                    "Name": "money",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1178238704,
+                "Size": {
+                  "X": 254.0,
+                  "Y": 352.0
+                },
+                "Name": "fk2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/shop/shop_fk1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 312.2165,
+                  "Y": 373.1924
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2439,
+                  "Y": 0.5183
+                },
+                "PreSize": {
+                  "X": 0.1984,
+                  "Y": 0.4889
+                },
+                "LeftMargin": 185.2165,
+                "RightMargin": 840.7835,
+                "TopMargin": 170.8076,
+                "BottomMargin": 197.1924,
+                "Tag": 207,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/shop/shop_light.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 176.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.2087,
+                      "Y": 1.1023
+                    },
+                    "LeftMargin": -26.5,
+                    "RightMargin": -26.5,
+                    "TopMargin": -18.0,
+                    "BottomMargin": -18.0,
+                    "Tag": 208,
+                    "ActionTag": 48831549,
+                    "Size": {
+                      "X": 307.0,
+                      "Y": 388.0
+                    },
+                    "Name": "light",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 38,
+                    "LabelText": "房卡0000张",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 100,
+                      "G": 57,
+                      "B": 4
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 311.4057
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 100,
+                      "G": 57,
+                      "B": 4
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8847
+                    },
+                    "PreSize": {
+                      "X": 0.7795,
+                      "Y": 0.1278
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 18.0943,
+                    "BottomMargin": 288.9057,
+                    "Tag": 209,
+                    "ActionTag": -1273573040,
+                    "Size": {
+                      "X": 198.0,
+                      "Y": 45.0
+                    },
+                    "Name": "card",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 38,
+                    "LabelText": "0000元",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 127.0,
+                      "Y": 52.632
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1495
+                    },
+                    "PreSize": {
+                      "X": 0.4724,
+                      "Y": 0.1222
+                    },
+                    "LeftMargin": 67.0,
+                    "RightMargin": 67.0,
+                    "TopMargin": 277.868,
+                    "BottomMargin": 31.132,
+                    "Tag": 210,
+                    "ActionTag": -1675845335,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 43.0
+                    },
+                    "Name": "money",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1069522278,
+                "Size": {
+                  "X": 254.0,
+                  "Y": 352.0
+                },
+                "Name": "fk1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 38,
+                "LabelText": "购买获得       张房卡",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "image/fonts/FZZY.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 127,
+                  "G": 127,
+                  "B": 127
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.976,
+                  "Y": 144.0784
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.1492,
+                  "Y": 0.2001
+                },
+                "PreSize": {
+                  "X": 0.2641,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 190.976,
+                "RightMargin": 751.024,
+                "TopMargin": 553.4216,
+                "BottomMargin": 121.5784,
+                "Tag": 211,
+                "ActionTag": 1210520534,
+                "Size": {
+                  "X": 338.0,
+                  "Y": 45.0
+                },
+                "Name": "Text_14_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 38,
+                "LabelText": "1000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "image/fonts/FZZY.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.6105,
+                  "ScaleY": 0.4053
+                },
+                "Position": {
+                  "X": 410.112,
+                  "Y": 141.2896
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.3204,
+                  "Y": 0.1962
+                },
+                "PreSize": {
+                  "X": 0.0602,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 363.1035,
+                "RightMargin": 839.8965,
+                "TopMargin": 551.9489,
+                "BottomMargin": 123.0511,
+                "Tag": 212,
+                "ActionTag": 35876421,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 45.0
+                },
+                "Name": "buynum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 38,
+                "LabelText": "000000元",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "image/fonts/FZZY.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 478.72,
+                  "Y": 98.6783
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 31,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.374,
+                  "Y": 0.1371
+                },
+                "PreSize": {
+                  "X": 0.1258,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 398.22,
+                "RightMargin": 720.78,
+                "TopMargin": 598.8217,
+                "BottomMargin": 76.1783,
+                "Tag": 213,
+                "ActionTag": 904372567,
+                "Size": {
+                  "X": 161.0,
+                  "Y": 45.0
+                },
+                "Name": "money",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 38,
+                "LabelText": "应付金额：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "image/fonts/FZZY.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 127,
+                  "G": 127,
+                  "B": 127
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.976,
+                  "Y": 97.6797
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.1492,
+                  "Y": 0.1357
+                },
+                "PreSize": {
+                  "X": 0.132,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 190.976,
+                "RightMargin": 920.024,
+                "TopMargin": 599.8203,
+                "BottomMargin": 75.1797,
+                "Tag": 214,
+                "ActionTag": 1193005871,
+                "Size": {
+                  "X": 169.0,
+                  "Y": 45.0
+                },
+                "Name": "Text_14_0_2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1811674520,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../image/fonts/FZZY.TTF",
+        "../../image/ui/room/btClose.png",
+        "../../image/ui/shop/shop_bg.png",
+        "../../image/ui/shop/shop_fk1.png",
+        "../../image/ui/shop/shop_fk2.png",
+        "../../image/ui/shop/shop_fk3.png",
+        "../../image/ui/shop/shop_light.png",
+        "../../image/ui/shop/shop_ljgm.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

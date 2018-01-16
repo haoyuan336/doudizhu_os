@@ -1,0 +1,708 @@
+{
+  "ID": "6407d00c-c076-438e-ac3b-b5f7c8559c7c",
+  "Version": "2.3.4",
+  "Name": "PlayerInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 76,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 66,
+                "ActionTag": 1553104184,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/player_info_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 50,
+                "Scale9Width": 649,
+                "Scale9Height": 372,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5852,
+                  "Y": 0.3264
+                },
+                "LeftMargin": 265.5,
+                "RightMargin": 265.5,
+                "TopMargin": 242.5,
+                "BottomMargin": 242.5,
+                "Tag": 12,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/transparent/transparent_64x64.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 122.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 2.37,
+                      "ScaleY": 2.37
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1936,
+                      "Y": 0.5234
+                    },
+                    "PreSize": {
+                      "X": 0.0854,
+                      "Y": 0.2723
+                    },
+                    "LeftMargin": 113.0,
+                    "RightMargin": 572.0,
+                    "TopMargin": 80.0001,
+                    "BottomMargin": 90.9999,
+                    "Tag": 264,
+                    "ActionTag": -1462026916,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 64.0
+                    },
+                    "Name": "head",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/avatarBg1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 145.0,
+                      "Y": 122.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1936,
+                      "Y": 0.5191
+                    },
+                    "PreSize": {
+                      "X": 0.2243,
+                      "Y": 0.6979
+                    },
+                    "LeftMargin": 61.0,
+                    "RightMargin": 520.0,
+                    "TopMargin": 30.9999,
+                    "BottomMargin": 40.0001,
+                    "Tag": 261,
+                    "ActionTag": 1934252442,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 164.0
+                    },
+                    "Name": "headframe",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/female.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.0002,
+                      "Y": 70.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2644,
+                      "Y": 0.3021
+                    },
+                    "PreSize": {
+                      "X": 0.0414,
+                      "Y": 0.166
+                    },
+                    "LeftMargin": 182.5002,
+                    "RightMargin": 535.4998,
+                    "TopMargin": 144.5001,
+                    "BottomMargin": 51.4999,
+                    "Tag": 265,
+                    "ActionTag": 627921971,
+                    "Size": {
+                      "X": 31.0,
+                      "Y": 39.0
+                    },
+                    "Name": "female",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/male.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.0,
+                      "Y": 70.9997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2644,
+                      "Y": 0.3021
+                    },
+                    "PreSize": {
+                      "X": 0.0507,
+                      "Y": 0.1617
+                    },
+                    "LeftMargin": 179.0,
+                    "RightMargin": 532.0,
+                    "TopMargin": 145.0003,
+                    "BottomMargin": 51.9997,
+                    "Tag": 266,
+                    "ActionTag": -994952128,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 38.0
+                    },
+                    "Name": "male",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "IP:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.9999,
+                      "Y": 80.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3338,
+                      "Y": 0.3404
+                    },
+                    "PreSize": {
+                      "X": 0.0494,
+                      "Y": 0.1447
+                    },
+                    "LeftMargin": 249.9999,
+                    "RightMargin": 462.0001,
+                    "TopMargin": 138.0,
+                    "BottomMargin": 63.0,
+                    "Tag": 859,
+                    "ActionTag": 392346395,
+                    "Size": {
+                      "X": 37.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_ip",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "ID:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.9999,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3338,
+                      "Y": 0.5106
+                    },
+                    "PreSize": {
+                      "X": 0.0521,
+                      "Y": 0.1447
+                    },
+                    "LeftMargin": 249.9999,
+                    "RightMargin": 460.0001,
+                    "TopMargin": 98.0,
+                    "BottomMargin": 103.0,
+                    "Tag": 860,
+                    "ActionTag": -1144267085,
+                    "Size": {
+                      "X": 39.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "昵称:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.9999,
+                      "Y": 160.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3338,
+                      "Y": 0.6809
+                    },
+                    "PreSize": {
+                      "X": 0.0921,
+                      "Y": 0.1447
+                    },
+                    "LeftMargin": 249.9999,
+                    "RightMargin": 430.0001,
+                    "TopMargin": 58.0,
+                    "BottomMargin": 143.0,
+                    "Tag": 861,
+                    "ActionTag": 1679422003,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "这里最多七个字__",
+                    "OutlineColor": {
+                      "R": 123,
+                      "G": 97,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -1.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0001,
+                      "Y": 160.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4673,
+                      "Y": 0.6809
+                    },
+                    "PreSize": {
+                      "X": 0.3258,
+                      "Y": 0.1447
+                    },
+                    "LeftMargin": 350.0001,
+                    "RightMargin": 154.9999,
+                    "TopMargin": 58.0,
+                    "BottomMargin": 143.0,
+                    "Tag": 262,
+                    "ActionTag": -1019487879,
+                    "Size": {
+                      "X": 244.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_nickname",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "1234567890",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0001,
+                      "Y": 119.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4673,
+                      "Y": 0.5106
+                    },
+                    "PreSize": {
+                      "X": 0.223,
+                      "Y": 0.1447
+                    },
+                    "LeftMargin": 350.0001,
+                    "RightMargin": 231.9999,
+                    "TopMargin": 98.0001,
+                    "BottomMargin": 102.9999,
+                    "Tag": 267,
+                    "ActionTag": 581923852,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "255.255.255.255",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0001,
+                      "Y": 80.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4673,
+                      "Y": 0.3404
+                    },
+                    "PreSize": {
+                      "X": 0.3017,
+                      "Y": 0.1447
+                    },
+                    "LeftMargin": 350.0001,
+                    "RightMargin": 172.9999,
+                    "TopMargin": 138.0,
+                    "BottomMargin": 63.0,
+                    "Tag": 269,
+                    "ActionTag": 151328342,
+                    "Size": {
+                      "X": 226.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_ip",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "位置: ",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 12.9124,
+                      "Y": 16.0899
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0172,
+                      "Y": 0.0685
+                    },
+                    "PreSize": {
+                      "X": 0.4433,
+                      "Y": 0.1957
+                    },
+                    "LeftMargin": 12.9124,
+                    "RightMargin": 404.0876,
+                    "TopMargin": 172.9101,
+                    "BottomMargin": 16.0899,
+                    "Tag": 13,
+                    "ActionTag": -440715927,
+                    "Size": {
+                      "X": 332.0,
+                      "Y": 46.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "lb_location",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1084493223,
+                "Size": {
+                  "X": 749.0,
+                  "Y": 235.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/avatarBg1.png",
+        "resources/bg/player_info_bg.png",
+        "resources/transparent/transparent_1280x720.png",
+        "resources/transparent/transparent_64x64.png",
+        "resources/unit/female.png",
+        "resources/unit/male.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

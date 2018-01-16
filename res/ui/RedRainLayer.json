@@ -1,0 +1,562 @@
+{
+  "ID": "c9bfb5ad-690e-4dd4-b835-a19fbcb3b2e9",
+  "Version": "2.3.4",
+  "Name": "RedRainLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 253,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 182,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 258,
+            "ActionTag": -415295061,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 261,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/activity/redRain/nogainBg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 366.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5083
+                },
+                "PreSize": {
+                  "X": 0.6109,
+                  "Y": 1.0
+                },
+                "LeftMargin": 249.0,
+                "RightMargin": 249.0,
+                "TopMargin": -6.0,
+                "BottomMargin": 6.0,
+                "Tag": 67,
+                "ActionTag": -1262630670,
+                "Size": {
+                  "X": 782.0,
+                  "Y": 720.0
+                },
+                "Name": "nogainBg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/activity/redRain/gainBg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 654.2222,
+                  "Y": 362.8892
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5111,
+                  "Y": 0.504
+                },
+                "PreSize": {
+                  "X": 0.6109,
+                  "Y": 1.0
+                },
+                "LeftMargin": 263.2222,
+                "RightMargin": 234.7778,
+                "TopMargin": -2.8892,
+                "BottomMargin": 2.8892,
+                "Tag": 256,
+                "ActionTag": -361210568,
+                "Size": {
+                  "X": 782.0,
+                  "Y": 720.0
+                },
+                "Name": "gainBg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/activity/redRain/btn_ok.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 548.5928,
+                  "Y": 155.8893
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4286,
+                  "Y": 0.2165
+                },
+                "PreSize": {
+                  "X": 0.1172,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 473.5928,
+                "RightMargin": 656.4072,
+                "TopMargin": 532.6107,
+                "BottomMargin": 124.3893,
+                "Tag": 255,
+                "ActionTag": 11140359,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 63.0
+                },
+                "Name": "btn_ok",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/activity/redRain/btn_fx.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 737.7036,
+                  "Y": 155.8893
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5763,
+                  "Y": 0.2165
+                },
+                "PreSize": {
+                  "X": 0.1172,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 662.7036,
+                "RightMargin": 467.2964,
+                "TopMargin": 532.6107,
+                "BottomMargin": 124.3893,
+                "Tag": 254,
+                "ActionTag": 800218145,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 63.0
+                },
+                "Name": "btn_fx",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 52,
+                "LabelText": "888822元",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 642.2966,
+                  "Y": 322.0007
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 239,
+                  "B": 104
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5018,
+                  "Y": 0.4472
+                },
+                "PreSize": {
+                  "X": 0.1766,
+                  "Y": 0.0819
+                },
+                "LeftMargin": 529.2966,
+                "RightMargin": 524.7034,
+                "TopMargin": 368.4993,
+                "BottomMargin": 292.5007,
+                "Tag": 257,
+                "ActionTag": 932090751,
+                "Size": {
+                  "X": 226.0,
+                  "Y": 59.0
+                },
+                "Name": "lb_gold",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/activity/redRain/btn_ok.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.5928,
+                  "Y": 173.8893
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4989,
+                  "Y": 0.2415
+                },
+                "PreSize": {
+                  "X": 0.1172,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 563.5928,
+                "RightMargin": 566.4072,
+                "TopMargin": 514.6107,
+                "BottomMargin": 142.3893,
+                "Tag": 68,
+                "ActionTag": -143407753,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 63.0
+                },
+                "Name": "btn_ok_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 2137853098,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "main",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/activity/redRain/share_bg_xymj.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 637.1858,
+              "Y": 359.482
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4978,
+              "Y": 0.4993
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.8142,
+            "RightMargin": 2.8142,
+            "TopMargin": 0.518,
+            "BottomMargin": -0.518,
+            "Tag": 259,
+            "Children": [
+              {
+                "FontSize": 68,
+                "LabelText": "8888.99元",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 645.3784,
+                  "Y": 285.6789
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 239,
+                  "B": 104
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5042,
+                  "Y": 0.3968
+                },
+                "PreSize": {
+                  "X": 0.2453,
+                  "Y": 0.1069
+                },
+                "LeftMargin": 488.3784,
+                "RightMargin": 477.6216,
+                "TopMargin": 395.8211,
+                "BottomMargin": 247.1789,
+                "Tag": 260,
+                "ActionTag": -2098568782,
+                "Size": {
+                  "X": 314.0,
+                  "Y": 77.0
+                },
+                "Name": "lb_gold",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1493279312,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "VisibleForFrame": false,
+            "Name": "share_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/activity/redRain/btn_close.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1516.2965,
+              "Y": 368.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.1846,
+              "Y": 0.5111
+            },
+            "PreSize": {
+              "X": 0.0469,
+              "Y": 0.1889
+            },
+            "LeftMargin": 1486.2965,
+            "RightMargin": -266.2965,
+            "TopMargin": 283.9999,
+            "BottomMargin": 300.0001,
+            "Tag": 338,
+            "ActionTag": 931988141,
+            "Size": {
+              "X": 60.0,
+              "Y": 136.0
+            },
+            "Name": "btn_close_25",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/activity/redRain/btn_close.png",
+        "resources/activity/redRain/btn_fx.png",
+        "resources/activity/redRain/btn_ok.png",
+        "resources/activity/redRain/gainBg.png",
+        "resources/activity/redRain/nogainBg.png",
+        "resources/activity/redRain/share_bg_xymj.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

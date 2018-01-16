@@ -1,0 +1,1367 @@
+{
+  "ID": "1e5f4fc0-60d4-43b5-834b-3ff4ad5482ac",
+  "Version": "2.3.4",
+  "Name": "DaiKaiItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 323,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 509.0,
+              "Y": 65.0
+            },
+            "Scale": {
+              "ScaleX": 0.98,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0452,
+              "Y": 0.3538
+            },
+            "LeftMargin": 486.0,
+            "RightMargin": 486.0,
+            "TopMargin": 42.0,
+            "BottomMargin": 42.0,
+            "Tag": 290,
+            "ActionTag": 1556440619,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bg1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 503,
+            "ActionTag": 842546825,
+            "Size": {
+              "X": 1018.0,
+              "Y": 130.0
+            },
+            "Name": "bgPanel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "88888-888-888\n88:88:88",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 123.1487,
+              "Y": 63.956
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.121,
+              "Y": 0.492
+            },
+            "PreSize": {
+              "X": 0.1866,
+              "Y": 0.4923
+            },
+            "LeftMargin": 123.1487,
+            "RightMargin": 704.8513,
+            "TopMargin": 2.044,
+            "BottomMargin": 63.956,
+            "Tag": 326,
+            "ActionTag": 770783726,
+            "Size": {
+              "X": 190.0,
+              "Y": 64.0
+            },
+            "Name": "lb_time",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "1688888",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 4.6137,
+              "Y": 95.4111
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0045,
+              "Y": 0.7339
+            },
+            "PreSize": {
+              "X": 0.1081,
+              "Y": 0.2462
+            },
+            "LeftMargin": 4.6137,
+            "RightMargin": 903.3863,
+            "TopMargin": 2.5889,
+            "BottomMargin": 95.4111,
+            "Tag": 327,
+            "ActionTag": 1839076227,
+            "Size": {
+              "X": 110.0,
+              "Y": 32.0
+            },
+            "Name": "lb_roomid",
+            "ctype": "TextObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1018.0,
+            "TopMargin": 130.0,
+            "Tag": 502,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_64x64.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 353.851,
+                  "Y": 99.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 321.851,
+                "RightMargin": -385.851,
+                "TopMargin": -131.0,
+                "BottomMargin": 67.0,
+                "Tag": 448,
+                "ActionTag": -1158184168,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "header1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 355.0707,
+                  "Y": 63.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 306.0707,
+                "RightMargin": -404.0707,
+                "TopMargin": -73.0,
+                "BottomMargin": 53.0,
+                "Tag": 292,
+                "ActionTag": -102168069,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 20.0
+                },
+                "Name": "lb_nickname1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_64x64.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 462.1066,
+                  "Y": 99.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 430.1066,
+                "RightMargin": -494.1066,
+                "TopMargin": -131.0,
+                "BottomMargin": 67.0,
+                "Tag": 449,
+                "ActionTag": 828080271,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "header2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 462.1065,
+                  "Y": 63.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 413.1065,
+                "RightMargin": -511.1065,
+                "TopMargin": -73.0,
+                "BottomMargin": 53.0,
+                "Tag": 328,
+                "ActionTag": 28152261,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 20.0
+                },
+                "Name": "lb_nickname2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_64x64.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 569.1429,
+                  "Y": 99.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 537.1429,
+                "RightMargin": -601.1429,
+                "TopMargin": -131.0,
+                "BottomMargin": 67.0,
+                "Tag": 450,
+                "ActionTag": -843056041,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "header3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 569.1428,
+                  "Y": 63.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 520.1428,
+                "RightMargin": -618.1428,
+                "TopMargin": -73.0,
+                "BottomMargin": 53.0,
+                "Tag": 294,
+                "ActionTag": -174781001,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 20.0
+                },
+                "Name": "lb_nickname3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_64x64.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 675.6401,
+                  "Y": 99.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 643.6401,
+                "RightMargin": -707.6401,
+                "TopMargin": -131.0,
+                "BottomMargin": 67.0,
+                "Tag": 451,
+                "ActionTag": 222203770,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "header4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 676.1785,
+                  "Y": 63.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 627.1785,
+                "RightMargin": -725.1785,
+                "TopMargin": -73.0,
+                "BottomMargin": 53.0,
+                "Tag": 293,
+                "ActionTag": 659627002,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 20.0
+                },
+                "Name": "lb_nickname4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 2055088321,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "node_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1018.0,
+            "TopMargin": 130.0,
+            "Tag": 503,
+            "Children": [
+              {
+                "FontSize": 18,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 390.0,
+                  "Y": 98.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 327.0,
+                "RightMargin": -453.0,
+                "TopMargin": -108.5,
+                "BottomMargin": 87.5,
+                "Tag": 498,
+                "ActionTag": -832742870,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 21.0
+                },
+                "Name": "lb_nickname1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 535.0,
+                  "Y": 98.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 472.0,
+                "RightMargin": -598.0,
+                "TopMargin": -108.5,
+                "BottomMargin": 87.5,
+                "Tag": 499,
+                "ActionTag": 1693855377,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 21.0
+                },
+                "Name": "lb_nickname2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 680.0,
+                  "Y": 98.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 617.0,
+                "RightMargin": -743.0,
+                "TopMargin": -108.5,
+                "BottomMargin": 87.5,
+                "Tag": 500,
+                "ActionTag": 1524005521,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 21.0
+                },
+                "Name": "lb_nickname3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 390.0,
+                  "Y": 58.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 327.0,
+                "RightMargin": -453.0,
+                "TopMargin": -68.5,
+                "BottomMargin": 47.5,
+                "Tag": 501,
+                "ActionTag": -1187546724,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 21.0
+                },
+                "Name": "lb_nickname4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "名字预留七个字",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 535.0,
+                  "Y": 58.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 472.0,
+                "RightMargin": -598.0,
+                "TopMargin": -68.5,
+                "BottomMargin": 47.5,
+                "Tag": 497,
+                "ActionTag": 1377688515,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 21.0
+                },
+                "Name": "lb_nickname5",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 54778782,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "node_5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "玩法: ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.3719,
+              "Y": 29.435
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0004,
+              "Y": 0.2264
+            },
+            "PreSize": {
+              "X": 0.0511,
+              "Y": 0.1769
+            },
+            "LeftMargin": 0.3719,
+            "RightMargin": 965.6281,
+            "TopMargin": 77.565,
+            "BottomMargin": 29.435,
+            "Tag": 429,
+            "ActionTag": -896864132,
+            "Size": {
+              "X": 52.0,
+              "Y": 23.0
+            },
+            "Name": "wanfa_title",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 18,
+            "LabelText": "随州卡五星,两人玩,8倍封顶,部分亮,见四归,自摸买马,经典买马,卡五星x4,碰碰胡x4,杠上花x4,不加漂不加漂不加漂不加加不加加不加加不加加不加加不加加不加加不加加",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 57.5223,
+              "Y": -23.2214
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0565,
+              "Y": -0.1786
+            },
+            "PreSize": {
+              "X": 0.9293,
+              "Y": 0.5538
+            },
+            "LeftMargin": 57.5223,
+            "RightMargin": 14.4777,
+            "TopMargin": 81.2214,
+            "BottomMargin": -23.2214,
+            "Tag": 430,
+            "ActionTag": -1356164462,
+            "Size": {
+              "X": 946.0,
+              "Y": 72.0
+            },
+            "Name": "lb_wanfa",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/button_hf.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 801.4468,
+              "Y": 73.9944
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7873,
+              "Y": 0.5692
+            },
+            "PreSize": {
+              "X": 0.1169,
+              "Y": 0.5308
+            },
+            "LeftMargin": 741.9468,
+            "RightMargin": 157.0532,
+            "TopMargin": 21.5056,
+            "BottomMargin": 39.4944,
+            "Tag": 431,
+            "ActionTag": 1819498900,
+            "Size": {
+              "X": 119.0,
+              "Y": 69.0
+            },
+            "Name": "button_hf",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/button_jf.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 939.6353,
+              "Y": 73.9944
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.923,
+              "Y": 0.5692
+            },
+            "PreSize": {
+              "X": 0.1198,
+              "Y": 0.5154
+            },
+            "LeftMargin": 878.6353,
+            "RightMargin": 17.3647,
+            "TopMargin": 22.5056,
+            "BottomMargin": 40.4944,
+            "Tag": 432,
+            "ActionTag": 529941703,
+            "Size": {
+              "X": 122.0,
+              "Y": 67.0
+            },
+            "Name": "button_jf",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/button_yq.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 939.6345,
+              "Y": 93.4945
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.923,
+              "Y": 0.7192
+            },
+            "PreSize": {
+              "X": 0.1198,
+              "Y": 0.5154
+            },
+            "LeftMargin": 878.6345,
+            "RightMargin": 17.3655,
+            "TopMargin": 3.0055,
+            "BottomMargin": 59.9945,
+            "Tag": 433,
+            "ActionTag": -1612435378,
+            "Size": {
+              "X": 122.0,
+              "Y": 67.0
+            },
+            "Name": "button_yq",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/btn_jiesan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 811.45,
+              "Y": 93.4945
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7971,
+              "Y": 0.7192
+            },
+            "PreSize": {
+              "X": 0.1198,
+              "Y": 0.5154
+            },
+            "LeftMargin": 750.45,
+            "RightMargin": 145.55,
+            "TopMargin": 3.0055,
+            "BottomMargin": 59.9945,
+            "Tag": 506,
+            "ActionTag": -12059332,
+            "Size": {
+              "X": 122.0,
+              "Y": 67.0
+            },
+            "Name": "button_js",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "未开始",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 70.9793,
+              "Y": 64.2557
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0697,
+              "Y": 0.4943
+            },
+            "PreSize": {
+              "X": 0.0589,
+              "Y": 0.1769
+            },
+            "LeftMargin": 40.9793,
+            "RightMargin": 917.0208,
+            "TopMargin": 54.2443,
+            "BottomMargin": 52.7557,
+            "Tag": 447,
+            "ActionTag": 986508010,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "lb_state",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "已扣卡数:00",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 950.404,
+              "Y": 56.3258
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9336,
+              "Y": 0.4333
+            },
+            "PreSize": {
+              "X": 0.1061,
+              "Y": 0.1769
+            },
+            "LeftMargin": 896.404,
+            "RightMargin": 13.596,
+            "TopMargin": 62.1742,
+            "BottomMargin": 44.8258,
+            "Tag": 451,
+            "ActionTag": -2144118691,
+            "Size": {
+              "X": 108.0,
+              "Y": 23.0
+            },
+            "Name": "lb_cost_cards",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1018.0,
+          "Y": 130.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/Sprite.png",
+        "resources/button/btn_jiesan.png",
+        "resources/button/button_hf.png",
+        "resources/button/button_jf.png",
+        "resources/button/button_yq.png",
+        "resources/transparent/transparent_64x64.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,592 @@
+{
+  "ID": "b069546c-85ae-4639-a97c-da4f83f80c95",
+  "Version": "2.3.4",
+  "Name": "ZhanjiDetailItem_gdy",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 323,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_line2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 372,
+            "Scale9OriginY": 60,
+            "Scale9Width": 386,
+            "Scale9Height": 121,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -565.0,
+            "RightMargin": -565.0,
+            "TopMargin": -90.0,
+            "BottomMargin": -90.0,
+            "Tag": 332,
+            "Children": [
+              {
+                "FontSize": 40,
+                "LabelText": "No.888",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 300.0,
+                  "Y": 152.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 132,
+                  "G": 68,
+                  "B": 33
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2655,
+                  "Y": 0.8444
+                },
+                "PreSize": {
+                  "X": 0.1159,
+                  "Y": 0.25
+                },
+                "LeftMargin": 234.5,
+                "RightMargin": 764.5,
+                "TopMargin": 5.5,
+                "BottomMargin": 129.5,
+                "Tag": 165,
+                "ActionTag": 1097524170,
+                "Size": {
+                  "X": 131.0,
+                  "Y": 45.0
+                },
+                "Name": "lb_xuhao",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 40,
+                "LabelText": "8888-88-88 88:88_",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 800.0,
+                  "Y": 152.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 132,
+                  "G": 68,
+                  "B": 33
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.708,
+                  "Y": 0.8444
+                },
+                "PreSize": {
+                  "X": 0.3283,
+                  "Y": 0.25
+                },
+                "LeftMargin": 614.5,
+                "RightMargin": 144.5,
+                "TopMargin": 5.5,
+                "BottomMargin": 129.5,
+                "Tag": 166,
+                "ActionTag": -447697282,
+                "Size": {
+                  "X": 371.0,
+                  "Y": 45.0
+                },
+                "Name": "lb_time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/button_zjfx.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 850.0,
+                  "Y": 45.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7522,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.1265,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 778.5,
+                "RightMargin": 208.5,
+                "TopMargin": 95.0,
+                "BottomMargin": 5.0,
+                "Tag": 167,
+                "ActionTag": -1732644025,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_fenxiang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/btn_huifang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 990.0,
+                  "Y": 45.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8761,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.1265,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 918.5,
+                "RightMargin": 68.5,
+                "TopMargin": 95.0,
+                "BottomMargin": 5.0,
+                "Tag": 333,
+                "ActionTag": -109286558,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 80.0
+                },
+                "Name": "btn_huifang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "用户名字六个___________",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 81,
+                  "B": 25
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.0,
+                  "Y": 95.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 254,
+                  "B": 129
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0726,
+                  "Y": 0.5278
+                },
+                "PreSize": {
+                  "X": 0.2903,
+                  "Y": 0.1944
+                },
+                "LeftMargin": 82.0,
+                "RightMargin": 720.0,
+                "TopMargin": 67.5,
+                "BottomMargin": 77.5,
+                "Tag": 168,
+                "ActionTag": 1811808737,
+                "Size": {
+                  "X": 328.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_nickname1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "用户名字六个___________",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 81,
+                  "B": 25
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 428.0,
+                  "Y": 95.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 254,
+                  "B": 129
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3788,
+                  "Y": 0.5278
+                },
+                "PreSize": {
+                  "X": 0.2903,
+                  "Y": 0.1944
+                },
+                "LeftMargin": 428.0,
+                "RightMargin": 374.0,
+                "TopMargin": 67.5,
+                "BottomMargin": 77.5,
+                "Tag": 169,
+                "ActionTag": 1711809951,
+                "Size": {
+                  "X": 328.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_nickname2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "用户名字六个___________",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 81,
+                  "B": 25
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 774.0,
+                  "Y": 95.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 254,
+                  "B": 129
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.685,
+                  "Y": 0.5278
+                },
+                "PreSize": {
+                  "X": 0.2903,
+                  "Y": 0.1944
+                },
+                "LeftMargin": 774.0,
+                "RightMargin": 28.0,
+                "TopMargin": 67.5,
+                "BottomMargin": 77.5,
+                "Tag": 170,
+                "ActionTag": -551831868,
+                "Size": {
+                  "X": 328.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_nickname3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "用户名字六个___________",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 81,
+                  "B": 25
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.0,
+                  "Y": 45.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 254,
+                  "B": 129
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0726,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.2903,
+                  "Y": 0.1944
+                },
+                "LeftMargin": 82.0,
+                "RightMargin": 720.0,
+                "TopMargin": 117.5,
+                "BottomMargin": 27.5,
+                "Tag": 171,
+                "ActionTag": -151448765,
+                "Size": {
+                  "X": 328.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_nickname4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "用户名字六个___________",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 132,
+                  "G": 81,
+                  "B": 25
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 428.0,
+                  "Y": 45.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 254,
+                  "B": 129
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3788,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.2903,
+                  "Y": 0.1944
+                },
+                "LeftMargin": 428.0,
+                "RightMargin": 374.0,
+                "TopMargin": 117.5,
+                "BottomMargin": 27.5,
+                "Tag": 681,
+                "ActionTag": -1852405905,
+                "Size": {
+                  "X": 328.0,
+                  "Y": 35.0
+                },
+                "Name": "lb_nickname5",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 853427925,
+            "Size": {
+              "X": 1130.0,
+              "Y": 180.0
+            },
+            "Name": "row",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/bg_line2.png",
+        "resources/button/btn_huifang.png",
+        "resources/button/button_zjfx.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

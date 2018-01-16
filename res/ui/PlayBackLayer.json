@@ -1,0 +1,1190 @@
+{
+  "ID": "1c919726-237a-4071-a6ab-b94b685b7156",
+  "Version": "2.3.4",
+  "Name": "PlayBackLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 119,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/transparent/transparent_1280x720.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 14,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/bg_sea.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.3672,
+                  "Y": 0.1472
+                },
+                "LeftMargin": 405.0,
+                "RightMargin": 405.0,
+                "TopMargin": 415.0,
+                "BottomMargin": 199.0,
+                "Tag": 11,
+                "ActionTag": 1609028265,
+                "Size": {
+                  "X": 470.0,
+                  "Y": 106.0
+                },
+                "Name": "bg_searchpai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/back_searchpai.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.04,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.368,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.0391,
+                  "Y": 0.0569
+                },
+                "LeftMargin": 446.04,
+                "RightMargin": 783.96,
+                "TopMargin": 447.5,
+                "BottomMargin": 231.5,
+                "Tag": 10,
+                "ActionTag": -548959817,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 41.0
+                },
+                "Name": "back_searchpai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/next_searchpai.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 697.984,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5453,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.0391,
+                  "Y": 0.0569
+                },
+                "LeftMargin": 672.984,
+                "RightMargin": 557.016,
+                "TopMargin": 447.5,
+                "BottomMargin": 231.5,
+                "Tag": 15,
+                "ActionTag": 1860340794,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 41.0
+                },
+                "Name": "next_searchpai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/pause_searchpai.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 584.064,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4563,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.0375,
+                  "Y": 0.0778
+                },
+                "LeftMargin": 560.064,
+                "RightMargin": 671.936,
+                "TopMargin": 440.0,
+                "BottomMargin": 224.0,
+                "Tag": 12,
+                "ActionTag": 396275557,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 56.0
+                },
+                "Name": "pause_searchpai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/play_searchpai.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5263,
+                  "ScaleY": 0.4842
+                },
+                "Position": {
+                  "X": 584.064,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4563,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.0375,
+                  "Y": 0.075
+                },
+                "LeftMargin": 558.8016,
+                "RightMargin": 673.1984,
+                "TopMargin": 440.1468,
+                "BottomMargin": 225.8532,
+                "Tag": 13,
+                "ActionTag": 1482300526,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 54.0
+                },
+                "Name": "play_searchpai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/button/btn_back.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 808.0,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6313,
+                  "Y": 0.35
+                },
+                "PreSize": {
+                  "X": 0.0422,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 781.0,
+                "RightMargin": 445.0,
+                "TopMargin": 443.0,
+                "BottomMargin": 227.0,
+                "Tag": 93,
+                "ActionTag": 1535668952,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 50.0
+                },
+                "Name": "btn_close",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -478004560,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 5.0,
+              "Y": 598.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0039,
+              "Y": 0.8306
+            },
+            "PreSize": {
+              "X": 0.0516,
+              "Y": 0.0917
+            },
+            "LeftMargin": 5.0,
+            "RightMargin": 1209.0,
+            "TopMargin": 56.0,
+            "BottomMargin": 598.0,
+            "Tag": 1353,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "b/bg.png",
+                  "Plist": "ui/resources/card/poker_b.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 2.2879,
+                  "Y": 3.1667
+                },
+                "RightMargin": -85.0,
+                "TopMargin": -143.0,
+                "Tag": 1077,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/card/j_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0,
+                      "Y": 98.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4768,
+                      "Y": 0.4689
+                    },
+                    "PreSize": {
+                      "X": 0.9669,
+                      "Y": 0.8708
+                    },
+                    "LeftMargin": -1.0,
+                    "RightMargin": 6.0,
+                    "TopMargin": 20.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 1078,
+                    "ActionTag": -19110878,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 182.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "c",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/red_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.9091
+                    },
+                    "PreSize": {
+                      "X": 0.3311,
+                      "Y": 0.2488
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 93.0,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 138.0,
+                    "Tag": 1079,
+                    "ActionTag": -1571848850,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 52.0
+                    },
+                    "Name": "a",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bigtag_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.35,
+                      "ScaleY": 0.35
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.5742
+                    },
+                    "PreSize": {
+                      "X": 0.6755,
+                      "Y": 0.445
+                    },
+                    "LeftMargin": -18.0,
+                    "RightMargin": 67.0,
+                    "TopMargin": 42.5,
+                    "BottomMargin": 73.5,
+                    "Tag": 1080,
+                    "ActionTag": -1230259198,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 93.0
+                    },
+                    "Name": "b",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1109437420,
+                "Size": {
+                  "X": 151.0,
+                  "Y": 209.0
+                },
+                "Name": "a0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "b/bg.png",
+                  "Plist": "ui/resources/card/poker_b.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 63.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9545,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 2.2879,
+                  "Y": 3.1667
+                },
+                "LeftMargin": 63.0,
+                "RightMargin": -148.0,
+                "TopMargin": -143.0,
+                "Tag": 1081,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/card/j_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0,
+                      "Y": 98.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4768,
+                      "Y": 0.4689
+                    },
+                    "PreSize": {
+                      "X": 0.9669,
+                      "Y": 0.8708
+                    },
+                    "LeftMargin": -1.0,
+                    "RightMargin": 6.0,
+                    "TopMargin": 20.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 1082,
+                    "ActionTag": -1437582183,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 182.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "c",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/red_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.9091
+                    },
+                    "PreSize": {
+                      "X": 0.3311,
+                      "Y": 0.2488
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 93.0,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 138.0,
+                    "Tag": 1083,
+                    "ActionTag": -1969031665,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 52.0
+                    },
+                    "Name": "a",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bigtag_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.35,
+                      "ScaleY": 0.35
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.5742
+                    },
+                    "PreSize": {
+                      "X": 0.6755,
+                      "Y": 0.445
+                    },
+                    "LeftMargin": -18.0,
+                    "RightMargin": 67.0,
+                    "TopMargin": 42.5,
+                    "BottomMargin": 73.5,
+                    "Tag": 1084,
+                    "ActionTag": -161607207,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 93.0
+                    },
+                    "Name": "b",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 382487737,
+                "Size": {
+                  "X": 151.0,
+                  "Y": 209.0
+                },
+                "Name": "a1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -464240418,
+            "Size": {
+              "X": 66.0,
+              "Y": 66.0
+            },
+            "VisibleForFrame": false,
+            "Name": "row30",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1161.0,
+              "Y": 598.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.907,
+              "Y": 0.8306
+            },
+            "PreSize": {
+              "X": 0.0516,
+              "Y": 0.0917
+            },
+            "LeftMargin": 1161.0,
+            "RightMargin": 53.0,
+            "TopMargin": 56.0,
+            "BottomMargin": 598.0,
+            "Tag": 1360,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "b/bg.png",
+                  "Plist": "ui/resources/card/poker_b.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 2.2879,
+                  "Y": 3.1667
+                },
+                "RightMargin": -85.0,
+                "TopMargin": -143.0,
+                "Tag": 1093,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/card/w_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0,
+                      "Y": 98.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4768,
+                      "Y": 0.4689
+                    },
+                    "PreSize": {
+                      "X": 0.9669,
+                      "Y": 0.8708
+                    },
+                    "LeftMargin": -1.0,
+                    "RightMargin": 6.0,
+                    "TopMargin": 20.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 1094,
+                    "ActionTag": -1084690563,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 182.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "c",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/red_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.9091
+                    },
+                    "PreSize": {
+                      "X": 0.3311,
+                      "Y": 0.2488
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 93.0,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 138.0,
+                    "Tag": 1095,
+                    "ActionTag": 8049047,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 52.0
+                    },
+                    "Name": "a",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bigtag_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.35,
+                      "ScaleY": 0.35
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.5742
+                    },
+                    "PreSize": {
+                      "X": 0.6755,
+                      "Y": 0.445
+                    },
+                    "LeftMargin": -18.0,
+                    "RightMargin": 67.0,
+                    "TopMargin": 42.5,
+                    "BottomMargin": 73.5,
+                    "Tag": 1096,
+                    "ActionTag": 139922338,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 93.0
+                    },
+                    "Name": "b",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 53060446,
+                "Size": {
+                  "X": 151.0,
+                  "Y": 209.0
+                },
+                "Name": "a1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "b/bg.png",
+                  "Plist": "ui/resources/card/poker_b.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 63.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9545,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 2.2879,
+                  "Y": 3.1667
+                },
+                "LeftMargin": 63.0,
+                "RightMargin": -148.0,
+                "TopMargin": -143.0,
+                "Tag": 1089,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/card/w_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0,
+                      "Y": 98.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4768,
+                      "Y": 0.4689
+                    },
+                    "PreSize": {
+                      "X": 0.9669,
+                      "Y": 0.8708
+                    },
+                    "LeftMargin": -1.0,
+                    "RightMargin": 6.0,
+                    "TopMargin": 20.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 1090,
+                    "ActionTag": -19310599,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 182.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "c",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/red_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.9091
+                    },
+                    "PreSize": {
+                      "X": 0.3311,
+                      "Y": 0.2488
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 93.0,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 138.0,
+                    "Tag": 1091,
+                    "ActionTag": 713311320,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 52.0
+                    },
+                    "Name": "a",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "b/bigtag_0.png",
+                      "Plist": "ui/resources/card/poker_b.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.0,
+                      "Y": 120.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.35,
+                      "ScaleY": 0.35
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2185,
+                      "Y": 0.5742
+                    },
+                    "PreSize": {
+                      "X": 0.6755,
+                      "Y": 0.445
+                    },
+                    "LeftMargin": -18.0,
+                    "RightMargin": 67.0,
+                    "TopMargin": 42.5,
+                    "BottomMargin": 73.5,
+                    "Tag": 1092,
+                    "ActionTag": -1295979749,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 93.0
+                    },
+                    "Name": "b",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 913494164,
+                "Size": {
+                  "X": 151.0,
+                  "Y": 209.0
+                },
+                "Name": "a0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1213394604,
+            "Size": {
+              "X": 66.0,
+              "Y": 66.0
+            },
+            "VisibleForFrame": false,
+            "Name": "row20",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/bg_sea.png",
+        "resources/button/back_searchpai.png",
+        "resources/button/btn_back.png",
+        "resources/button/next_searchpai.png",
+        "resources/button/pause_searchpai.png",
+        "resources/button/play_searchpai.png",
+        "resources/card/j_1.png",
+        "resources/card/j_2.png",
+        "resources/card/poker_b.plist",
+        "resources/card/poker_b.png",
+        "resources/card/w_1.png",
+        "resources/card/w_2.png",
+        "resources/transparent/transparent_1280x720.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

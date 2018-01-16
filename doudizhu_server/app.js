@@ -13,11 +13,11 @@ mydb.connect(config.mysqlConfig);
 //     nick_name: "小明",
 //     avatar_url: "baidu.com",
 //     house_card_count: 5
+// // });
+// mydb.updatePlayerInfo('unique_id','100000',{
+//     nick_name: "小王",
+//     avatar_url: "腾讯.com"
 // });
-mydb.updatePlayerInfo('unique_id','100000',{
-    nick_name: "小王",
-    avatar_url: "腾讯.com"
-});
 
 
 app.on('connection', function (socket) {
@@ -81,9 +81,6 @@ app.on('connection', function (socket) {
             default:
                 break;
         }
-
-
-
     })
 });
 console.log('listen on 3000');

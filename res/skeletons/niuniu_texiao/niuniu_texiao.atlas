@@ -1,0 +1,118 @@
+
+niuniu_texiao.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/kuang01
+  rotate: false
+  xy: 522, 39
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+Images/kuang02
+  rotate: false
+  xy: 648, 39
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+Images/kuang_guang06
+  rotate: false
+  xy: 2, 2
+  size: 203, 64
+  orig: 203, 64
+  offset: 0, 0
+  index: -1
+Images/kuang_guang2
+  rotate: false
+  xy: 1854, 155
+  size: 146, 99
+  orig: 146, 99
+  offset: 0, 0
+  index: -1
+Images/kuang_guang3
+  rotate: false
+  xy: 1854, 54
+  size: 146, 99
+  orig: 146, 99
+  offset: 0, 0
+  index: -1
+Images/kuang_guang4
+  rotate: false
+  xy: 2002, 214
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Images/qiangzhuang00
+  rotate: false
+  xy: 871, 82
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Images/qiangzhuang03
+  rotate: false
+  xy: 774, 26
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang1
+  rotate: true
+  xy: 1251, 104
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang1_1
+  rotate: true
+  xy: 1452, 104
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang1_2
+  rotate: true
+  xy: 1653, 104
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang1_3
+  rotate: true
+  xy: 280, 68
+  size: 186, 240
+  orig: 186, 240
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang2
+  rotate: false
+  xy: 522, 118
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang2_1
+  rotate: false
+  xy: 765, 118
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang2_2
+  rotate: false
+  xy: 1008, 118
+  size: 241, 136
+  orig: 241, 136
+  offset: 0, 0
+  index: -1
+Images/touxiangkuang2_3
+  rotate: false
+  xy: 2, 77
+  size: 276, 177
+  orig: 276, 177
+  offset: 0, 0
+  index: -1

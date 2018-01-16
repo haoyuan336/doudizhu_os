@@ -1,0 +1,20 @@
+
+sld.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan
+  rotate: true
+  xy: 2, 2
+  size: 236, 322
+  orig: 236, 322
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 326, 102
+  size: 68, 136
+  orig: 68, 136
+  offset: 0, 0
+  index: -1

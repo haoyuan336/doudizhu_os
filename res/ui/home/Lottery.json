@@ -1,0 +1,1124 @@
+{
+  "ID": "63536907-e28b-433e-a885-aaab4265da09",
+  "Version": "2.3.4",
+  "Name": "Lottery",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 90,
+        "Speed": 1.0,
+        "ActivedAnimationName": "action",
+        "Timelines": [
+          {
+            "ActionTag": 9044812,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 325.626,
+                "Y": 323.1839,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 9044812,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 9044812,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 9044812,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 9044812,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 325.6251,
+                "Y": 325.3494,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": true,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1129087983,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 325.6245,
+                "Y": 323.1811,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": false,
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1998800744,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 90,
+          "Name": "action",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 419,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 423,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/activity/duanwu/bg_main.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 776.9562,
+                  "Y": 354.3637
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6839,
+                  "Y": 0.5537
+                },
+                "PreSize": {
+                  "X": 0.6646,
+                  "Y": 0.9391
+                },
+                "LeftMargin": 399.4562,
+                "RightMargin": -18.4562,
+                "TopMargin": -14.8637,
+                "BottomMargin": 53.8637,
+                "Tag": 422,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/activity/duanwu/plate.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -71.1641,
+                      "Y": 268.4667
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": -0.0943,
+                      "Y": 0.4467
+                    },
+                    "PreSize": {
+                      "X": 0.8596,
+                      "Y": 1.0782
+                    },
+                    "LeftMargin": -395.6641,
+                    "RightMargin": 501.6641,
+                    "TopMargin": 8.5333,
+                    "BottomMargin": -55.5333,
+                    "Tag": 424,
+                    "ActionTag": -839613119,
+                    "Size": {
+                      "X": 649.0,
+                      "Y": 648.0
+                    },
+                    "Name": "plate",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 2145286375,
+                "Size": {
+                  "X": 755.0,
+                  "Y": 601.0
+                },
+                "Name": "bg_main",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/activity/duanwu/arrow.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 327.7659,
+                  "Y": 359.8245
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2885,
+                  "Y": 0.5622
+                },
+                "PreSize": {
+                  "X": 0.1743,
+                  "Y": 0.4109
+                },
+                "LeftMargin": 228.7659,
+                "RightMargin": 709.2341,
+                "TopMargin": 148.6755,
+                "BottomMargin": 228.3245,
+                "Tag": 425,
+                "ActionTag": -1916483640,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 263.0
+                },
+                "Name": "btn_start",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/transparent/transparent.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 375.41,
+                  "Y": 381.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3305,
+                  "Y": 0.5961
+                },
+                "PreSize": {
+                  "X": 0.0009,
+                  "Y": 0.0016
+                },
+                "LeftMargin": 374.91,
+                "RightMargin": 760.09,
+                "TopMargin": 258.02,
+                "BottomMargin": 380.98,
+                "Tag": 18,
+                "ActionTag": -152221276,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Name": "btn_cant_start",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/activity/duanwu/btn_rule.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 931.9552,
+                  "Y": 168.9876
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8204,
+                  "Y": 0.264
+                },
+                "PreSize": {
+                  "X": 0.2192,
+                  "Y": 0.1484
+                },
+                "LeftMargin": 807.4552,
+                "RightMargin": 79.5448,
+                "TopMargin": 423.5124,
+                "BottomMargin": 121.4876,
+                "Tag": 426,
+                "ActionTag": -1470988750,
+                "Size": {
+                  "X": 249.0,
+                  "Y": 95.0
+                },
+                "Name": "btn_rule",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/activity/duanwu/btn_myreward.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 720.5685,
+                  "Y": 168.9876
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6343,
+                  "Y": 0.264
+                },
+                "PreSize": {
+                  "X": 0.2192,
+                  "Y": 0.1484
+                },
+                "LeftMargin": 596.0685,
+                "RightMargin": 290.9315,
+                "TopMargin": 423.5124,
+                "BottomMargin": 121.4876,
+                "Tag": 427,
+                "ActionTag": -269795431,
+                "Size": {
+                  "X": 249.0,
+                  "Y": 95.0
+                },
+                "Name": "btn_myreward",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 649887259,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/light1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 325.626,
+              "Y": 323.1839
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2866,
+              "Y": 0.505
+            },
+            "PreSize": {
+              "X": 0.5537,
+              "Y": 0.9812
+            },
+            "LeftMargin": 11.126,
+            "RightMargin": 495.874,
+            "TopMargin": 2.8161,
+            "BottomMargin": 9.1839,
+            "Tag": 428,
+            "ActionTag": 9044812,
+            "Size": {
+              "X": 629.0,
+              "Y": 628.0
+            },
+            "VisibleForFrame": false,
+            "Name": "light1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/light2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 325.6251,
+              "Y": 325.3494
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2866,
+              "Y": 0.5084
+            },
+            "PreSize": {
+              "X": 0.5537,
+              "Y": 0.9812
+            },
+            "LeftMargin": 11.1251,
+            "RightMargin": 495.8749,
+            "TopMargin": 0.6506,
+            "BottomMargin": 11.3494,
+            "Tag": 567,
+            "ActionTag": -1129087983,
+            "Size": {
+              "X": 629.0,
+              "Y": 628.0
+            },
+            "Name": "light2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/light3.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 325.6245,
+              "Y": 323.1811
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2866,
+              "Y": 0.505
+            },
+            "PreSize": {
+              "X": 0.5537,
+              "Y": 0.9812
+            },
+            "LeftMargin": 11.1245,
+            "RightMargin": 495.8755,
+            "TopMargin": 2.8189,
+            "BottomMargin": 9.1811,
+            "Tag": 568,
+            "ActionTag": -1998800744,
+            "Size": {
+              "X": 629.0,
+              "Y": 628.0
+            },
+            "VisibleForFrame": false,
+            "Name": "light3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/button_fxpyq.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 844.8676,
+              "Y": 278.0883
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7437,
+              "Y": 0.4345
+            },
+            "PreSize": {
+              "X": 0.2192,
+              "Y": 0.1469
+            },
+            "LeftMargin": 720.3676,
+            "RightMargin": 166.6324,
+            "TopMargin": 314.9117,
+            "BottomMargin": 231.0883,
+            "Tag": 429,
+            "ActionTag": -283381431,
+            "Size": {
+              "X": 249.0,
+              "Y": 94.0
+            },
+            "VisibleForFrame": false,
+            "Name": "btn_share",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/btn_close.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1053.627,
+              "Y": 554.9253
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9275,
+              "Y": 0.8671
+            },
+            "PreSize": {
+              "X": 0.0792,
+              "Y": 0.1406
+            },
+            "LeftMargin": 1008.627,
+            "RightMargin": 37.373,
+            "TopMargin": 40.0747,
+            "BottomMargin": 509.9253,
+            "Tag": 430,
+            "ActionTag": 1511635831,
+            "Size": {
+              "X": 90.0,
+              "Y": 90.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "恭喜您获得",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 830.1101,
+              "Y": 337.8514
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7307,
+              "Y": 0.5279
+            },
+            "PreSize": {
+              "X": 0.1056,
+              "Y": 0.0437
+            },
+            "LeftMargin": 770.1101,
+            "RightMargin": 245.8899,
+            "TopMargin": 288.1486,
+            "BottomMargin": 323.8514,
+            "Tag": 432,
+            "ActionTag": 1636867320,
+            "Size": {
+              "X": 120.0,
+              "Y": 28.0
+            },
+            "Name": "label",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 28,
+            "LabelText": "奖品奖品奖品",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {},
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 836.0742,
+              "Y": 294.8975
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.736,
+              "Y": 0.4608
+            },
+            "PreSize": {
+              "X": 0.1479,
+              "Y": 0.05
+            },
+            "LeftMargin": 752.0742,
+            "RightMargin": 215.9258,
+            "TopMargin": 329.1025,
+            "BottomMargin": 278.8975,
+            "Tag": 433,
+            "ActionTag": -1713506417,
+            "Size": {
+              "X": 168.0,
+              "Y": 32.0
+            },
+            "Name": "result",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "您还有0次抽奖机会",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 989.6607,
+              "Y": 273.5167
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8712,
+              "Y": 0.4274
+            },
+            "PreSize": {
+              "X": 0.272,
+              "Y": 0.0656
+            },
+            "LeftMargin": 835.1607,
+            "RightMargin": -8.1606,
+            "TopMargin": 345.4833,
+            "BottomMargin": 252.5167,
+            "Tag": 44,
+            "ActionTag": 1847609994,
+            "Size": {
+              "X": 309.0,
+              "Y": 42.0
+            },
+            "VisibleForFrame": false,
+            "Name": "txt_times",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 45,
+            "ActionTag": 1882347853,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "VisibleForFrame": false,
+            "Name": "touch_priority",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "分享朋友圈会增加中奖率哟~！",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 848.1984,
+              "Y": 229.3031
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7467,
+              "Y": 0.3583
+            },
+            "PreSize": {
+              "X": 0.2394,
+              "Y": 0.0359
+            },
+            "LeftMargin": 712.1984,
+            "RightMargin": 151.8016,
+            "TopMargin": 399.1969,
+            "BottomMargin": 217.8031,
+            "Tag": 18,
+            "ActionTag": -1637996275,
+            "Size": {
+              "X": 272.0,
+              "Y": 23.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/ui/activity/duanwu/arrow.png",
+        "../../image/ui/activity/duanwu/bg_main.png",
+        "../../image/ui/activity/duanwu/btn_close.png",
+        "../../image/ui/activity/duanwu/btn_myreward.png",
+        "../../image/ui/activity/duanwu/btn_rule.png",
+        "../../image/ui/activity/duanwu/button_fxpyq.png",
+        "../../image/ui/activity/duanwu/light1.png",
+        "../../image/ui/activity/duanwu/light2.png",
+        "../../image/ui/activity/duanwu/light3.png",
+        "../../image/ui/activity/duanwu/plate.png",
+        "../../image/ui/transparent/transparent.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,411 @@
+{
+  "ID": "1fe25d3c-7e6f-408c-b1bf-0a00576e0989",
+  "Version": "2.3.4",
+  "Name": "ZhanjiDetail",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/settlement_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 291,
+            "ActionTag": 1900053671,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_topline_phb.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.4938,
+              "Y": 0.1375
+            },
+            "LeftMargin": 324.0,
+            "RightMargin": 324.0,
+            "BottomMargin": 621.0,
+            "Tag": 132,
+            "ActionTag": 1056680484,
+            "Size": {
+              "X": 632.0,
+              "Y": 99.0
+            },
+            "Name": "bg_topline_phb_21",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/room_bg_top.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0359,
+              "Y": 0.0639
+            },
+            "LeftMargin": 617.0,
+            "RightMargin": 617.0,
+            "BottomMargin": 674.0,
+            "Tag": 203,
+            "ActionTag": 1564159987,
+            "Size": {
+              "X": 1280.0,
+              "Y": 87.0
+            },
+            "Name": "room_bg_top_43",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_topline_phb1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.3133,
+              "Y": 0.1194
+            },
+            "LeftMargin": 439.5,
+            "RightMargin": 439.5,
+            "BottomMargin": 634.0,
+            "Tag": 133,
+            "ActionTag": -845733305,
+            "Size": {
+              "X": 401.0,
+              "Y": 86.0
+            },
+            "Name": "bg_topline_phb1_22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/character/word_zjxq.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 672.3793
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9339
+            },
+            "PreSize": {
+              "X": 0.1266,
+              "Y": 0.0611
+            },
+            "LeftMargin": 559.0,
+            "RightMargin": 559.0,
+            "TopMargin": 25.6207,
+            "BottomMargin": 650.3793,
+            "Tag": 204,
+            "ActionTag": -907268221,
+            "Size": {
+              "X": 162.0,
+              "Y": 44.0
+            },
+            "Name": "word_zjxq_44",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_white.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 159,
+            "Scale9OriginY": 108,
+            "Scale9Width": 165,
+            "Scale9Height": 114,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 317.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4403
+            },
+            "PreSize": {
+              "X": 0.9852,
+              "Y": 0.9597
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 9.5,
+            "TopMargin": 57.5,
+            "BottomMargin": -28.5,
+            "Tag": 206,
+            "ActionTag": -835309994,
+            "Size": {
+              "X": 1261.0,
+              "Y": 691.0
+            },
+            "Name": "bg_white",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/backBtn1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 94.86,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0741,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0625,
+              "Y": 0.1111
+            },
+            "LeftMargin": 54.86,
+            "RightMargin": 1145.14,
+            "BottomMargin": 640.0,
+            "Tag": 276,
+            "ActionTag": 466013827,
+            "Size": {
+              "X": 80.0,
+              "Y": 80.0
+            },
+            "Name": "btn_back",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 1130,
+              "Height": 598
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 75.0,
+              "Y": 45.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0586,
+              "Y": 0.0625
+            },
+            "PreSize": {
+              "X": 0.8828,
+              "Y": 0.7569
+            },
+            "LeftMargin": 75.0,
+            "RightMargin": 75.0,
+            "TopMargin": 130.0,
+            "BottomMargin": 45.0,
+            "Tag": 189,
+            "ActionTag": 1871779606,
+            "Size": {
+              "X": 1130.0,
+              "Y": 545.0
+            },
+            "Name": "scrollview",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/bg_topline_phb.png",
+        "resources/bg/bg_topline_phb1.png",
+        "resources/bg/bg_white.png",
+        "resources/bg/room_bg_top.png",
+        "resources/bg/settlement_bg.png",
+        "resources/button/backBtn1.png",
+        "resources/character/word_zjxq.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

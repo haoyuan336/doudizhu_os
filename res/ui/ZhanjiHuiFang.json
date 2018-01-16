@@ -1,0 +1,1197 @@
+{
+  "ID": "65c0b587-53b3-4fd3-989a-4f49e5fab127",
+  "Version": "2.3.4",
+  "Name": "ZhanjiHuiFang",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 960,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/newzhanji/history_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 357.6597
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4967
+                },
+                "PreSize": {
+                  "X": 0.4875,
+                  "Y": 0.9708
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 16.0,
+                "TopMargin": 12.8403,
+                "BottomMargin": 8.1597,
+                "Tag": 352,
+                "ActionTag": -417195609,
+                "Size": {
+                  "X": 624.0,
+                  "Y": 699.0
+                },
+                "Name": "history_bg_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/newzhanji/history_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 357.6599
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": -1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4967
+                },
+                "PreSize": {
+                  "X": 0.4875,
+                  "Y": 0.9708
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 16.0,
+                "TopMargin": 12.8401,
+                "BottomMargin": 8.1599,
+                "Tag": 351,
+                "ActionTag": -1792057392,
+                "Size": {
+                  "X": 624.0,
+                  "Y": 699.0
+                },
+                "Name": "history_bg_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 961,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/newzhanji/history_cell3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 23,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 335.71
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4663
+                    },
+                    "PreSize": {
+                      "X": 0.9219,
+                      "Y": 0.8333
+                    },
+                    "LeftMargin": 50.0,
+                    "RightMargin": 50.0,
+                    "TopMargin": 84.29,
+                    "BottomMargin": 35.71,
+                    "Tag": 390,
+                    "ActionTag": 38180013,
+                    "Size": {
+                      "X": 1180.0,
+                      "Y": 600.0
+                    },
+                    "Name": "Image_4",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/history_detailcell2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 20,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 332.8
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4622
+                    },
+                    "PreSize": {
+                      "X": 0.9063,
+                      "Y": 0.6944
+                    },
+                    "LeftMargin": 60.0,
+                    "RightMargin": 60.0,
+                    "TopMargin": 137.2,
+                    "BottomMargin": 82.8,
+                    "Tag": 391,
+                    "ActionTag": -284142282,
+                    "Size": {
+                      "X": 1160.0,
+                      "Y": 500.0
+                    },
+                    "Name": "Image_5",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/newzhanji/back.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.592,
+                      "Y": 666.8662
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0512,
+                      "Y": 0.9262
+                    },
+                    "PreSize": {
+                      "X": 0.0617,
+                      "Y": 0.1097
+                    },
+                    "LeftMargin": 26.092,
+                    "RightMargin": 1174.908,
+                    "TopMargin": 13.6338,
+                    "BottomMargin": 627.3662,
+                    "Tag": 963,
+                    "ActionTag": 432310052,
+                    "Size": {
+                      "X": 79.0,
+                      "Y": 79.0
+                    },
+                    "Name": "btClose",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -453481531,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bgPanel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1992314979,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_back.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 850.2418,
+              "Y": 144.144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6643,
+              "Y": 0.2002
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 760.2418,
+            "RightMargin": 339.7582,
+            "TopMargin": 534.356,
+            "BottomMargin": 102.644,
+            "Tag": 934,
+            "ActionTag": -233717416,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_clean.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 429.9008,
+              "Y": 144.144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3359,
+              "Y": 0.2002
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 339.9008,
+            "RightMargin": 760.0992,
+            "TopMargin": 534.356,
+            "BottomMargin": 102.644,
+            "Tag": 935,
+            "ActionTag": -2077407169,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_00.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0004,
+              "Y": 144.144
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.2002
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 552.0004,
+            "RightMargin": 547.9996,
+            "TopMargin": 534.356,
+            "BottomMargin": 102.644,
+            "Tag": 936,
+            "ActionTag": 621473589,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 429.9008,
+              "Y": 426.713
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3359,
+              "Y": 0.5927
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 339.9008,
+            "RightMargin": 760.0992,
+            "TopMargin": 251.787,
+            "BottomMargin": 385.213,
+            "Tag": 937,
+            "ActionTag": -368343721,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_02.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.048,
+              "Y": 426.713
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.5927
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 552.048,
+            "RightMargin": 547.952,
+            "TopMargin": 251.787,
+            "BottomMargin": 385.213,
+            "Tag": 938,
+            "ActionTag": 177712262,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_03.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 850.2418,
+              "Y": 426.713
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6643,
+              "Y": 0.5927
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 760.2418,
+            "RightMargin": 339.7582,
+            "TopMargin": 251.787,
+            "BottomMargin": 385.213,
+            "Tag": 939,
+            "ActionTag": -865514780,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_04.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 429.9008,
+              "Y": 332.5237
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3359,
+              "Y": 0.4618
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 339.9008,
+            "RightMargin": 760.0992,
+            "TopMargin": 345.9763,
+            "BottomMargin": 291.0237,
+            "Tag": 940,
+            "ActionTag": 2002833053,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_05.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0004,
+              "Y": 332.5237
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.4618
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 552.0004,
+            "RightMargin": 547.9996,
+            "TopMargin": 345.9763,
+            "BottomMargin": 291.0237,
+            "Tag": 941,
+            "ActionTag": -1767628050,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_06.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 850.2418,
+              "Y": 332.5237
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6643,
+              "Y": 0.4618
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 760.2418,
+            "RightMargin": 339.7582,
+            "TopMargin": 345.9763,
+            "BottomMargin": 291.0237,
+            "Tag": 942,
+            "ActionTag": -1988099099,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_07.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 429.9008,
+              "Y": 238.3336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3359,
+              "Y": 0.331
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 339.9008,
+            "RightMargin": 760.0992,
+            "TopMargin": 440.1664,
+            "BottomMargin": 196.8336,
+            "Tag": 943,
+            "ActionTag": -1846763071,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_08.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0004,
+              "Y": 238.3336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.331
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 552.0004,
+            "RightMargin": 547.9996,
+            "TopMargin": 440.1664,
+            "BottomMargin": 196.8336,
+            "Tag": 944,
+            "ActionTag": 516544966,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_join_09.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 850.2418,
+              "Y": 238.3336
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6643,
+              "Y": 0.331
+            },
+            "PreSize": {
+              "X": 0.1406,
+              "Y": 0.1153
+            },
+            "LeftMargin": 760.2418,
+            "RightMargin": 339.7582,
+            "TopMargin": 440.1664,
+            "BottomMargin": 196.8336,
+            "Tag": 945,
+            "ActionTag": -1165565672,
+            "Size": {
+              "X": 180.0,
+              "Y": 83.0
+            },
+            "Name": "bt9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 162.0,
+              "Y": 29.191
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1266,
+              "Y": 0.0405
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 162.0,
+            "RightMargin": 1118.0,
+            "TopMargin": 690.809,
+            "BottomMargin": 29.191,
+            "Tag": 946,
+            "ActionTag": -65314743,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "jian",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/room2_numbg.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 28,
+            "Scale9OriginY": 28,
+            "Scale9Width": 31,
+            "Scale9Height": 31,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 531.456,
+              "Y": 526.0014
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.4152,
+              "Y": 0.7306
+            },
+            "PreSize": {
+              "X": 0.2813,
+              "Y": 0.1111
+            },
+            "LeftMargin": 351.456,
+            "RightMargin": 568.544,
+            "TopMargin": 153.9986,
+            "BottomMargin": 486.0014,
+            "Tag": 965,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 36,
+                "LabelText": "1  1  1  1  1  1  1  1",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 178.2732,
+                  "Y": 38.2751
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.4784
+                },
+                "PreSize": {
+                  "X": 0.9056,
+                  "Y": 0.5
+                },
+                "LeftMargin": 15.2732,
+                "RightMargin": 18.7268,
+                "TopMargin": 21.7249,
+                "BottomMargin": 18.2751,
+                "Tag": 966,
+                "ActionTag": 1205413364,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 40.0
+                },
+                "Name": "num",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1039653022,
+            "Size": {
+              "X": 360.0,
+              "Y": 80.0
+            },
+            "Name": "numbg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/btn_queding.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 831.0056,
+              "Y": 523.5714
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6492,
+              "Y": 0.7272
+            },
+            "PreSize": {
+              "X": 0.1641,
+              "Y": 0.0847
+            },
+            "LeftMargin": 726.0056,
+            "RightMargin": 343.9944,
+            "TopMargin": 165.9286,
+            "BottomMargin": 493.0714,
+            "Tag": 1081,
+            "ActionTag": -1629734181,
+            "Size": {
+              "X": 210.0,
+              "Y": 61.0
+            },
+            "Name": "btn_ok",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/newzhanji/titlebg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 671.9948
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9333
+            },
+            "PreSize": {
+              "X": 0.3828,
+              "Y": 0.1181
+            },
+            "LeftMargin": 395.0,
+            "RightMargin": 395.0,
+            "TopMargin": 5.5052,
+            "BottomMargin": 629.4948,
+            "Tag": 349,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/newzhanji/huifang_title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 245.0,
+                  "Y": 42.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2837,
+                  "Y": 1.0235
+                },
+                "LeftMargin": 175.5,
+                "RightMargin": 175.5,
+                "TopMargin": -1.0,
+                "BottomMargin": -1.0,
+                "Tag": 350,
+                "ActionTag": 554406253,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 87.0
+                },
+                "Name": "title1_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1132008079,
+            "Size": {
+              "X": 490.0,
+              "Y": 85.0
+            },
+            "Name": "titlebg_23",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/history_detailcell2.png",
+        "resources/newzhanji/back.png",
+        "resources/newzhanji/btn_join_00.png",
+        "resources/newzhanji/btn_join_01.png",
+        "resources/newzhanji/btn_join_02.png",
+        "resources/newzhanji/btn_join_03.png",
+        "resources/newzhanji/btn_join_04.png",
+        "resources/newzhanji/btn_join_05.png",
+        "resources/newzhanji/btn_join_06.png",
+        "resources/newzhanji/btn_join_07.png",
+        "resources/newzhanji/btn_join_08.png",
+        "resources/newzhanji/btn_join_09.png",
+        "resources/newzhanji/btn_join_back.png",
+        "resources/newzhanji/btn_join_clean.png",
+        "resources/newzhanji/btn_queding.png",
+        "resources/newzhanji/history_bg.png",
+        "resources/newzhanji/history_cell3.png",
+        "resources/newzhanji/huifang_title.png",
+        "resources/newzhanji/room2_numbg.png",
+        "resources/newzhanji/titlebg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

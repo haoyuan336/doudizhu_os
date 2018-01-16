@@ -1,0 +1,934 @@
+{
+  "ID": "dac8fba3-9db1-4d81-a8b7-a1f2752f2594",
+  "Version": "2.3.4",
+  "Name": "HuoDongRule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.1268,
+              "Y": 1.125
+            },
+            "RightMargin": -144.0,
+            "TopMargin": -80.0,
+            "Tag": 37,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6336,
+                  "Y": 0.6875
+                },
+                "LeftMargin": 234.5,
+                "RightMargin": 234.5,
+                "TopMargin": 112.5,
+                "BottomMargin": 112.5,
+                "Tag": 35,
+                "ActionTag": -295929704,
+                "Size": {
+                  "X": 811.0,
+                  "Y": 495.0
+                },
+                "Name": "rule_bg_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -647334250,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 778,
+              "Height": 615
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 225.319,
+              "Y": 142.0794
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1983,
+              "Y": 0.222
+            },
+            "PreSize": {
+              "X": 0.6593,
+              "Y": 0.6547
+            },
+            "LeftMargin": 225.319,
+            "RightMargin": 161.681,
+            "TopMargin": 78.9206,
+            "BottomMargin": 142.0794,
+            "Tag": 14,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "《活动规则》\n1.每日首次登陆获得两次免费转盘集字机会；\n2.每完成10个房间（代开房间不计入活动）可获得一次转盘集字机会；\n3.每日凌晨4点清空当日累计玩牌局数，已收集的字不会被清空，但是抽奖会消耗一组字（“丫丫、游、戏、周、年、庆”为一组字）；\r\n4.转盘每次必随机获得一个字，集齐“丫丫、游、戏、周、年、庆”组合方可进行抽奖；\r\n5.每个账号实物奖励只能获得一次，未能兑换抽奖机会的字，可以在活动结束后（3月18日）兑换为房卡，请您不要错过；\r\n6.实物奖励在活动结束后七个工作日内寄出。\r\n\r",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 376.0472,
+                  "Y": 110.12
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4834,
+                  "Y": 0.1791
+                },
+                "PreSize": {
+                  "X": 0.965,
+                  "Y": 0.6949
+                },
+                "LeftMargin": 0.6705,
+                "RightMargin": 26.576,
+                "TopMargin": 291.2029,
+                "BottomMargin": -103.557,
+                "Tag": 36,
+                "ActionTag": 1295920618,
+                "Size": {
+                  "X": 750.7534,
+                  "Y": 427.3541
+                },
+                "Name": "txt_rule",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "《奖品列表》\n\n",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 374.9938,
+                  "Y": 402.21
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.482,
+                  "Y": 0.654
+                },
+                "PreSize": {
+                  "X": 0.9452,
+                  "Y": 0.6667
+                },
+                "LeftMargin": 7.3053,
+                "RightMargin": 35.3177,
+                "TopMargin": 7.79,
+                "BottomMargin": 197.21,
+                "Tag": 457,
+                "ActionTag": -1426110888,
+                "Size": {
+                  "X": 735.377,
+                  "Y": 410.0
+                },
+                "Name": "txt_rule_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "一等奖\niphone7plus",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.4,
+                  "Y": 508.34
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1059,
+                  "Y": 0.8266
+                },
+                "PreSize": {
+                  "X": 0.1735,
+                  "Y": 0.0943
+                },
+                "LeftMargin": 14.9,
+                "RightMargin": 628.1,
+                "TopMargin": 77.66,
+                "BottomMargin": 479.34,
+                "Tag": 465,
+                "ActionTag": -1592602175,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_rule_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/fk0.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 678.09,
+                  "Y": 366.61
+                },
+                "Scale": {
+                  "ScaleX": 0.6411,
+                  "ScaleY": 0.6135
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8716,
+                  "Y": 0.5961
+                },
+                "PreSize": {
+                  "X": 0.2134,
+                  "Y": 0.187
+                },
+                "LeftMargin": 595.09,
+                "RightMargin": 16.91,
+                "TopMargin": 190.89,
+                "BottomMargin": 309.11,
+                "Tag": 458,
+                "ActionTag": 839075293,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 115.0
+                },
+                "Name": "fk0_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/iphone.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 217.76,
+                  "Y": 512.66
+                },
+                "Scale": {
+                  "ScaleX": 0.8014,
+                  "ScaleY": 0.7669
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2799,
+                  "Y": 0.8336
+                },
+                "PreSize": {
+                  "X": 0.1465,
+                  "Y": 0.1951
+                },
+                "LeftMargin": 160.76,
+                "RightMargin": 503.24,
+                "TopMargin": 42.34,
+                "BottomMargin": 452.66,
+                "Tag": 459,
+                "ActionTag": 1426247753,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 120.0
+                },
+                "Name": "iphone_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/mi.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 678.09,
+                  "Y": 512.66
+                },
+                "Scale": {
+                  "ScaleX": 0.7212,
+                  "ScaleY": 0.6903
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8716,
+                  "Y": 0.8336
+                },
+                "PreSize": {
+                  "X": 0.2339,
+                  "Y": 0.1659
+                },
+                "LeftMargin": 587.09,
+                "RightMargin": 8.91,
+                "TopMargin": 51.34,
+                "BottomMargin": 461.66,
+                "Tag": 461,
+                "ActionTag": 357537069,
+                "Size": {
+                  "X": 182.0,
+                  "Y": 102.0
+                },
+                "Name": "mi_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/pad.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 437.95,
+                  "Y": 512.66
+                },
+                "Scale": {
+                  "ScaleX": 0.5609,
+                  "ScaleY": 0.5369
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5629,
+                  "Y": 0.8336
+                },
+                "PreSize": {
+                  "X": 0.1568,
+                  "Y": 0.2894
+                },
+                "LeftMargin": 376.95,
+                "RightMargin": 279.05,
+                "TopMargin": 13.34,
+                "BottomMargin": 423.66,
+                "Tag": 462,
+                "ActionTag": -117874250,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 178.0
+                },
+                "Name": "pad_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/yx.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 217.76,
+                  "Y": 368.22
+                },
+                "Scale": {
+                  "ScaleX": 0.6411,
+                  "ScaleY": 0.6135
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2799,
+                  "Y": 0.5987
+                },
+                "PreSize": {
+                  "X": 0.1954,
+                  "Y": 0.2358
+                },
+                "LeftMargin": 141.76,
+                "RightMargin": 484.24,
+                "TopMargin": 174.28,
+                "BottomMargin": 295.72,
+                "Tag": 463,
+                "ActionTag": 1082354386,
+                "Size": {
+                  "X": 152.0,
+                  "Y": 145.0
+                },
+                "Name": "yx_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/chongdianbao.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 437.95,
+                  "Y": 366.61
+                },
+                "Scale": {
+                  "ScaleX": 0.3206,
+                  "ScaleY": 0.3068
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5629,
+                  "Y": 0.5961
+                },
+                "PreSize": {
+                  "X": 0.1658,
+                  "Y": 0.3886
+                },
+                "LeftMargin": 373.45,
+                "RightMargin": 275.55,
+                "TopMargin": 128.89,
+                "BottomMargin": 247.11,
+                "Tag": 464,
+                "ActionTag": 1043328389,
+                "Size": {
+                  "X": 129.0,
+                  "Y": 239.0
+                },
+                "Name": "chongdianbao_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "二等奖\nipad air2 ",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 339.8101,
+                  "Y": 508.34
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4368,
+                  "Y": 0.8266
+                },
+                "PreSize": {
+                  "X": 0.1234,
+                  "Y": 0.0943
+                },
+                "LeftMargin": 291.8101,
+                "RightMargin": 390.1899,
+                "TopMargin": 77.66,
+                "BottomMargin": 479.34,
+                "Tag": 20,
+                "ActionTag": 642266944,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_rule_0_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "三等奖\n小米盒子",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.63,
+                  "Y": 508.34
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7039,
+                  "Y": 0.8266
+                },
+                "PreSize": {
+                  "X": 0.1285,
+                  "Y": 0.0943
+                },
+                "LeftMargin": 497.63,
+                "RightMargin": 180.37,
+                "TopMargin": 77.66,
+                "BottomMargin": 479.34,
+                "Tag": 21,
+                "ActionTag": 26647965,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_rule_0_0_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "四等奖\nJBL蓝牙音箱",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.4,
+                  "Y": 374.55
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1059,
+                  "Y": 0.609
+                },
+                "PreSize": {
+                  "X": 0.1851,
+                  "Y": 0.0943
+                },
+                "LeftMargin": 10.4,
+                "RightMargin": 623.6,
+                "TopMargin": 211.45,
+                "BottomMargin": 345.55,
+                "Tag": 22,
+                "ActionTag": -1406869107,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_rule_0_0_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "五等奖\n小米充电宝",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 339.8101,
+                  "Y": 374.55
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4368,
+                  "Y": 0.609
+                },
+                "PreSize": {
+                  "X": 0.1607,
+                  "Y": 0.0943
+                },
+                "LeftMargin": 277.3101,
+                "RightMargin": 375.6899,
+                "TopMargin": 211.45,
+                "BottomMargin": 345.55,
+                "Tag": 23,
+                "ActionTag": -1392183111,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_rule_0_0_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "六等奖\n房卡",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 547.63,
+                  "Y": 374.55
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 244,
+                  "B": 170
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7039,
+                  "Y": 0.609
+                },
+                "PreSize": {
+                  "X": 0.0964,
+                  "Y": 0.0943
+                },
+                "LeftMargin": 510.13,
+                "RightMargin": 192.87,
+                "TopMargin": 211.45,
+                "BottomMargin": 345.55,
+                "Tag": 24,
+                "ActionTag": 1939003162,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_rule_0_0_3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1387066,
+            "Size": {
+              "X": 749.0,
+              "Y": 419.0
+            },
+            "Name": "ScrollView_1",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/jizizhuanpan/erjijiemian/close.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 904.9545,
+              "Y": 528.9083
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7966,
+              "Y": 0.8264
+            },
+            "PreSize": {
+              "X": 0.0572,
+              "Y": 0.1016
+            },
+            "LeftMargin": 872.4545,
+            "RightMargin": 198.5455,
+            "TopMargin": 78.5917,
+            "BottomMargin": 496.4083,
+            "Tag": 38,
+            "ActionTag": -1593752445,
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/ui/jizizhuanpan/erjijiemian/bg.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/chongdianbao.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/close.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/fk0.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/iphone.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/mi.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/pad.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/yx.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

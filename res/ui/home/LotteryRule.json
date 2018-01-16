@@ -1,0 +1,231 @@
+{
+  "ID": "a7e6207f-21ea-4127-ad10-637905d6602c",
+  "Version": "2.3.4",
+  "Name": "LotteryRule",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 37,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/activity/duanwu/rule_bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 669.2813,
+                  "Y": 354.6641
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5229,
+                  "Y": 0.4926
+                },
+                "PreSize": {
+                  "X": 0.6383,
+                  "Y": 0.8056
+                },
+                "LeftMargin": 260.7813,
+                "RightMargin": 202.2188,
+                "TopMargin": 75.3359,
+                "BottomMargin": 64.6641,
+                "Tag": 35,
+                "ActionTag": -295929704,
+                "Size": {
+                  "X": 817.0,
+                  "Y": 580.0
+                },
+                "Name": "rule_bg_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 35,
+                "LabelText": "活动规则活动规则活动规则活动规则活动规则活动规则活动规则活动规则活动规则活动规则活动规则",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "image/fonts/FZZY.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 657.2219,
+                  "Y": 316.1266
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5135,
+                  "Y": 0.4391
+                },
+                "PreSize": {
+                  "X": 0.3906,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 407.2219,
+                "RightMargin": 372.7781,
+                "TopMargin": 203.8734,
+                "BottomMargin": 116.1266,
+                "Tag": 36,
+                "ActionTag": 1295920618,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 400.0
+                },
+                "Name": "txt_rule",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -647334250,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/btn_close.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1019.0317,
+              "Y": 629.078
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7961,
+              "Y": 0.8737
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.125
+            },
+            "LeftMargin": 974.0317,
+            "RightMargin": 215.9683,
+            "TopMargin": 45.922,
+            "BottomMargin": 584.078,
+            "Tag": 38,
+            "ActionTag": -1593752445,
+            "Size": {
+              "X": 90.0,
+              "Y": 90.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/fonts/FZZY.TTF",
+        "../../image/ui/activity/duanwu/btn_close.png",
+        "../../image/ui/activity/duanwu/rule_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

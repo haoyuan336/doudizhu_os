@@ -1,0 +1,516 @@
+{
+  "ID": "59c0230d-2fc1-400d-ba60-bd6f6e96b80c",
+  "Version": "2.3.4",
+  "Name": "YaoQing",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.4005,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0011,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.4005,
+            "RightMargin": -1.4005,
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8834,
+                  "ScaleY": 0.8825
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 65,
+                "ActionTag": -912358068,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/hall/yq_BG1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 659.504,
+                  "Y": 369.4619
+                },
+                "Scale": {
+                  "ScaleX": 1.3,
+                  "ScaleY": 1.3
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5152,
+                  "Y": 0.5131
+                },
+                "PreSize": {
+                  "X": 0.4789,
+                  "Y": 0.4556
+                },
+                "LeftMargin": 353.004,
+                "RightMargin": 313.996,
+                "TopMargin": 186.5381,
+                "BottomMargin": 205.4619,
+                "Tag": 175,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/word_qsryqm.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 190.7105,
+                      "Y": 238.6929
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3111,
+                      "Y": 0.7277
+                    },
+                    "PreSize": {
+                      "X": 0.4454,
+                      "Y": 0.128
+                    },
+                    "LeftMargin": 54.2105,
+                    "RightMargin": 285.7895,
+                    "TopMargin": 68.3071,
+                    "BottomMargin": 217.6929,
+                    "Tag": 31,
+                    "ActionTag": 494768119,
+                    "Size": {
+                      "X": 273.0,
+                      "Y": 42.0
+                    },
+                    "Name": "word_qsryqm_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/hall/yq_BG2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 306.5,
+                      "Y": 164.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7194,
+                      "Y": 0.1707
+                    },
+                    "LeftMargin": 86.0,
+                    "RightMargin": 86.0,
+                    "TopMargin": 136.0,
+                    "BottomMargin": 136.0,
+                    "Tag": 32,
+                    "ActionTag": -2021942957,
+                    "Size": {
+                      "X": 441.0,
+                      "Y": 56.0
+                    },
+                    "Name": "yq_BG2_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "",
+                    "MaxLengthEnable": true,
+                    "MaxLengthText": 6,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 305.652,
+                      "Y": 164.9301
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4986,
+                      "Y": 0.5028
+                    },
+                    "PreSize": {
+                      "X": 0.6199,
+                      "Y": 0.0915
+                    },
+                    "LeftMargin": 115.652,
+                    "RightMargin": 117.348,
+                    "TopMargin": 148.0699,
+                    "BottomMargin": 149.9301,
+                    "Tag": 33,
+                    "ActionTag": 1030197105,
+                    "Size": {
+                      "X": 380.0,
+                      "Y": 30.0
+                    },
+                    "Name": "input",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/btn/btn_commit.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 190.0082,
+                      "Y": 69.8639
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.31,
+                      "Y": 0.213
+                    },
+                    "PreSize": {
+                      "X": 0.3328,
+                      "Y": 0.2256
+                    },
+                    "LeftMargin": 88.0082,
+                    "RightMargin": 320.9918,
+                    "TopMargin": 221.1361,
+                    "BottomMargin": 32.8639,
+                    "Tag": 232,
+                    "Children": [
+                      {
+                        "FontSize": 54,
+                        "LabelText": "确 定",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 61,
+                          "G": 55,
+                          "B": 55
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 102.0,
+                          "Y": 37.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7839,
+                          "ScaleY": 0.7839
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6078,
+                          "Y": 0.8243
+                        },
+                        "LeftMargin": 40.0,
+                        "RightMargin": 40.0,
+                        "TopMargin": 6.5,
+                        "BottomMargin": 6.5,
+                        "Tag": 360,
+                        "ActionTag": 1929130340,
+                        "Size": {
+                          "X": 124.0,
+                          "Y": 61.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "_",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1447295663,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 74.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/btn/btn_cancel.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 431.5331,
+                      "Y": 68.756
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.704,
+                      "Y": 0.2096
+                    },
+                    "PreSize": {
+                      "X": 0.3328,
+                      "Y": 0.2256
+                    },
+                    "LeftMargin": 329.5331,
+                    "RightMargin": 79.4669,
+                    "TopMargin": 222.244,
+                    "BottomMargin": 31.756,
+                    "Tag": 233,
+                    "Children": [
+                      {
+                        "FontSize": 54,
+                        "LabelText": "取 消",
+                        "OutlineSize": 2,
+                        "OutlineColor": {
+                          "R": 61,
+                          "G": 55,
+                          "B": 55
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 102.0,
+                          "Y": 37.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7839,
+                          "ScaleY": 0.7839
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6078,
+                          "Y": 0.8243
+                        },
+                        "LeftMargin": 40.0,
+                        "RightMargin": 40.0,
+                        "TopMargin": 6.5,
+                        "BottomMargin": 6.5,
+                        "Tag": 361,
+                        "ActionTag": -1315703079,
+                        "Size": {
+                          "X": 124.0,
+                          "Y": 61.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "_",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1694092112,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 74.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 759360622,
+                "Size": {
+                  "X": 613.0,
+                  "Y": 328.0
+                },
+                "Name": "panel",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/ui/btn/btn_cancel.png",
+        "../../image/ui/btn/btn_commit.png",
+        "../../image/ui/hall/word_qsryqm.png",
+        "../../image/ui/hall/yq_BG1.png",
+        "../../image/ui/hall/yq_BG2.png",
+        "../../image/ui/transparent/transparent_1280x720.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

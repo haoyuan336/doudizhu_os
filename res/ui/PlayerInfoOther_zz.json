@@ -1,0 +1,1182 @@
+{
+  "ID": "8436c4d3-0cf1-4a43-b7da-76a09e0824fa",
+  "Version": "2.3.4",
+  "Name": "PlayerInfoOther_zz",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 66,
+                "ActionTag": 1553104184,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/room/player_info_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 50,
+                "Scale9OriginY": 50,
+                "Scale9Width": 557,
+                "Scale9Height": 177,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 240.0,
+                "RightMargin": 240.0,
+                "TopMargin": 160.0,
+                "BottomMargin": 160.0,
+                "Tag": 12,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/head/transparent_132x132.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 122.16,
+                      "Y": 279.48
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1527,
+                      "Y": 0.6987
+                    },
+                    "PreSize": {
+                      "X": 0.15,
+                      "Y": 0.3
+                    },
+                    "LeftMargin": 62.16,
+                    "RightMargin": 617.84,
+                    "TopMargin": 60.52,
+                    "BottomMargin": 219.48,
+                    "Tag": 264,
+                    "ActionTag": -1462026916,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 120.0
+                    },
+                    "Name": "head",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/head/head_132x132.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 122.16,
+                      "Y": 279.48
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1527,
+                      "Y": 0.6987
+                    },
+                    "PreSize": {
+                      "X": 0.165,
+                      "Y": 0.33
+                    },
+                    "LeftMargin": 56.16,
+                    "RightMargin": 611.84,
+                    "TopMargin": 54.52,
+                    "BottomMargin": 213.48,
+                    "Tag": 1043,
+                    "ActionTag": 254721292,
+                    "Size": {
+                      "X": 132.0,
+                      "Y": 132.0
+                    },
+                    "Name": "headbg",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room/laba.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 663.0,
+                      "Y": 305.0
+                    },
+                    "Scale": {
+                      "ScaleX": 2.0,
+                      "ScaleY": 2.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8288,
+                      "Y": 0.7625
+                    },
+                    "PreSize": {
+                      "X": 0.0475,
+                      "Y": 0.0725
+                    },
+                    "LeftMargin": 644.0,
+                    "RightMargin": 118.0,
+                    "TopMargin": 80.5,
+                    "BottomMargin": 290.5,
+                    "Tag": 811,
+                    "ActionTag": -1995622897,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 29.0
+                    },
+                    "Name": "voice",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room/male.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 166.8158,
+                      "Y": 237.1801
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2085,
+                      "Y": 0.593
+                    },
+                    "PreSize": {
+                      "X": 0.0688,
+                      "Y": 0.1375
+                    },
+                    "LeftMargin": 139.3158,
+                    "RightMargin": 605.6842,
+                    "TopMargin": 135.3199,
+                    "BottomMargin": 209.6801,
+                    "Tag": 266,
+                    "ActionTag": -994952128,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 55.0
+                    },
+                    "Name": "female",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/room/female.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 166.8158,
+                      "Y": 237.1801
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2085,
+                      "Y": 0.593
+                    },
+                    "PreSize": {
+                      "X": 0.0688,
+                      "Y": 0.1375
+                    },
+                    "LeftMargin": 139.3158,
+                    "RightMargin": 605.6842,
+                    "TopMargin": 135.3199,
+                    "BottomMargin": 209.6801,
+                    "Tag": 265,
+                    "ActionTag": 627921971,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 55.0
+                    },
+                    "Name": "male",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "这里最多七个字",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 123,
+                      "G": 97,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -1.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 221.51,
+                      "Y": 339.646
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 124,
+                      "G": 100,
+                      "B": 100
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2769,
+                      "Y": 0.8491
+                    },
+                    "PreSize": {
+                      "X": 0.3187,
+                      "Y": 0.1025
+                    },
+                    "LeftMargin": 221.51,
+                    "RightMargin": 323.49,
+                    "TopMargin": 39.854,
+                    "BottomMargin": 319.146,
+                    "Tag": 262,
+                    "ActionTag": -1019487879,
+                    "Size": {
+                      "X": 255.0,
+                      "Y": 41.0
+                    },
+                    "Name": "lb_nickname",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "ID: 12345678900000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 221.51,
+                      "Y": 289.6466
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 124,
+                      "G": 100,
+                      "B": 100
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2769,
+                      "Y": 0.7241
+                    },
+                    "PreSize": {
+                      "X": 0.3275,
+                      "Y": 0.085
+                    },
+                    "LeftMargin": 221.51,
+                    "RightMargin": 316.49,
+                    "TopMargin": 93.3534,
+                    "BottomMargin": 272.6466,
+                    "Tag": 267,
+                    "ActionTag": 581923852,
+                    "Size": {
+                      "X": 262.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "中国北京市朝阳区清河中街莲花乡池水沟子镇----------",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 491.5103,
+                      "Y": 186.9318
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 124,
+                      "G": 100,
+                      "B": 100
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6144,
+                      "Y": 0.4673
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 221.5103,
+                    "RightMargin": 38.4897,
+                    "TopMargin": 173.0682,
+                    "BottomMargin": 146.9318,
+                    "Tag": 1720,
+                    "ActionTag": 2109362657,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 80.0
+                    },
+                    "Name": "lb_ad",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "IP: 255.255.255.255",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 221.51,
+                      "Y": 249.4437
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 124,
+                      "G": 100,
+                      "B": 100
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2769,
+                      "Y": 0.6236
+                    },
+                    "PreSize": {
+                      "X": 0.3187,
+                      "Y": 0.085
+                    },
+                    "LeftMargin": 221.51,
+                    "RightMargin": 323.49,
+                    "TopMargin": 133.5563,
+                    "BottomMargin": 232.4437,
+                    "Tag": 269,
+                    "ActionTag": 151328342,
+                    "Size": {
+                      "X": 255.0,
+                      "Y": 34.0
+                    },
+                    "Name": "lb_ip",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "距我9999米",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.4893,
+                      "Y": 188.7043
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 168,
+                      "G": 104,
+                      "B": 56
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0719,
+                      "Y": 0.4718
+                    },
+                    "PreSize": {
+                      "X": 0.1963,
+                      "Y": 0.085
+                    },
+                    "LeftMargin": 57.4893,
+                    "RightMargin": 585.5107,
+                    "TopMargin": 194.2957,
+                    "BottomMargin": 171.7043,
+                    "Tag": 13,
+                    "ActionTag": -440715927,
+                    "Size": {
+                      "X": 157.0,
+                      "Y": 34.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "lb_dt",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/animationtalk/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.0,
+                      "Y": 95.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.18,
+                      "Y": 0.2375
+                    },
+                    "PreSize": {
+                      "X": 0.1538,
+                      "Y": 0.305
+                    },
+                    "LeftMargin": 82.5,
+                    "RightMargin": 594.5,
+                    "TopMargin": 244.0,
+                    "BottomMargin": 34.0,
+                    "Tag": 243,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/animationtalk/effect_emoji_good.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 61.5,
+                          "Y": 61.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5528,
+                          "Y": 0.8033
+                        },
+                        "LeftMargin": 27.5,
+                        "RightMargin": 27.5,
+                        "TopMargin": 12.0,
+                        "BottomMargin": 12.0,
+                        "Tag": 247,
+                        "ActionTag": -1274862146,
+                        "Size": {
+                          "X": 68.0,
+                          "Y": 98.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1552676172,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 122.0
+                    },
+                    "Name": "emoji1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/animationtalk/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 272.0,
+                      "Y": 95.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.34,
+                      "Y": 0.2375
+                    },
+                    "PreSize": {
+                      "X": 0.1538,
+                      "Y": 0.305
+                    },
+                    "LeftMargin": 210.5,
+                    "RightMargin": 466.5,
+                    "TopMargin": 244.0,
+                    "BottomMargin": 34.0,
+                    "Tag": 244,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/animationtalk/effect_emoji_bomb.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 61.5,
+                          "Y": 61.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6016,
+                          "Y": 0.7787
+                        },
+                        "LeftMargin": 24.5,
+                        "RightMargin": 24.5,
+                        "TopMargin": 13.5,
+                        "BottomMargin": 13.5,
+                        "Tag": 248,
+                        "ActionTag": -317567386,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 95.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 945715901,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 122.0
+                    },
+                    "Name": "emoji2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/animationtalk/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 95.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2375
+                    },
+                    "PreSize": {
+                      "X": 0.1538,
+                      "Y": 0.305
+                    },
+                    "LeftMargin": 338.5,
+                    "RightMargin": 338.5,
+                    "TopMargin": 244.0,
+                    "BottomMargin": 34.0,
+                    "Tag": 242,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/animationtalk/effect_emoji_egg.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 61.5,
+                          "Y": 61.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5285,
+                          "Y": 0.6967
+                        },
+                        "LeftMargin": 29.0,
+                        "RightMargin": 29.0,
+                        "TopMargin": 18.5,
+                        "BottomMargin": 18.5,
+                        "Tag": 249,
+                        "ActionTag": 1798286855,
+                        "Size": {
+                          "X": 65.0,
+                          "Y": 85.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1556571215,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 122.0
+                    },
+                    "Name": "emoji3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/animationtalk/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 528.0,
+                      "Y": 95.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.66,
+                      "Y": 0.2375
+                    },
+                    "PreSize": {
+                      "X": 0.1538,
+                      "Y": 0.305
+                    },
+                    "LeftMargin": 466.5,
+                    "RightMargin": 210.5,
+                    "TopMargin": 244.0,
+                    "BottomMargin": 34.0,
+                    "Tag": 245,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/animationtalk/effect_emoji_shoe.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 61.5,
+                          "Y": 61.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.5854,
+                          "Y": 0.7869
+                        },
+                        "LeftMargin": 25.5,
+                        "RightMargin": 25.5,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 13.0,
+                        "Tag": 250,
+                        "ActionTag": 1564762584,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 96.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1803992530,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 122.0
+                    },
+                    "Name": "emoji4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "image/ui/animationtalk/effect_emoji_di.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 656.0,
+                      "Y": 95.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.82,
+                      "Y": 0.2375
+                    },
+                    "PreSize": {
+                      "X": 0.1538,
+                      "Y": 0.305
+                    },
+                    "LeftMargin": 594.5,
+                    "RightMargin": 82.5,
+                    "TopMargin": 244.0,
+                    "BottomMargin": 34.0,
+                    "Tag": 246,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "image/ui/animationtalk/effect_emoji_flower.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 61.5,
+                          "Y": 61.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.6016,
+                          "Y": 0.7705
+                        },
+                        "LeftMargin": 24.5,
+                        "RightMargin": 24.5,
+                        "TopMargin": 14.0,
+                        "BottomMargin": 14.0,
+                        "Tag": 251,
+                        "ActionTag": 2055377389,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 94.0
+                        },
+                        "Name": "emoji",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -473866460,
+                    "Size": {
+                      "X": 123.0,
+                      "Y": 122.0
+                    },
+                    "Name": "emoji5",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1084493223,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 400.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../image/fonts/FZZY.TTF",
+        "../image/ui/animationtalk/effect_emoji_bomb.png",
+        "../image/ui/animationtalk/effect_emoji_di.png",
+        "../image/ui/animationtalk/effect_emoji_egg.png",
+        "../image/ui/animationtalk/effect_emoji_flower.png",
+        "../image/ui/animationtalk/effect_emoji_good.png",
+        "../image/ui/animationtalk/effect_emoji_shoe.png",
+        "../image/ui/head/head_132x132.png",
+        "../image/ui/head/transparent_132x132.png",
+        "../image/ui/room/female.png",
+        "../image/ui/room/laba.png",
+        "../image/ui/room/male.png",
+        "../image/ui/room/player_info_bg.png",
+        "../image/ui/transparent/transparent_1280x720.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,381 @@
+{
+  "ID": "16f257ee-e359-4149-b79b-84a9284c78a4",
+  "Version": "2.3.4",
+  "Name": "MyReward",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 41,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/tishiBg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.65,
+                  "Y": 0.6917
+                },
+                "LeftMargin": 224.0,
+                "RightMargin": 224.0,
+                "TopMargin": 111.0,
+                "BottomMargin": 111.0,
+                "Tag": 40,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/character/word_wdjl.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 420.0,
+                      "Y": 440.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5048,
+                      "Y": 0.8835
+                    },
+                    "PreSize": {
+                      "X": 0.2981,
+                      "Y": 0.1345
+                    },
+                    "LeftMargin": 296.0,
+                    "RightMargin": 288.0,
+                    "TopMargin": 24.5,
+                    "BottomMargin": 406.5,
+                    "Tag": 40,
+                    "ActionTag": -2063966183,
+                    "Size": {
+                      "X": 248.0,
+                      "Y": 67.0
+                    },
+                    "Name": "word_wdjl_3",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -429991257,
+                "Size": {
+                  "X": 832.0,
+                  "Y": 498.0
+                },
+                "Name": "bg_myreward",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 287304129,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 340.0,
+              "Y": 274.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2656,
+              "Y": 0.3806
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.3153
+            },
+            "LeftMargin": 340.0,
+            "RightMargin": 340.0,
+            "TopMargin": 219.0,
+            "BottomMargin": 274.0,
+            "Tag": 42,
+            "ActionTag": -556201317,
+            "Size": {
+              "X": 600.0,
+              "Y": 227.0
+            },
+            "Name": "iitem_list",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/tips_x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 992.0,
+              "Y": 546.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.775,
+              "Y": 0.7583
+            },
+            "PreSize": {
+              "X": 0.0547,
+              "Y": 0.0972
+            },
+            "LeftMargin": 957.0,
+            "RightMargin": 253.0,
+            "TopMargin": 139.0,
+            "BottomMargin": 511.0,
+            "Tag": 43,
+            "ActionTag": -1788279955,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/button_g.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 194.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2694
+            },
+            "PreSize": {
+              "X": 0.2266,
+              "Y": 0.1208
+            },
+            "LeftMargin": 495.0,
+            "RightMargin": 495.0,
+            "TopMargin": 482.5,
+            "BottomMargin": 150.5,
+            "Tag": 72,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "确  定",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 61,
+                  "G": 55,
+                  "B": 55
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 145.0,
+                  "Y": 45.24
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.52
+                },
+                "PreSize": {
+                  "X": 0.3241,
+                  "Y": 0.4598
+                },
+                "LeftMargin": 98.0,
+                "RightMargin": 98.0,
+                "TopMargin": 21.76,
+                "BottomMargin": 25.24,
+                "Tag": 73,
+                "ActionTag": -446846902,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 40.0
+                },
+                "Name": "btn_name",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 69230143,
+            "Size": {
+              "X": 290.0,
+              "Y": 87.0
+            },
+            "Name": "btn_ok",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/tishiBg.png",
+        "resources/button/button_g.png",
+        "resources/button/tips_x.png",
+        "resources/character/word_wdjl.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,737 @@
+{
+  "ID": "65cd7890-1bcc-4f28-8002-68a60fab91a8",
+  "Version": "2.3.4",
+  "Name": "Shenqingjiesan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 76,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/transparent/transparent_1280x720.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 65,
+                "ActionTag": -912358068,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "fake_root",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.65,
+                  "Y": 0.6917
+                },
+                "LeftMargin": 224.0,
+                "RightMargin": 224.0,
+                "TopMargin": 111.0,
+                "BottomMargin": 111.0,
+                "Tag": 13,
+                "Children": [
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/messagebg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 156,
+                    "Scale9Width": 144,
+                    "Scale9Height": 163,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.0,
+                      "Y": 249.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2476,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5048,
+                      "Y": 0.9538
+                    },
+                    "LeftMargin": -4.0,
+                    "RightMargin": 416.0,
+                    "TopMargin": 11.5,
+                    "BottomMargin": 11.5,
+                    "Tag": 14,
+                    "ActionTag": -1890412699,
+                    "Size": {
+                      "X": 420.0,
+                      "Y": 475.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/messagebg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 138,
+                    "Scale9OriginY": 156,
+                    "Scale9Width": 144,
+                    "Scale9Height": 163,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 626.0,
+                      "Y": 249.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7524,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5048,
+                      "Y": 0.9538
+                    },
+                    "LeftMargin": 416.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": 11.5,
+                    "BottomMargin": 11.5,
+                    "Tag": 15,
+                    "ActionTag": -1083653528,
+                    "Size": {
+                      "X": 420.0,
+                      "Y": 475.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/setting/commom_title_bg2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 139,
+                    "Scale9OriginY": 28,
+                    "Scale9Width": 144,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 455.7643
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9152
+                    },
+                    "PreSize": {
+                      "X": 0.5072,
+                      "Y": 0.1707
+                    },
+                    "LeftMargin": 205.0,
+                    "RightMargin": 205.0,
+                    "TopMargin": -0.2643,
+                    "BottomMargin": 413.2643,
+                    "Tag": 16,
+                    "ActionTag": -8419259,
+                    "Size": {
+                      "X": 422.0,
+                      "Y": 85.0
+                    },
+                    "Name": "Image_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 31,
+                    "LabelText": "玩家【王小明】申请解散房间, 请问是否同意?\n\n【王小明】 未选择\n【王小明】 未选择\n【王小明】 未选择\n【王小明】 未选择\n",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 416.0,
+                      "Y": 362.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 197,
+                      "G": 213
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.7269
+                    },
+                    "PreSize": {
+                      "X": 0.7912,
+                      "Y": 0.4913
+                    },
+                    "LeftMargin": 86.8647,
+                    "RightMargin": 86.8647,
+                    "TopMargin": 136.0,
+                    "BottomMargin": 117.3294,
+                    "Tag": 234,
+                    "ActionTag": 564154279,
+                    "Size": {
+                      "X": 658.2706,
+                      "Y": 244.6706
+                    },
+                    "Name": "lb_content",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/btn_cancelbg.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 582.4,
+                      "Y": 73.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7,
+                      "Y": 0.1466
+                    },
+                    "PreSize": {
+                      "X": 0.2524,
+                      "Y": 0.1225
+                    },
+                    "LeftMargin": 477.4,
+                    "RightMargin": 144.6,
+                    "TopMargin": 394.4999,
+                    "BottomMargin": 42.5001,
+                    "Tag": 865,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 36,
+                        "LabelText": "拒 绝",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineSize": 3,
+                        "OutlineColor": {
+                          "R": 184,
+                          "G": 68,
+                          "B": 201
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 105.0,
+                          "Y": 32.33
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.4762,
+                          "Y": 0.7705
+                        },
+                        "LeftMargin": 55.0,
+                        "RightMargin": 55.0,
+                        "TopMargin": 5.17,
+                        "BottomMargin": 8.83,
+                        "Tag": 866,
+                        "ActionTag": -535862004,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 47.0
+                        },
+                        "Name": "_",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -266574703,
+                    "Size": {
+                      "X": 210.0,
+                      "Y": 61.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/btn_confirmbg.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.6,
+                      "Y": 73.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3,
+                      "Y": 0.1466
+                    },
+                    "PreSize": {
+                      "X": 0.2524,
+                      "Y": 0.1225
+                    },
+                    "LeftMargin": 144.6,
+                    "RightMargin": 477.4,
+                    "TopMargin": 394.5,
+                    "BottomMargin": 42.5,
+                    "Tag": 867,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 36,
+                        "LabelText": "确 定",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "ui/resources/fonts/FZZY.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineSize": 3,
+                        "OutlineColor": {
+                          "R": 180,
+                          "G": 63,
+                          "B": 28
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 105.0,
+                          "Y": 32.33
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.4762,
+                          "Y": 0.7705
+                        },
+                        "LeftMargin": 55.0,
+                        "RightMargin": 55.0,
+                        "TopMargin": 5.17,
+                        "BottomMargin": 8.83,
+                        "Tag": 868,
+                        "ActionTag": 1449791603,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 47.0
+                        },
+                        "Name": "_",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1702922070,
+                    "Size": {
+                      "X": 210.0,
+                      "Y": 61.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/unit/clock.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 738.0,
+                      "Y": 211.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.887,
+                      "Y": 0.4237
+                    },
+                    "PreSize": {
+                      "X": 0.101,
+                      "Y": 0.1867
+                    },
+                    "LeftMargin": 696.0,
+                    "RightMargin": 52.0,
+                    "TopMargin": 240.5,
+                    "BottomMargin": 164.5,
+                    "Tag": 61,
+                    "ActionTag": 1345082708,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 93.0
+                    },
+                    "Name": "daojishizhong_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "CharWidth": 23,
+                    "CharHeight": 32,
+                    "LabelText": "600",
+                    "StartChar": "0",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/fonts/final_result_happybean_number.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 740.0,
+                      "Y": 207.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.82,
+                      "ScaleY": 0.82
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8894,
+                      "Y": 0.4157
+                    },
+                    "PreSize": {
+                      "X": 0.0829,
+                      "Y": 0.0643
+                    },
+                    "LeftMargin": 705.5,
+                    "RightMargin": 57.5,
+                    "TopMargin": 275.0,
+                    "BottomMargin": 191.0,
+                    "Tag": 1067,
+                    "ActionTag": -1526082198,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 32.0
+                    },
+                    "Name": "lb_sec",
+                    "ctype": "TextAtlasObjectData"
+                  }
+                ],
+                "ActionTag": 1403430538,
+                "Size": {
+                  "X": 832.0,
+                  "Y": 498.0
+                },
+                "Name": "panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/setting/title_jiesan.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.232,
+              "Y": 568.1716
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5119,
+              "Y": 0.7891
+            },
+            "PreSize": {
+              "X": 0.1766,
+              "Y": 0.1611
+            },
+            "LeftMargin": 542.232,
+            "RightMargin": 511.768,
+            "TopMargin": 93.8284,
+            "BottomMargin": 510.1716,
+            "Tag": 1071,
+            "ActionTag": 1727367933,
+            "Size": {
+              "X": 226.0,
+              "Y": 116.0
+            },
+            "Name": "word_sqjsfj_17",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/button/btn_cancelbg.png",
+        "resources/button/btn_confirmbg.png",
+        "resources/fonts/final_result_happybean_number.png",
+        "resources/fonts/FZZY.TTF",
+        "resources/setting/commom_title_bg2.png",
+        "resources/setting/messagebg.png",
+        "resources/setting/title_jiesan.png",
+        "resources/transparent/transparent_1280x720.png",
+        "resources/unit/clock.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

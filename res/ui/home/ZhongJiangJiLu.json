@@ -1,0 +1,226 @@
+{
+  "ID": "d634f68a-b68f-4a4d-95b9-e651e68aa7ca",
+  "Version": "2.3.4",
+  "Name": "ZhongJiangJiLu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 41,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/jizizhuanpan/erjijiemian/bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 644.7832,
+                  "Y": 379.1332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5037,
+                  "Y": 0.5266
+                },
+                "PreSize": {
+                  "X": 0.6336,
+                  "Y": 0.6875
+                },
+                "LeftMargin": 239.2832,
+                "RightMargin": 229.7168,
+                "TopMargin": 93.3668,
+                "BottomMargin": 131.6332,
+                "Tag": 40,
+                "ActionTag": -429991257,
+                "Size": {
+                  "X": 811.0,
+                  "Y": 495.0
+                },
+                "Name": "bg_myreward",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 287304129,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 305.8813,
+              "Y": 185.9344
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.239,
+              "Y": 0.2582
+            },
+            "PreSize": {
+              "X": 0.5469,
+              "Y": 0.5764
+            },
+            "LeftMargin": 305.8813,
+            "RightMargin": 274.1187,
+            "TopMargin": 119.0656,
+            "BottomMargin": 185.9344,
+            "Tag": 42,
+            "ActionTag": -556201317,
+            "Size": {
+              "X": 700.0,
+              "Y": 415.0
+            },
+            "Name": "iitem_list",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/jizizhuanpan/erjijiemian/close.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 962.3531,
+              "Y": 574.3578
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7518,
+              "Y": 0.7977
+            },
+            "PreSize": {
+              "X": 0.0508,
+              "Y": 0.0903
+            },
+            "LeftMargin": 929.8531,
+            "RightMargin": 285.1469,
+            "TopMargin": 113.1422,
+            "BottomMargin": 541.8578,
+            "Tag": 43,
+            "ActionTag": -1788279955,
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/ui/jizizhuanpan/erjijiemian/bg.png",
+        "../../image/ui/jizizhuanpan/erjijiemian/close.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

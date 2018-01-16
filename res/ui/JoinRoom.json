@@ -1,0 +1,1050 @@
+{
+  "ID": "9b87eef9-5066-48bc-b069-174342cc35e4",
+  "Version": "2.3.4",
+  "Name": "JoinRoom",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 191,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ui/resources/bg/mainBg6.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 159,
+                "Scale9OriginY": 108,
+                "Scale9Width": 456,
+                "Scale9Height": 432,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0002,
+                  "Y": 358.6625
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4981
+                },
+                "PreSize": {
+                  "X": 0.5555,
+                  "Y": 0.8611
+                },
+                "LeftMargin": 284.5002,
+                "RightMargin": 284.4998,
+                "TopMargin": 51.3375,
+                "BottomMargin": 48.6625,
+                "Tag": 373,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_youxia.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 563.0002,
+                      "Y": 93.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7918,
+                      "Y": 0.1516
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 481.0002,
+                    "BottomMargin": 48.9998,
+                    "Tag": 86,
+                    "ActionTag": -656861144,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "delete",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_zuoxia.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 147.0,
+                      "Y": 94.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2068,
+                      "Y": 0.1516
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 481.0,
+                    "BottomMargin": 49.0,
+                    "Tag": 87,
+                    "ActionTag": -694018999,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "reInput",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_0.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 355.0,
+                      "Y": 94.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.1516
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 481.0,
+                    "BottomMargin": 49.0,
+                    "Tag": 88,
+                    "ActionTag": -1568431355,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_9.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 563.0002,
+                      "Y": 187.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7918,
+                      "Y": 0.3032
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 387.0001,
+                    "BottomMargin": 142.9999,
+                    "Tag": 45,
+                    "ActionTag": -861840301,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_8.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 355.0,
+                      "Y": 188.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.3032
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 387.0,
+                    "BottomMargin": 143.0,
+                    "Tag": 44,
+                    "ActionTag": 349754325,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_7.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 147.0,
+                      "Y": 188.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2068,
+                      "Y": 0.3032
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 387.0,
+                    "BottomMargin": 143.0,
+                    "Tag": 43,
+                    "ActionTag": -1110763963,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_6.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 563.0002,
+                      "Y": 282.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7918,
+                      "Y": 0.4548
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 292.9999,
+                    "BottomMargin": 237.0001,
+                    "Tag": 42,
+                    "ActionTag": 1981452654,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_5.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 355.0,
+                      "Y": 282.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.4548
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 293.0,
+                    "BottomMargin": 237.0,
+                    "Tag": 41,
+                    "ActionTag": 1576454516,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_4.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 147.0,
+                      "Y": 282.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2068,
+                      "Y": 0.4548
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 293.0,
+                    "BottomMargin": 237.0,
+                    "Tag": 40,
+                    "ActionTag": 492895333,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_3.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 563.0002,
+                      "Y": 377.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7918,
+                      "Y": 0.6081
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 468.0002,
+                    "RightMargin": 52.9998,
+                    "TopMargin": 197.9999,
+                    "BottomMargin": 332.0001,
+                    "Tag": 39,
+                    "ActionTag": -692068820,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 355.0,
+                      "Y": 377.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4993,
+                      "Y": 0.6081
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 260.0,
+                    "RightMargin": 261.0,
+                    "TopMargin": 198.0,
+                    "BottomMargin": 332.0,
+                    "Tag": 38,
+                    "ActionTag": 14379533,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/bg/join_1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 147.0,
+                      "Y": 377.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2068,
+                      "Y": 0.6081
+                    },
+                    "PreSize": {
+                      "X": 0.2672,
+                      "Y": 0.1452
+                    },
+                    "LeftMargin": 52.0,
+                    "RightMargin": 469.0,
+                    "TopMargin": 198.0,
+                    "BottomMargin": 332.0,
+                    "Tag": 37,
+                    "ActionTag": -1488550399,
+                    "Size": {
+                      "X": 190.0,
+                      "Y": 90.0
+                    },
+                    "Name": "1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 48,
+                    "LabelText": "8",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.1116,
+                      "Y": 472.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2027,
+                      "Y": 0.7613
+                    },
+                    "PreSize": {
+                      "X": 0.038,
+                      "Y": 0.0871
+                    },
+                    "LeftMargin": 130.6116,
+                    "RightMargin": 553.3884,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 445.0,
+                    "Tag": 160,
+                    "ActionTag": -307432732,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 48,
+                    "LabelText": "8",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 220.1002,
+                      "Y": 472.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3096,
+                      "Y": 0.7613
+                    },
+                    "PreSize": {
+                      "X": 0.038,
+                      "Y": 0.0871
+                    },
+                    "LeftMargin": 206.6002,
+                    "RightMargin": 477.3998,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 445.0,
+                    "Tag": 161,
+                    "ActionTag": 64464781,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 48,
+                    "LabelText": "8",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 309.0278,
+                      "Y": 472.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4346,
+                      "Y": 0.7613
+                    },
+                    "PreSize": {
+                      "X": 0.038,
+                      "Y": 0.0871
+                    },
+                    "LeftMargin": 295.5278,
+                    "RightMargin": 388.4722,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 445.0,
+                    "Tag": 162,
+                    "ActionTag": 1929989335,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 48,
+                    "LabelText": "8",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 396.722,
+                      "Y": 472.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.558,
+                      "Y": 0.7613
+                    },
+                    "PreSize": {
+                      "X": 0.038,
+                      "Y": 0.0871
+                    },
+                    "LeftMargin": 383.222,
+                    "RightMargin": 300.778,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 445.0,
+                    "Tag": 163,
+                    "ActionTag": 1657591840,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 48,
+                    "LabelText": "8",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 485.6491,
+                      "Y": 472.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6831,
+                      "Y": 0.7613
+                    },
+                    "PreSize": {
+                      "X": 0.038,
+                      "Y": 0.0871
+                    },
+                    "LeftMargin": 472.1491,
+                    "RightMargin": 211.8509,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 445.0,
+                    "Tag": 164,
+                    "ActionTag": 1946029612,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 48,
+                    "LabelText": "8",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 567.9069,
+                      "Y": 471.9991
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 129,
+                      "G": 67,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7987,
+                      "Y": 0.7613
+                    },
+                    "PreSize": {
+                      "X": 0.038,
+                      "Y": 0.0871
+                    },
+                    "LeftMargin": 554.4069,
+                    "RightMargin": 129.5931,
+                    "TopMargin": 121.0009,
+                    "BottomMargin": 444.9991,
+                    "Tag": 165,
+                    "ActionTag": -1225444665,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 54.0
+                    },
+                    "Name": "Text_6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ui/resources/button/ncha.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 683.8965,
+                      "Y": 543.5709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9619,
+                      "Y": 0.8767
+                    },
+                    "PreSize": {
+                      "X": 0.0985,
+                      "Y": 0.1129
+                    },
+                    "LeftMargin": 637.8965,
+                    "RightMargin": -18.8965,
+                    "TopMargin": 26.4291,
+                    "BottomMargin": 493.5709,
+                    "Tag": 54,
+                    "ActionTag": -450972190,
+                    "Size": {
+                      "X": 92.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -407947022,
+                "Size": {
+                  "X": 711.0,
+                  "Y": 620.0
+                },
+                "Name": "panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -33404820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/join_0.png",
+        "resources/bg/join_1.png",
+        "resources/bg/join_2.png",
+        "resources/bg/join_3.png",
+        "resources/bg/join_4.png",
+        "resources/bg/join_5.png",
+        "resources/bg/join_6.png",
+        "resources/bg/join_7.png",
+        "resources/bg/join_8.png",
+        "resources/bg/join_9.png",
+        "resources/bg/join_youxia.png",
+        "resources/bg/join_zuoxia.png",
+        "resources/bg/mainBg6.png",
+        "resources/button/ncha.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

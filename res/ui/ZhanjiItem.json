@@ -1,0 +1,813 @@
+{
+  "ID": "f47e36d2-90eb-4b7e-b453-64df49e9a7fa",
+  "Version": "2.3.4",
+  "Name": "ZhanjiItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 323,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_line.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 16,
+            "Scale9Width": 42,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.5,
+              "Y": 48.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0071,
+              "Y": 1.0
+            },
+            "LeftMargin": -4.0,
+            "RightMargin": -4.0,
+            "Tag": 219,
+            "ActionTag": -944674037,
+            "Size": {
+              "X": 1135.0,
+              "Y": 96.0
+            },
+            "Name": "bg_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/character/zhanji_ying.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 47.0,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0417,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0834,
+              "Y": 0.9271
+            },
+            "RightMargin": 1033.0,
+            "TopMargin": 0.5,
+            "BottomMargin": 6.5,
+            "Tag": 2123,
+            "ActionTag": -345557995,
+            "Size": {
+              "X": 94.0,
+              "Y": 89.0
+            },
+            "Name": "sp_result",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/line_interval.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 102.0,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0905,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0035,
+              "Y": 0.3854
+            },
+            "LeftMargin": 100.0,
+            "RightMargin": 1023.0,
+            "TopMargin": 26.5,
+            "BottomMargin": 32.5,
+            "Tag": 220,
+            "ActionTag": 1759514171,
+            "Size": {
+              "X": 4.0,
+              "Y": 37.0
+            },
+            "Name": "line_interval_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/line_interval.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 217.0,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1925,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0035,
+              "Y": 0.3854
+            },
+            "LeftMargin": 215.0,
+            "RightMargin": 908.0,
+            "TopMargin": 26.5,
+            "BottomMargin": 32.5,
+            "Tag": 221,
+            "ActionTag": 1472254841,
+            "Size": {
+              "X": 4.0,
+              "Y": 37.0
+            },
+            "Name": "line_interval_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/line_interval.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 464.0,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4117,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0035,
+              "Y": 0.3854
+            },
+            "LeftMargin": 462.0,
+            "RightMargin": 661.0,
+            "TopMargin": 26.5,
+            "BottomMargin": 32.5,
+            "Tag": 222,
+            "ActionTag": -565026943,
+            "Size": {
+              "X": 4.0,
+              "Y": 37.0
+            },
+            "Name": "line_interval_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/line_interval.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 711.0,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6309,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0035,
+              "Y": 0.3854
+            },
+            "LeftMargin": 709.0,
+            "RightMargin": 414.0,
+            "TopMargin": 26.5,
+            "BottomMargin": 32.5,
+            "Tag": 223,
+            "ActionTag": -1254105565,
+            "Size": {
+              "X": 4.0,
+              "Y": 37.0
+            },
+            "Name": "line_interval_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/line_interval.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 958.0,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.85,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0035,
+              "Y": 0.3854
+            },
+            "LeftMargin": 956.0,
+            "RightMargin": 167.0,
+            "TopMargin": 26.5,
+            "BottomMargin": 32.5,
+            "Tag": 587,
+            "ActionTag": 1810303894,
+            "Size": {
+              "X": 4.0,
+              "Y": 37.0
+            },
+            "Name": "line_interval_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "888888",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 159.5,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1415,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.0932,
+              "Y": 0.3542
+            },
+            "LeftMargin": 107.0,
+            "RightMargin": 915.0,
+            "TopMargin": 28.0,
+            "BottomMargin": 34.0,
+            "Tag": 327,
+            "ActionTag": 1839076227,
+            "Size": {
+              "X": 105.0,
+              "Y": 34.0
+            },
+            "Name": "lb_roomid",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 29,
+            "LabelText": "张一元张一元:888",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": 71.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1979,
+              "Y": 0.7396
+            },
+            "PreSize": {
+              "X": 0.2085,
+              "Y": 0.3438
+            },
+            "LeftMargin": 223.0,
+            "RightMargin": 669.0,
+            "TopMargin": 8.5,
+            "BottomMargin": 54.5,
+            "Tag": 328,
+            "ActionTag": 28152261,
+            "Size": {
+              "X": 235.0,
+              "Y": 33.0
+            },
+            "Name": "lb_nickname1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 29,
+            "LabelText": "张一元张一元:888",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": 31.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1979,
+              "Y": 0.3229
+            },
+            "PreSize": {
+              "X": 0.2085,
+              "Y": 0.3438
+            },
+            "LeftMargin": 223.0,
+            "RightMargin": 669.0,
+            "TopMargin": 48.5,
+            "BottomMargin": 14.5,
+            "Tag": 292,
+            "ActionTag": -102168069,
+            "Size": {
+              "X": 235.0,
+              "Y": 33.0
+            },
+            "Name": "lb_nickname2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 29,
+            "LabelText": "张一元张一元:888",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 470.0,
+              "Y": 71.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.417,
+              "Y": 0.7396
+            },
+            "PreSize": {
+              "X": 0.2085,
+              "Y": 0.3438
+            },
+            "LeftMargin": 470.0,
+            "RightMargin": 422.0,
+            "TopMargin": 8.5,
+            "BottomMargin": 54.5,
+            "Tag": 293,
+            "ActionTag": 659627002,
+            "Size": {
+              "X": 235.0,
+              "Y": 33.0
+            },
+            "Name": "lb_nickname3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 29,
+            "LabelText": "张一元张一元:888",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 470.0,
+              "Y": 31.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.417,
+              "Y": 0.3229
+            },
+            "PreSize": {
+              "X": 0.2085,
+              "Y": 0.3438
+            },
+            "LeftMargin": 470.0,
+            "RightMargin": 422.0,
+            "TopMargin": 48.5,
+            "BottomMargin": 14.5,
+            "Tag": 294,
+            "ActionTag": -174781001,
+            "Size": {
+              "X": 235.0,
+              "Y": 33.0
+            },
+            "Name": "lb_nickname4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 29,
+            "LabelText": "张一元张一元:888",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 717.0,
+              "Y": 71.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6362,
+              "Y": 0.7396
+            },
+            "PreSize": {
+              "X": 0.2085,
+              "Y": 0.3438
+            },
+            "LeftMargin": 717.0,
+            "RightMargin": 175.0,
+            "TopMargin": 8.5,
+            "BottomMargin": 54.5,
+            "Tag": 586,
+            "ActionTag": 1737865422,
+            "Size": {
+              "X": 235.0,
+              "Y": 33.0
+            },
+            "Name": "lb_nickname5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "2015-10-10\n10:10:10",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1041.5,
+              "Y": 51.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 132,
+              "G": 68,
+              "B": 33
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9241,
+              "Y": 0.5313
+            },
+            "PreSize": {
+              "X": 0.1393,
+              "Y": 0.7083
+            },
+            "LeftMargin": 963.0,
+            "RightMargin": 7.0,
+            "TopMargin": 11.0,
+            "BottomMargin": 17.0,
+            "Tag": 326,
+            "ActionTag": 770783726,
+            "Size": {
+              "X": 157.0,
+              "Y": 68.0
+            },
+            "Name": "lb_time",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "牛\n",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 89.155,
+              "Y": 8.3982
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0791,
+              "Y": 0.0875
+            },
+            "PreSize": {
+              "X": 0.0177,
+              "Y": 0.4792
+            },
+            "LeftMargin": 79.155,
+            "RightMargin": 1027.845,
+            "TopMargin": 64.6018,
+            "BottomMargin": -14.6018,
+            "Tag": 694,
+            "ActionTag": 984285320,
+            "Size": {
+              "X": 20.0,
+              "Y": 46.0
+            },
+            "Name": "lb_gametype",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1127.0,
+          "Y": 96.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/bg_line.png",
+        "resources/bg/line_interval.png",
+        "resources/character/zhanji_ying.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

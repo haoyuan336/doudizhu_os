@@ -1,0 +1,364 @@
+{
+  "ID": "3eba90ed-cf7f-495c-928e-ef704c9e9293",
+  "Version": "2.3.4",
+  "Name": "Zadan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 108,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 173,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 73.4944,
+              "Y": 47.6858
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0574,
+              "Y": 0.0662
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 73.4944,
+            "RightMargin": -73.4944,
+            "TopMargin": -47.6858,
+            "BottomMargin": 47.6858,
+            "Tag": 208,
+            "ActionTag": 1624899922,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/jizizhuanpan/zadan/bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 639.8845,
+              "Y": 369.1428
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 0.89
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4999,
+              "Y": 0.5127
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.1155,
+            "RightMargin": 0.1155,
+            "TopMargin": -9.1428,
+            "BottomMargin": 9.1428,
+            "Tag": 109,
+            "ActionTag": -965747541,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 404.1278,
+              "Y": 166.0061
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3157,
+              "Y": 0.2306
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 404.1278,
+            "RightMargin": 875.8722,
+            "TopMargin": 553.9939,
+            "BottomMargin": 166.0061,
+            "Tag": 205,
+            "ActionTag": 763838873,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "egg1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 641.1729,
+              "Y": 220.4048
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5009,
+              "Y": 0.3061
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 641.1729,
+            "RightMargin": 638.8271,
+            "TopMargin": 499.5952,
+            "BottomMargin": 220.4048,
+            "Tag": 206,
+            "ActionTag": -1003202438,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "egg2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 871.9828,
+              "Y": 174.2442
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6812,
+              "Y": 0.242
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 871.9828,
+            "RightMargin": 408.0172,
+            "TopMargin": 545.7559,
+            "BottomMargin": 174.2442,
+            "Tag": 207,
+            "ActionTag": 263313960,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "egg3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/transparent/transparent_113x113.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 404.2064,
+              "Y": 246.2717
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 2.1398
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3158,
+              "Y": 0.342
+            },
+            "PreSize": {
+              "X": 0.0883,
+              "Y": 0.1569
+            },
+            "LeftMargin": 347.7064,
+            "RightMargin": 819.2936,
+            "TopMargin": 417.2283,
+            "BottomMargin": 189.7717,
+            "Tag": 153,
+            "ActionTag": 878351566,
+            "Size": {
+              "X": 113.0,
+              "Y": 113.0
+            },
+            "Name": "transparent_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/transparent/transparent_113x113.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.0275,
+              "Y": 303.3336
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 2.1398
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5039,
+              "Y": 0.4213
+            },
+            "PreSize": {
+              "X": 0.0883,
+              "Y": 0.1569
+            },
+            "LeftMargin": 588.5275,
+            "RightMargin": 578.4725,
+            "TopMargin": 360.1664,
+            "BottomMargin": 246.8336,
+            "Tag": 154,
+            "ActionTag": -1170548530,
+            "Size": {
+              "X": 113.0,
+              "Y": 113.0
+            },
+            "Name": "transparent_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/transparent/transparent_113x113.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 873.439,
+              "Y": 265.662
+            },
+            "Scale": {
+              "ScaleX": 0.89,
+              "ScaleY": 2.1398
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6824,
+              "Y": 0.369
+            },
+            "PreSize": {
+              "X": 0.0883,
+              "Y": 0.1569
+            },
+            "LeftMargin": 816.939,
+            "RightMargin": 350.061,
+            "TopMargin": 397.838,
+            "BottomMargin": 209.162,
+            "Tag": 155,
+            "ActionTag": 682427275,
+            "Size": {
+              "X": 113.0,
+              "Y": 113.0
+            },
+            "Name": "transparent_3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/ui/jizizhuanpan/zadan/bg.png",
+        "../../image/ui/transparent/transparent_113x113.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

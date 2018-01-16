@@ -1,0 +1,825 @@
+{
+  "ID": "5c748c12-64b6-4141-a3b0-ea900eb28e70",
+  "Version": "2.3.4",
+  "Name": "RuleLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1212,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/settlement_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1259,
+            "ActionTag": -1779892060,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/room_bg_top.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1208
+            },
+            "BottomMargin": 633.0,
+            "Tag": 163,
+            "ActionTag": 1506513370,
+            "Size": {
+              "X": 1280.0,
+              "Y": 87.0
+            },
+            "Name": "room_bg_top",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/backBtn1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 60.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0469,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0625,
+              "Y": 0.1111
+            },
+            "LeftMargin": 20.0,
+            "RightMargin": 1180.0,
+            "BottomMargin": 640.0,
+            "Tag": 1257,
+            "ActionTag": 1944591846,
+            "Size": {
+              "X": 80.0,
+              "Y": 80.0
+            },
+            "Name": "btn_back",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_white.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 159,
+            "Scale9OriginY": 108,
+            "Scale9Width": 165,
+            "Scale9Height": 114,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 311.616
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4328
+            },
+            "PreSize": {
+              "X": 0.9852,
+              "Y": 0.9028
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 9.5,
+            "TopMargin": 83.384,
+            "BottomMargin": -13.384,
+            "Tag": 167,
+            "ActionTag": 1024296044,
+            "Size": {
+              "X": 1261.0,
+              "Y": 650.0
+            },
+            "Name": "bg_white",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_line.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 40,
+            "Scale9OriginY": 16,
+            "Scale9Width": 42,
+            "Scale9Height": 17,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 310.536
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4313
+            },
+            "PreSize": {
+              "X": 0.8656,
+              "Y": 0.7222
+            },
+            "LeftMargin": 86.0,
+            "RightMargin": 86.0,
+            "TopMargin": 149.464,
+            "BottomMargin": 50.536,
+            "Tag": 166,
+            "ActionTag": 636355520,
+            "Size": {
+              "X": 1108.0,
+              "Y": 520.0
+            },
+            "Name": "bg_line",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_glass.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 266.9786,
+              "Y": 535.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2086,
+              "Y": 0.7431
+            },
+            "PreSize": {
+              "X": 0.3445,
+              "Y": 0.2417
+            },
+            "LeftMargin": 46.4786,
+            "RightMargin": 792.5214,
+            "TopMargin": 98.0,
+            "BottomMargin": 448.0,
+            "Tag": 170,
+            "ActionTag": 775855343,
+            "Size": {
+              "X": 441.0,
+              "Y": 174.0
+            },
+            "Name": "bg_glass_left",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FlipX": true,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/bg/bg_glass.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1015.4457,
+              "Y": 535.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7933,
+              "Y": 0.7431
+            },
+            "PreSize": {
+              "X": 0.3445,
+              "Y": 0.2417
+            },
+            "LeftMargin": 794.9457,
+            "RightMargin": 44.0543,
+            "TopMargin": 98.0,
+            "BottomMargin": 448.0,
+            "Tag": 171,
+            "ActionTag": 1240978591,
+            "Size": {
+              "X": 441.0,
+              "Y": 174.0
+            },
+            "Name": "bg_glass_right",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 1012,
+              "Height": 3097
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 80.0005
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1111
+            },
+            "PreSize": {
+              "X": 0.7906,
+              "Y": 0.6486
+            },
+            "LeftMargin": 134.0,
+            "RightMargin": 134.0,
+            "TopMargin": 172.9995,
+            "BottomMargin": 80.0005,
+            "Tag": 2238,
+            "ActionTag": 1620499382,
+            "Size": {
+              "X": 1012.0,
+              "Y": 467.0
+            },
+            "Name": "scrollView",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 235.1987,
+              "Y": 679.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1837,
+              "Y": 0.9444
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 94.1987,
+            "RightMargin": 903.8013,
+            "TopMargin": -0.4999,
+            "BottomMargin": 639.4999,
+            "Tag": 192,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 193,
+                "ActionTag": 713535674,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -464281628,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.1979,
+              "Y": 678.5967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3947,
+              "Y": 0.9425
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 364.1979,
+            "RightMargin": 633.8021,
+            "TopMargin": 0.9033,
+            "BottomMargin": 638.0967,
+            "Tag": 194,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 195,
+                "ActionTag": -1045411524,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1421559586,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 775.197,
+              "Y": 678.599
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6056,
+              "Y": 0.9425
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 634.197,
+            "RightMargin": 363.803,
+            "TopMargin": 0.901,
+            "BottomMargin": 638.099,
+            "Tag": 173,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 174,
+                "ActionTag": -301453162,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 923707588,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ui/resources/button/phb_tab0.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1045.1902,
+              "Y": 678.1024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8166,
+              "Y": 0.9418
+            },
+            "PreSize": {
+              "X": 0.2203,
+              "Y": 0.1125
+            },
+            "LeftMargin": 904.1902,
+            "RightMargin": 93.8098,
+            "TopMargin": 1.3976,
+            "BottomMargin": 637.6024,
+            "Tag": 468,
+            "Children": [
+              {
+                "FontSize": 44,
+                "LabelText": "算法介绍表",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 39.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 79,
+                  "G": 20,
+                  "B": 30
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4815
+                },
+                "PreSize": {
+                  "X": 0.7801,
+                  "Y": 0.6173
+                },
+                "LeftMargin": 31.0,
+                "RightMargin": 31.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 14.0,
+                "Tag": 469,
+                "ActionTag": -1969940905,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1039272946,
+            "Size": {
+              "X": 282.0,
+              "Y": 81.0
+            },
+            "Name": "tab3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "resources/bg/bg_glass.png",
+        "resources/bg/bg_line.png",
+        "resources/bg/bg_white.png",
+        "resources/bg/room_bg_top.png",
+        "resources/bg/settlement_bg.png",
+        "resources/button/backBtn1.png",
+        "resources/button/phb_tab0.png",
+        "resources/button/phb_tab1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

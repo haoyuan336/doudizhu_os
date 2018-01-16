@@ -3,10 +3,18 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-
+        tipsLabel: {
+            default: null,
+            type: cc.Node
+        },
+        joinRoomPrefab: {
+            default: null,
+            type: cc.Prefab
+        }
     },
     onLoad: function () {
         global.socket.init();
+
     },
     buttonClick(event , customData){
         console.log('custom data =  ' + customData);
@@ -23,9 +31,18 @@ cc.Class({
                         }
                     });
                 break;
+            case 'joinButton':
+                let node = cc.instantiate(this.joinRoomPrefab);
+                node.parent = this.node;
+                break;
             default:
                 break;
         }
+    },
+    update(dt){
+        this.tipsLabel.position = cc.p(this.tipsLabel.position.x - 1,this.tipsLabel.position.y);
+        if (this.tipsLabel.position.x < -700){
+            this.tipsLabel.position = cc.p(700, this.tipsLabel.position.y);
+        }
     }
-
 });

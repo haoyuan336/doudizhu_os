@@ -1,0 +1,224 @@
+{
+  "ID": "16f257ee-e359-4149-b79b-84a9284c78a4",
+  "Version": "2.3.4",
+  "Name": "MyReward",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 41,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/activity/duanwu/bg_myreward.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 672.2205,
+                  "Y": 352.6507
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5252,
+                  "Y": 0.4898
+                },
+                "PreSize": {
+                  "X": 0.5211,
+                  "Y": 0.8028
+                },
+                "LeftMargin": 338.7205,
+                "RightMargin": 274.2795,
+                "TopMargin": 78.3492,
+                "BottomMargin": 63.6507,
+                "Tag": 40,
+                "ActionTag": -429991257,
+                "Size": {
+                  "X": 667.0,
+                  "Y": 578.0
+                },
+                "Name": "bg_myreward",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 287304129,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 437.4169,
+              "Y": 222.6511
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3417,
+              "Y": 0.3092
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.3889
+            },
+            "LeftMargin": 437.4169,
+            "RightMargin": 442.5831,
+            "TopMargin": 217.3489,
+            "BottomMargin": 222.6511,
+            "Tag": 42,
+            "ActionTag": -556201317,
+            "Size": {
+              "X": 400.0,
+              "Y": 280.0
+            },
+            "Name": "iitem_list",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/activity/duanwu/btn_close.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 909.8503,
+              "Y": 624.1405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7108,
+              "Y": 0.8669
+            },
+            "PreSize": {
+              "X": 0.0703,
+              "Y": 0.125
+            },
+            "LeftMargin": 864.8503,
+            "RightMargin": 325.1497,
+            "TopMargin": 50.8595,
+            "BottomMargin": 579.1405,
+            "Tag": 43,
+            "ActionTag": -1788279955,
+            "Size": {
+              "X": 90.0,
+              "Y": 90.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../image/ui/activity/duanwu/bg_myreward.png",
+        "../../image/ui/activity/duanwu/btn_close.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

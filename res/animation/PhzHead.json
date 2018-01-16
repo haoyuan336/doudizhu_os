@@ -1,0 +1,1492 @@
+{
+  "ID": "87f1f6fe-2582-4dfa-b145-761b7a189670",
+  "Version": "2.3.4",
+  "Name": "PhzHead",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 299,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": -789379455,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 299,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -789379455,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 299,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -789379455,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 299,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -789379455,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang01.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang02.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang03.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang04.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang05.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang06.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang07.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang08.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang09.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang10.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang11.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 50,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang12.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 55,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang13.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang14.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 65,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang15.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 70,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang16.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 75,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang17.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 80,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang18.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 85,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang19.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang20.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 95,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang21.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 100,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang22.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 105,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang23.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 110,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang24.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 115,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang25.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 120,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang26.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 125,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang27.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 130,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang28.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 135,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang29.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 140,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang30.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 145,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang31.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 150,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang32.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 155,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang33.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 160,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang34.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 165,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang35.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 170,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang36.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 175,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang37.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 180,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang38.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 185,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang39.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 190,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang40.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 195,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang41.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 200,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang42.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 205,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang43.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 210,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang44.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 215,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang45.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 220,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang46.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 225,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang47.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 230,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang48.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 235,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang49.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 240,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang50.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 245,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang51.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 250,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang52.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 255,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang53.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 260,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang54.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 265,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang55.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 270,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang56.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 275,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang57.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 280,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang58.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 285,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang59.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 290,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang60.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 295,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang60.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 299,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1195775603,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 299,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1195775603,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 299,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1195775603,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 299,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1195775603,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang01.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang02.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang03.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang04.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang05.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang06.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang07.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang08.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang09.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang10.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang11.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 50,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang12.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 55,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang13.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang14.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 65,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang15.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 70,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang16.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 75,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang17.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 80,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang18.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 85,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang19.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang20.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 95,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang21.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 100,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang22.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 105,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang23.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 110,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang24.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 115,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang25.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 120,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang26.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 125,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang27.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 130,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang28.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 135,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang29.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 140,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang30.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 145,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang31.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 150,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang32.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 155,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang33.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 160,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang34.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 165,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang35.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 170,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang36.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 175,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang37.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 180,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang38.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 185,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang39.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 190,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang40.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 195,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang41.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 200,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang42.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 205,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang43.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 210,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang44.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 215,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang45.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 220,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang46.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 225,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang47.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 230,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang48.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 235,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang49.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 240,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang50.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 245,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang51.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 250,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang52.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 255,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang53.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 260,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang54.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 265,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang55.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 270,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang56.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 275,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang57.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 280,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang58.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 285,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang59.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 290,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang60.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 295,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang60.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "FrameIndex": 299,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 299,
+          "Name": "action",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 324,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 382,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang08.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -55.0,
+                "RightMargin": -55.0,
+                "TopMargin": -53.0,
+                "BottomMargin": -53.0,
+                "Tag": 383,
+                "ActionTag": -789379455,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 106.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "PHZ_xiangkuang08.png",
+                  "Plist": "image/ui/room/PHZ_xiangkuang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -55.0,
+                "RightMargin": -55.0,
+                "TopMargin": -53.0,
+                "BottomMargin": -53.0,
+                "Tag": 384,
+                "ActionTag": 1195775603,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 106.0
+                },
+                "Name": "Sprite_2_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 2132440652,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_1",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../image/ui/room/PHZ_xiangkuang.plist",
+        "../image/ui/room/PHZ_xiangkuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

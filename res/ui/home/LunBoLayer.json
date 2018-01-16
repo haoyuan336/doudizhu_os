@@ -1,0 +1,485 @@
+{
+  "ID": "48391b19-3f7c-44aa-84a3-3b1d5979ac6e",
+  "Version": "2.3.4",
+  "Name": "LunBoLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 306,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "image/ui/hall/hall_lunbobg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0,
+              "Y": 228.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 307,
+            "ActionTag": -32342466,
+            "Size": {
+              "X": 256.0,
+              "Y": 456.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 11.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.043,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.9141,
+              "Y": 1.0
+            },
+            "LeftMargin": 11.0,
+            "RightMargin": 11.0,
+            "Tag": 308,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/hall/hall_gg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 117.0,
+                  "Y": 227.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.094,
+                  "Y": 1.0
+                },
+                "LeftMargin": -11.0,
+                "RightMargin": -11.0,
+                "TopMargin": 0.0001,
+                "BottomMargin": -0.0001,
+                "Tag": 309,
+                "Children": [
+                  {
+                    "FontSize": 28,
+                    "LabelText": "1111111111111111",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 128.0,
+                      "Y": 191.7596
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4205
+                    },
+                    "PreSize": {
+                      "X": 0.6289,
+                      "Y": 0.0702
+                    },
+                    "LeftMargin": 47.5,
+                    "RightMargin": 47.5,
+                    "TopMargin": 248.2404,
+                    "BottomMargin": 175.7596,
+                    "Tag": 358,
+                    "ActionTag": 342378327,
+                    "Size": {
+                      "X": 161.0,
+                      "Y": 32.0
+                    },
+                    "Name": "weixin1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "1111111111111111\n1111111111111111\n1111111111111111",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 128.0,
+                      "Y": 93.88
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2059
+                    },
+                    "PreSize": {
+                      "X": 0.6289,
+                      "Y": 0.2105
+                    },
+                    "LeftMargin": 47.5,
+                    "RightMargin": 47.5,
+                    "TopMargin": 314.12,
+                    "BottomMargin": 45.88,
+                    "Tag": 359,
+                    "ActionTag": 1359202936,
+                    "Size": {
+                      "X": 161.0,
+                      "Y": 96.0
+                    },
+                    "Name": "weixin2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 380737725,
+                "Size": {
+                  "X": 256.0,
+                  "Y": 456.0
+                },
+                "Name": "img1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/hall/hall_gg2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 351.0,
+                  "Y": 227.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.094,
+                  "Y": 1.0
+                },
+                "LeftMargin": 223.0,
+                "RightMargin": -245.0,
+                "TopMargin": 0.0001,
+                "BottomMargin": -0.0001,
+                "Tag": 382,
+                "Children": [
+                  {
+                    "FontSize": 28,
+                    "LabelText": "1111111111111111",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "image/fonts/FZZY.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 128.4208,
+                      "Y": 78.3005
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5016,
+                      "Y": 0.1717
+                    },
+                    "PreSize": {
+                      "X": 0.6289,
+                      "Y": 0.0702
+                    },
+                    "LeftMargin": 47.9208,
+                    "RightMargin": 47.0792,
+                    "TopMargin": 361.6995,
+                    "BottomMargin": 62.3005,
+                    "Tag": 383,
+                    "ActionTag": -1226050409,
+                    "Size": {
+                      "X": 161.0,
+                      "Y": 32.0
+                    },
+                    "Name": "weixin1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 48430976,
+                "Size": {
+                  "X": 256.0,
+                  "Y": 456.0
+                },
+                "Name": "img2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/hall/hall_lunbop1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 96.8544,
+                  "Y": 24.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4139,
+                  "Y": 0.0548
+                },
+                "PreSize": {
+                  "X": 0.0427,
+                  "Y": 0.0219
+                },
+                "LeftMargin": 91.8544,
+                "RightMargin": 132.1456,
+                "TopMargin": 426.0001,
+                "BottomMargin": 19.9999,
+                "Tag": 311,
+                "ActionTag": 1694394139,
+                "Size": {
+                  "X": 10.0,
+                  "Y": 10.0
+                },
+                "Name": "point1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "image/ui/hall/hall_lunbop2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.8884,
+                  "Y": 26.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6021,
+                  "Y": 0.057
+                },
+                "PreSize": {
+                  "X": 0.0427,
+                  "Y": 0.0219
+                },
+                "LeftMargin": 135.8884,
+                "RightMargin": 88.1116,
+                "TopMargin": 425.0,
+                "BottomMargin": 21.0,
+                "Tag": 384,
+                "ActionTag": -128781995,
+                "Size": {
+                  "X": 10.0,
+                  "Y": 10.0
+                },
+                "Name": "point2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 853519609,
+            "Size": {
+              "X": 234.0,
+              "Y": 456.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 256.0,
+          "Y": 456.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../image/fonts/FZZY.TTF",
+        "../../image/ui/hall/hall_gg.png",
+        "../../image/ui/hall/hall_gg2.png",
+        "../../image/ui/hall/hall_lunbobg.png",
+        "../../image/ui/hall/hall_lunbop1.png",
+        "../../image/ui/hall/hall_lunbop2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
