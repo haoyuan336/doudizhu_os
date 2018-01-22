@@ -102,8 +102,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1280,
-      "height": 720
+      "width": 960,
+      "height": 640
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -111,8 +111,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 640,
-      "y": 360
+      "x": 480,
+      "y": 320
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -254,8 +254,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 556.3,
-      "y": 284.6
+      "x": 396.29999999999995,
+      "y": 244.60000000000002
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -933,8 +933,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -560.9,
-      "y": 285
+      "x": -400.9,
+      "y": 245
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -2340,6 +2340,9 @@
     },
     "joinRoomPrefab": {
       "__uuid__": "dd4bdeac-5929-4f61-a738-248d6d794c56"
+    },
+    "createRoomPrefab": {
+      "__uuid__": "bc67575b-505c-48bd-95fd-676fe547e00c"
     }
   }
 ]

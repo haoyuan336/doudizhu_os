@@ -10,6 +10,10 @@ cc.Class({
         joinRoomPrefab: {
             default: null,
             type: cc.Prefab
+        },
+        createRoomPrefab:{
+            default: null,
+            type: cc.Prefab
         }
     },
     onLoad: function () {
@@ -32,12 +36,18 @@ cc.Class({
                     });
                 break;
             case 'joinButton':
-                let node = cc.instantiate(this.joinRoomPrefab);
-                node.parent = this.node;
+                this.createPrefab(this.joinRoomPrefab);
+                break;
+            case 'createButton':
+                this.createPrefab(this.createRoomPrefab);
                 break;
             default:
                 break;
         }
+    },
+    createPrefab(prefab) {
+        let node = cc.instantiate(prefab);
+        node.parent = this.node;
     },
     update(dt){
         this.tipsLabel.position = cc.p(this.tipsLabel.position.x - 1,this.tipsLabel.position.y);
