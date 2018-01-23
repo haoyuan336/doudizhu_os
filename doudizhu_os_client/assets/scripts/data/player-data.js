@@ -15,6 +15,10 @@ let PlayerData = function () {
     };
     that.loginSuccess = function (data) {
         console.log('data = ' + JSON.stringify(data));
+        that.uid = data.uid;
+        that.nickName = data.nickName;
+        that.avatarUrl = data.avatarUrl;
+        that.houseCardCount = data.houseCardCount
     };
     return that;
 };

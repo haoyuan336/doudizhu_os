@@ -3,6 +3,7 @@ const config = require("./config.json");
 const app = socket('3000');
 const mydb = require('./utility/db');
 const playerController = require('./game/player');
+const el = require('./utility/eventListener');
 mydb.connect(config.mysqlConfig);
 // mydb.checkPlayer("100000", function (err, cb) {
 //
@@ -19,6 +20,11 @@ mydb.connect(config.mysqlConfig);
 //     avatar_url: "腾讯.com"
 // });
 
+// let event = el.EventListener({});
+// event.on('test', function (p1) {
+//     console.log('p1 = ' + p1);
+// });
+// event.fire('test','ok');
 
 app.on('connection', function (socket) {
     console.log('a user connected');
@@ -69,11 +75,7 @@ app.on('connection', function (socket) {
                                 houseCardCount: data[0].house_card_count,
                                 callBackIndex: callbackIndex
                             })
-
                         }
-
-
-
                     }
                 })
 

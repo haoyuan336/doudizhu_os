@@ -102,8 +102,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 960,
-      "height": 640
+      "width": 1280,
+      "height": 720
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -111,8 +111,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 480,
-      "y": 320
+      "x": 640,
+      "y": 360
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -254,8 +254,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 396.29999999999995,
-      "y": 244.60000000000002
+      "x": 556.3,
+      "y": 284.6
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -933,8 +933,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -400.9,
-      "y": 245
+      "x": -560.9,
+      "y": 285
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -1114,7 +1114,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 76,
-      "height": 73
+      "height": 70
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -1144,7 +1144,7 @@
       "__uuid__": "62454831-42e1-4eb4-ba41-121ba670cd14"
     },
     "_type": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillType": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
@@ -1326,7 +1326,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "nickNameLabel",
+    "_name": "idLabel",
     "_objFlags": 0,
     "_parent": {
       "__id__": 23
@@ -2335,6 +2335,18 @@
       "__id__": 2
     },
     "_enabled": true,
+    "nickNameLabel": {
+      "__id__": 33
+    },
+    "idLabel": {
+      "__id__": 35
+    },
+    "headImage": {
+      "__id__": 28
+    },
+    "houseCardCountLabel": {
+      "__id__": 45
+    },
     "tipsLabel": {
       "__id__": 58
     },
