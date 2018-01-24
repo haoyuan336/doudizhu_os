@@ -3,7 +3,6 @@ const config = require("./config.json");
 const app = socket('3000');
 const mydb = require('./utility/db');
 const playerController = require('./game/player');
-const el = require('./utility/eventListener');
 mydb.connect(config.mysqlConfig);
 // mydb.checkPlayer("100000", function (err, cb) {
 //
@@ -77,7 +76,7 @@ app.on('connection', function (socket) {
                             })
                         }
                     }
-                })
+                });
 
                 break;
             default:

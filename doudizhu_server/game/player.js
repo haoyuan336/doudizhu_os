@@ -1,3 +1,4 @@
+const gameController = require('./game-controller');
 const Player = function (socket, data) {
     let that = {};
     let _socket = socket;
@@ -31,8 +32,22 @@ const Player = function (socket, data) {
        switch (msg){
            case 'create_room':
                console.log('创建房间');
-               notify('create_room', callBackIndex, 'create room success');
+               // notify('create_room', callBackIndex, 'create room success');
+               gameController.createRoom(data, function (err, resp) {
+                   if (err){
+                       console.log('create room err = ' + err);
+                   }else {
+                       notify('create_room',callBackIndex, {roomID: resp});
+                   }
+               });
 
+               break;
+           case 'join_room':
+               gameController.joinRoom(data.roomID, that, function (err, resp) {
+
+                   console.log('join room ');
+                    notify('join_room', callBackIndex, {err: err, data: resp});
+               });
                break;
            default:
                break;

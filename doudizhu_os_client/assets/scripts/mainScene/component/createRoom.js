@@ -23,10 +23,17 @@ cc.Class({
                         console.log('err = ' + err);
                     }else {
                         console.log('create room data  =' + JSON.stringify(data));
-                        cc.director.loadScene('gameScene');
-
+                        // cc.director.loadScene('gameScene');
+                        global.socket.joinRoom(data.roomID, function (err, resp) {
+                            if (err){
+                                console.log('err = ' + err);
+                            }else {
+                                cc.director.loadScene('gameScene');
+                            }
+                        })
                     }
                 });
+                this.node.destroy();
 
                 break;
             default:
