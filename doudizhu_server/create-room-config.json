@@ -1,0 +1,22 @@
+{
+  "turn_count": {
+    "turn_count_1": {
+      "turn_count": 5,
+      "need_house_card_count": 1
+    },
+    "turn_count_2": {
+      "turn_count": 10,
+      "need_house_card_count": 2
+    }
+  },
+  "special_rule": {
+    "special_rule_1": {
+      "king_bomb": 3,
+      "normal_bomb": 2
+    },
+    "special_rule_2": {
+      "king_bomb": 4,
+      "normal_bomb": 3
+    }
+  }
+}

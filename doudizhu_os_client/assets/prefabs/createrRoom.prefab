@@ -49,14 +49,14 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 126
+        "__id__": 130
       },
       {
-        "__id__": 127
+        "__id__": 131
       }
     ],
     "_prefab": {
-      "__id__": 128
+      "__id__": 132
     },
     "_id": "",
     "_opacity": 255,
@@ -1155,7 +1155,7 @@
     "_active": true,
     "_components": [],
     "_prefab": {
-      "__id__": 125
+      "__id__": 129
     },
     "_id": "",
     "_opacity": 255,
@@ -1540,14 +1540,14 @@
         "__id__": 64
       },
       {
-        "__id__": 97
+        "__id__": 99
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [],
     "_prefab": {
-      "__id__": 124
+      "__id__": 128
     },
     "_id": "",
     "_opacity": 255,
@@ -2078,7 +2078,7 @@
         "__id__": 65
       },
       {
-        "__id__": 81
+        "__id__": 82
       }
     ],
     "_tag": -1,
@@ -2089,7 +2089,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 96
+      "__id__": 98
     },
     "_id": "",
     "_opacity": 255,
@@ -2156,7 +2156,7 @@
       }
     ],
     "_prefab": {
-      "__id__": 80
+      "__id__": 81
     },
     "_id": "",
     "_opacity": 255,
@@ -2609,7 +2609,11 @@
     "checkMark": {
       "__id__": 70
     },
-    "checkEvents": [],
+    "checkEvents": [
+      {
+        "__id__": 80
+      }
+    ],
     "_N$isChecked": true
   },
   {
@@ -2621,6 +2625,15 @@
     },
     "_enabled": true,
     "allowSwitchOff": false
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "createRoom",
+    "handler": "onButtonClick",
+    "customEventData": "turn_count_1"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -2642,27 +2655,27 @@
     },
     "_children": [
       {
-        "__id__": 82
+        "__id__": 83
       },
       {
-        "__id__": 85
+        "__id__": 86
       },
       {
-        "__id__": 88
+        "__id__": 89
       },
       {
-        "__id__": 91
+        "__id__": 92
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 94
+        "__id__": 95
       }
     ],
     "_prefab": {
-      "__id__": 95
+      "__id__": 97
     },
     "_id": "",
     "_opacity": 255,
@@ -2705,18 +2718,18 @@
     "_name": "Background",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 81
+      "__id__": 82
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 83
+        "__id__": 84
       }
     ],
     "_prefab": {
-      "__id__": 84
+      "__id__": 85
     },
     "_id": "",
     "_opacity": 255,
@@ -2759,7 +2772,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 82
+      "__id__": 83
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -2796,18 +2809,18 @@
     "_name": "checkmark",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 81
+      "__id__": 82
     },
     "_children": [],
     "_tag": -1,
     "_active": false,
     "_components": [
       {
-        "__id__": 86
+        "__id__": 87
       }
     ],
     "_prefab": {
-      "__id__": 87
+      "__id__": 88
     },
     "_id": "",
     "_opacity": 255,
@@ -2850,7 +2863,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 85
+      "__id__": 86
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -2887,18 +2900,18 @@
     "_name": "New Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 81
+      "__id__": 82
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 89
+        "__id__": 90
       }
     ],
     "_prefab": {
-      "__id__": 90
+      "__id__": 91
     },
     "_id": "",
     "_opacity": 255,
@@ -2941,7 +2954,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 88
+      "__id__": 89
     },
     "_enabled": true,
     "_useOriginalSize": false,
@@ -2974,18 +2987,18 @@
     "_name": "fangka_bg",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 81
+      "__id__": 82
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 92
+        "__id__": 93
       }
     ],
     "_prefab": {
-      "__id__": 93
+      "__id__": 94
     },
     "_id": "",
     "_opacity": 255,
@@ -3028,7 +3041,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 91
+      "__id__": 92
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -3065,7 +3078,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 81
+      "__id__": 82
     },
     "_enabled": true,
     "transition": 3,
@@ -3107,16 +3120,29 @@
     "_N$normalSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
-      "__id__": 82
+      "__id__": 83
     },
     "toggleGroup": {
       "__id__": 79
     },
     "checkMark": {
-      "__id__": 86
+      "__id__": 87
     },
-    "checkEvents": [],
+    "checkEvents": [
+      {
+        "__id__": 96
+      }
+    ],
     "_N$isChecked": false
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "createRoom",
+    "handler": "onButtonClick",
+    "customEventData": "turn_count_2"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -3149,21 +3175,21 @@
     },
     "_children": [
       {
-        "__id__": 98
+        "__id__": 100
       },
       {
-        "__id__": 111
+        "__id__": 114
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 109
+        "__id__": 111
       }
     ],
     "_prefab": {
-      "__id__": 123
+      "__id__": 127
     },
     "_id": "",
     "_opacity": 255,
@@ -3206,28 +3232,28 @@
     "_name": "toggle1",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 97
+      "__id__": 99
     },
     "_children": [
       {
-        "__id__": 99
+        "__id__": 101
       },
       {
-        "__id__": 102
+        "__id__": 104
       },
       {
-        "__id__": 105
+        "__id__": 107
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 108
+        "__id__": 110
       }
     ],
     "_prefab": {
-      "__id__": 110
+      "__id__": 113
     },
     "_id": "",
     "_opacity": 255,
@@ -3270,18 +3296,18 @@
     "_name": "Background",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 98
+      "__id__": 100
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 100
+        "__id__": 102
       }
     ],
     "_prefab": {
-      "__id__": 101
+      "__id__": 103
     },
     "_id": "",
     "_opacity": 255,
@@ -3324,7 +3350,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 99
+      "__id__": 101
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -3361,18 +3387,18 @@
     "_name": "checkmark",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 98
+      "__id__": 100
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 103
+        "__id__": 105
       }
     ],
     "_prefab": {
-      "__id__": 104
+      "__id__": 106
     },
     "_id": "",
     "_opacity": 255,
@@ -3415,7 +3441,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 102
+      "__id__": 104
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -3452,18 +3478,18 @@
     "_name": "New Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 98
+      "__id__": 100
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 106
+        "__id__": 108
       }
     ],
     "_prefab": {
-      "__id__": 107
+      "__id__": 109
     },
     "_id": "",
     "_opacity": 255,
@@ -3506,7 +3532,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 105
+      "__id__": 107
     },
     "_enabled": true,
     "_useOriginalSize": false,
@@ -3539,7 +3565,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 98
+      "__id__": 100
     },
     "_enabled": true,
     "transition": 3,
@@ -3581,15 +3607,19 @@
     "_N$normalSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
-      "__id__": 99
+      "__id__": 101
     },
     "toggleGroup": {
-      "__id__": 109
+      "__id__": 111
     },
     "checkMark": {
-      "__id__": 103
+      "__id__": 105
     },
-    "checkEvents": [],
+    "checkEvents": [
+      {
+        "__id__": 112
+      }
+    ],
     "_N$isChecked": true
   },
   {
@@ -3597,10 +3627,19 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 97
+      "__id__": 99
     },
     "_enabled": true,
     "allowSwitchOff": false
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "createRoom",
+    "handler": "onButtonClick",
+    "customEventData": "special_rule_1"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -3618,28 +3657,28 @@
     "_name": "toggle1",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 97
+      "__id__": 99
     },
     "_children": [
-      {
-        "__id__": 112
-      },
       {
         "__id__": 115
       },
       {
         "__id__": 118
+      },
+      {
+        "__id__": 121
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 121
+        "__id__": 124
       }
     ],
     "_prefab": {
-      "__id__": 122
+      "__id__": 126
     },
     "_id": "",
     "_opacity": 255,
@@ -3682,18 +3721,18 @@
     "_name": "Background",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 111
+      "__id__": 114
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 113
+        "__id__": 116
       }
     ],
     "_prefab": {
-      "__id__": 114
+      "__id__": 117
     },
     "_id": "",
     "_opacity": 255,
@@ -3736,7 +3775,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 112
+      "__id__": 115
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -3773,18 +3812,18 @@
     "_name": "checkmark",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 111
+      "__id__": 114
     },
     "_children": [],
     "_tag": -1,
     "_active": false,
     "_components": [
       {
-        "__id__": 116
+        "__id__": 119
       }
     ],
     "_prefab": {
-      "__id__": 117
+      "__id__": 120
     },
     "_id": "",
     "_opacity": 255,
@@ -3827,7 +3866,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 115
+      "__id__": 118
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -3864,18 +3903,18 @@
     "_name": "New Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 111
+      "__id__": 114
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 119
+        "__id__": 122
       }
     ],
     "_prefab": {
-      "__id__": 120
+      "__id__": 123
     },
     "_id": "",
     "_opacity": 255,
@@ -3918,7 +3957,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 118
+      "__id__": 121
     },
     "_enabled": true,
     "_useOriginalSize": false,
@@ -3951,7 +3990,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 111
+      "__id__": 114
     },
     "_enabled": true,
     "transition": 3,
@@ -3993,16 +4032,29 @@
     "_N$normalSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
-      "__id__": 112
+      "__id__": 115
     },
     "toggleGroup": {
-      "__id__": 109
+      "__id__": 111
     },
     "checkMark": {
-      "__id__": 116
+      "__id__": 119
     },
-    "checkEvents": [],
+    "checkEvents": [
+      {
+        "__id__": 125
+      }
+    ],
     "_N$isChecked": false
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "createRoom",
+    "handler": "onButtonClick",
+    "customEventData": "special_rule_2"
   },
   {
     "__type__": "cc.PrefabInfo",

@@ -8,7 +8,8 @@ cc.Class({
 
     },
     onLoad(){
-
+        this.turnCount = "turn_count_1";
+        this.specialRule = "special_rule_1";
     },
     onButtonClick(event ,customData){
         switch (customData){
@@ -18,13 +19,17 @@ cc.Class({
             case 'create':
                 console.log('create');
                 // cc.director.loadScene('gameScene');
-                global.socket.createRoom('create room',function (err,data) {
+                global.socket.createRoom({
+                    turnCount: this.turnCount,
+                    specialRule: this.specialRule
+                },function (err,data) {
                     if (err){
                         console.log('err = ' + err);
                     }else {
                         console.log('create room data  =' + JSON.stringify(data));
                         // cc.director.loadScene('gameScene');
                         global.socket.joinRoom(data.roomID, function (err, resp) {
+                            console.log('resp = ' + JSON.stringify(resp));
                             if (err){
                                 console.log('err = ' + err);
                             }else {
@@ -38,6 +43,15 @@ cc.Class({
                 break;
             default:
                 break;
+        }
+
+
+        console.log('custon data' + customData.indexOf('turn_count'));
+        if (customData.indexOf('turn_count') === 0){
+            this.turnCount = customData;
+        }
+        if (customData.indexOf('special_rule') === 0){
+            this.specialRule = customData;
         }
     }
 

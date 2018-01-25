@@ -6,7 +6,16 @@ cc.Class({
 
     },
     onLoad(){
-        global.socket.init();
+
+        cc.loader.loadResArray(['config/create-room-config'], function (err, res) {
+            if (err){
+                console.log('err = ' + err);
+            }
+           console.log('res = ' + JSON.stringify(res));
+            global.socket.init();
+        });
+
+
     },
     onButtonClick(event, customData){
         if (customData === 'wxlogin'){

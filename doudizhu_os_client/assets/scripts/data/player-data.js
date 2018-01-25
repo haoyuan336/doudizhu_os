@@ -20,6 +20,9 @@ let PlayerData = function () {
         that.avatarUrl = data.avatarUrl;
         that.houseCardCount = data.houseCardCount
     };
+    that.joinRoomSuccess = function (config,data) {
+
+    };
     return that;
 };
 export default PlayerData;
