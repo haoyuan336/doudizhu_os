@@ -61,17 +61,20 @@
       },
       {
         "__id__": 73
+      },
+      {
+        "__id__": 93
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 93
+        "__id__": 96
       }
     ],
     "_prefab": {
-      "__id__": 94
+      "__id__": 97
     },
     "_id": "",
     "_opacity": 255,
@@ -2959,6 +2962,93 @@
     "sync": false
   },
   {
+    "__type__": "cc.Node",
+    "_name": "tipsLabel",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 94
+      }
+    ],
+    "_prefab": {
+      "__id__": 95
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 60
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Label",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 93
+    },
+    "_enabled": true,
+    "_useOriginalSize": false,
+    "_actualFontSize": 60,
+    "_fontSize": 60,
+    "_lineHeight": 60,
+    "_enableWrapText": true,
+    "_N$file": null,
+    "_isSystemFontUsed": true,
+    "_spacingX": 0,
+    "_N$string": "",
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "_N$fontFamily": "Arial",
+    "_N$overflow": 0
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "dd4bdeac-5929-4f61-a738-248d6d794c56"
+    },
+    "fileId": "f4aSBN1wZNK5KrIguTdvfO",
+    "sync": false
+  },
+  {
     "__type__": "2c5ba/KLqtJKJY97HtmJED5",
     "_name": "",
     "_objFlags": 0,
@@ -2985,7 +3075,10 @@
       {
         "__id__": 90
       }
-    ]
+    ],
+    "tipsLabel": {
+      "__id__": 94
+    }
   },
   {
     "__type__": "cc.PrefabInfo",

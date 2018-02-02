@@ -1,10 +1,16 @@
 
+import global from "../../global";
+
 cc.Class({
     extends: cc.Component,
 
     properties: {
         labelList: {
             default: [],
+            type: cc.Label
+        },
+        tipsLabel: {
+            default: null,
             type: cc.Label
         }
     },
@@ -36,6 +42,24 @@ cc.Class({
             this.roomIdString = str;
             if (this.roomIdString.length === 6){
                 console.log('加入房间的操作');
+                global.socket.joinRoom(this.roomIdString,  (err, resp)=> {
+                    // console.log('resp = ' + JSON.stringify(resp));
+
+
+
+                    if (err){
+                        console.log('err = ' + err);
+                        this.tipsLabel.node.opacity = 255;
+                        this.tipsLabel.string = err;
+                        this.roomIdString = '';
+                        this.tipsLabel.node.runAction(cc.fadeOut(2));
+
+                    }else {
+                        global.tianba.playerData.joinRoomSuccess(global.tianba.resourcesManager.resources[defines.gameConfig.createRoomConfig], resp);
+                        cc.director.loadScene('gameScene');
+                    }
+
+                })
             }
         }
 

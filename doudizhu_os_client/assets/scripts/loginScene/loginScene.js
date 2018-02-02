@@ -1,4 +1,5 @@
 import global from './../global'
+// import defines from './../'
 cc.Class({
     extends: cc.Component,
 
@@ -7,11 +8,24 @@ cc.Class({
     },
     onLoad(){
 
-        cc.loader.loadResArray(['config/create-room-config'], function (err, res) {
-            if (err){
-                console.log('err = ' + err);
-            }
-           console.log('res = ' + JSON.stringify(res));
+        // cc.loader.loadResArray(['config/create-room-config'], function (err, res) {
+        //     if (err){
+        //         console.log('err = ' + err);
+        //     }
+        //    console.log('res = ' + JSON.stringify(res));
+        //     global.socket.init();
+        // });
+
+
+        let gameConfig = defines.gameConfig;
+        let resList = [];
+        for (let i in gameConfig){
+            resList.push(gameConfig[i]);
+        }
+
+        global.tianba.resourcesManager.loadList(resList, ()=>{
+            console.log('加载资源完成');
+            console.log('resources = ' + JSON.stringify(global.tianba.resourcesManager.resources));
             global.socket.init();
         });
 

@@ -29,7 +29,8 @@ cc.Class({
                         console.log('create room data  =' + JSON.stringify(data));
                         // cc.director.loadScene('gameScene');
                         global.socket.joinRoom(data.roomID, function (err, resp) {
-                            console.log('resp = ' + JSON.stringify(resp));
+                            // console.log('resp = ' + JSON.stringify(resp));
+                            global.tianba.playerData.joinRoomSuccess(global.tianba.resourcesManager.resources[defines.gameConfig.createRoomConfig], resp);
                             if (err){
                                 console.log('err = ' + err);
                             }else {

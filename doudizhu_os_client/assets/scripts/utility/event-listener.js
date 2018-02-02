@@ -14,7 +14,7 @@ const EventListener = function (obj) {
                 let handler = handlerList[i];
                 let args = [];
                 for (let j = 1 ; j < arguments.length ;  j++){
-                    args.push(arguments[i]);
+                    args.push(arguments[j]);
                 }
                 handler.apply(this, args);
             }

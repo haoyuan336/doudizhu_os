@@ -14,7 +14,9 @@ exports.createRoom = function (data, cb) {
 exports.joinRoom = function (roomID, player, cb) {
     for (let i = 0 ; i < _roomList.length ; i ++){
         let room = _roomList[i];
-        if (room.roomID === roomID){
+        console.log('room id = ' + roomID);
+        console.log('room id = ' + room.roomID);
+        if (room.roomID == roomID){
             room.joinPlayer(player, cb);
             return;
         }

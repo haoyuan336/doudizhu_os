@@ -1,4 +1,4 @@
-import defines from './../defines'
+// import defines from './../defines'
 import EventListener from './../utility/event-listener'
 const SockerController = function () {
     let that = {};
@@ -54,9 +54,17 @@ const SockerController = function () {
     that.joinRoom = function (roomID, cb) {
         request('join_room',{roomID: roomID},cb);
     };
+
+
+    that.notifyGameSceneLoadEnd = function () {
+        notify('gameSceneLoadEnd',{});
+    };
+
     that.onInitPlayerInfo = function (cb) {
       //监听服务器发来的初始化用户信息 //包含 用户昵称，用户id 用户头像，房卡数量等
-
+    };
+    that.onSycnData = function (method) {
+        _event.on('syncData', method);
     };
 
     return that;
